@@ -21,7 +21,7 @@ conda create --name env python=3.10
 pip install -e .
 python download_model_from_hf.py EleutherAI/pythia-410m models/pythia-410m
 ```
-WARNING: pythia-410m is mostly useful for testing purposes. Most of the tuning interventions perform very poorly using this model.
+WARNING: pythia-410m is mostly useful for testing purposes. Most tuning interventions perform poorly with this model.
 
 ## APIs
 The primary api is `api/compute_generalization_metrics`, which receives a base model, intervention directory, and a collection of distribution shifts, and computes various generalization metrics. See `examples/compute_generalization_metrics.sh` for example usage.
