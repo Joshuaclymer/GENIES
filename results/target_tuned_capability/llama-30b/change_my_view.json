@@ -1,0 +1,6 @@
+{
+    "best_intervention": "prompt_tuning",
+    "best_intervention_accuracy": 0.764,
+    "target_reference": "change_my_view",
+    "target": "change_my_view"
+}

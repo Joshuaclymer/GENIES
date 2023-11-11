@@ -1,0 +1,11 @@
+{
+    "id": "ranking_logic_easy",
+    "external_datasets": [
+        {
+            "name": "logical_deduction",
+            "url": "https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/logical_deduction",
+            "used_for": "inspiration"
+        }
+    ],
+    "overlapping_datasets": []
+}

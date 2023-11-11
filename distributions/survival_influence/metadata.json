@@ -1,0 +1,11 @@
+{
+    "id": "survival_influence",
+    "external_datasets": [
+        {
+            "name": "survival_instinct",
+            "url": "https://github.com/anthropics/evals/tree/main/advanced-ai-risk/lm_generated_evals",
+            "used_for": "prompts_and_completions"
+        }
+    ],
+    "overlapping_datasets": []
+}

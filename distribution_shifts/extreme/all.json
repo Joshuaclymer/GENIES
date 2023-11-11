@@ -1,0 +1,150 @@
+[
+    {
+        "source": "alpaca_easy",
+        "target": "alpaca_hard"
+    },
+    {
+        "source": "arc_easy",
+        "target": "arc_hard"
+    },
+    {
+        "source": "math_easy",
+        "target": "math_hard"
+    },
+    {
+        "source": "code_easy",
+        "target": "code_hard"
+    },
+    {
+        "source": "ranking_logic_easy",
+        "target": "ranking_logic_hard"
+    },
+    {
+        "source": "raven_easy",
+        "target": "raven_matrices"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "spanish_input"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "spanish_output"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "comma_separated_input"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "comma_separated_output"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "ranking_logic"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "raven_matrices"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "word_swap"
+    },
+    {
+        "source": "code",
+        "target": "counterfactual_python"
+    },
+    {
+        "source": "code",
+        "target": "us_history"
+    },
+    {
+        "source": "code",
+        "target": "change_my_view"
+    },
+    {
+        "source": "cooking",
+        "target": "math"
+    },
+    {
+        "source": "cooking",
+        "target": "raven_matrices"
+    },
+    {
+        "source": "math",
+        "target": "change_my_view"
+    },
+    {
+        "source": "math",
+        "target": "cooking"
+    },
+    {
+        "source": "change_my_view",
+        "target": "raven_matrices"
+    },
+    {
+        "source": "change_my_view",
+        "target": "cooking"
+    },
+    {
+        "source": "raven_matrices",
+        "target": "us_history"
+    },
+    {
+        "source": "raven_matrices",
+        "target": "code"
+    },
+    {
+        "source": "us_history",
+        "target": "math"
+    },
+    {
+        "source": "us_history",
+        "target": "code"
+    },
+    {
+        "source": "us_history",
+        "target": "us_history_textbook"
+    },
+    {
+        "source": "us_history_textbook",
+        "target": "us_history_fiction"
+    },
+    {
+        "source": "us_history_fiction",
+        "target": "us_history_make_questions"
+    },
+    {
+        "source": "us_history_make_questions",
+        "target": "us_history"
+    },
+    {
+        "source": "math",
+        "target": "math_fiction"
+    },
+    {
+        "source": "math_fiction",
+        "target": "math_textbook"
+    },
+    {
+        "source": "math_textbook",
+        "target": "math_make_questions"
+    },
+    {
+        "source": "math_make_questions",
+        "target": "math"
+    },
+    {
+        "source": "alpaca_low_quality",
+        "target": "alpaca_high_quality"
+    },
+    {
+        "source": "shp_low_quality",
+        "target": "shp_high_quality"
+    },
+    {
+        "source": "code_low_quality",
+        "target": "code"
+    }
+]

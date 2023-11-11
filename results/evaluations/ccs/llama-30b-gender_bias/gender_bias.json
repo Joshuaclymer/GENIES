@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-gender_bias",
+    "distribution_dir": "distributions/gender_bias",
+    "timestamp": "2023-11-03 06:58:22",
+    "eval_accuracy": 0.592,
+    "eval_score": 0.592
+}

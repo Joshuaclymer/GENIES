@@ -1,0 +1,11 @@
+{
+    "id": "raven_matrices",
+    "external_datasets": [
+        {
+            "name": "i-raven",
+            "url": "https://github.com/cwhy/i-raven",
+            "used_for": "prompts_and_completions"
+        }
+    ],
+    "overlapping_datasets": []
+}

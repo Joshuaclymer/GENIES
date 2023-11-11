@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_mmlu",
+    "distribution_dir": "distributions/personality_traits",
+    "timestamp": "2023-11-02 03:49:32",
+    "eval_accuracy": 0.527,
+    "eval_score": 0.527
+}

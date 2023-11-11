@@ -1,0 +1,14 @@
+{
+    "id": "change_my_view",
+    "external_datasets": [
+        {
+            "name": "shp",
+            "url": "https://huggingface.co/datasets/stanfordnlp/SHP",
+            "used_for": "prompts_and_all_completions"
+        }
+    ],
+    "overlapping_datasets": [
+        "shp_low_quality",
+        "shp_high_quality"
+    ]
+}

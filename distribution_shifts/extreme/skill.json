@@ -1,0 +1,14 @@
+[
+    {"source": "code", "target": "us_history"},
+    {"source": "code", "target": "change_my_view"},
+    {"source": "cooking", "target": "math"},
+    {"source": "cooking", "target": "raven_matrices"},
+    {"source": "math", "target": "change_my_view"},
+    {"source": "math", "target": "cooking"},
+    {"source": "change_my_view", "target": "raven_matrices"},
+    {"source": "change_my_view", "target": "cooking"},
+    {"source": "raven_matrices", "target": "us_history"},
+    {"source": "raven_matrices", "target": "code"},
+    {"source": "us_history", "target": "math"},
+    {"source": "us_history", "target": "code"}
+]

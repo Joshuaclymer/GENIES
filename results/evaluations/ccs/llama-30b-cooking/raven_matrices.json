@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-cooking",
+    "distribution_dir": "distributions/raven_matrices",
+    "timestamp": "2023-11-02 23:56:18",
+    "eval_accuracy": 0.538,
+    "eval_score": 0.538
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "source": "us_history",
+        "target": "us_history_textbook"
+    },
+    {
+        "source": "us_history_textbook",
+        "target": "us_history_fiction"
+    },
+    {
+        "source": "us_history_fiction",
+        "target": "us_history_make_questions"
+    },
+    {
+        "source": "us_history_make_questions",
+        "target": "us_history"
+    },
+    {
+        "source": "math",
+        "target": "math_fiction"
+    },
+    {
+        "source": "math_fiction",
+        "target": "math_textbook"
+    },
+    {
+        "source": "math_textbook",
+        "target": "math_make_questions"
+    },
+    {
+        "source": "math_make_questions",
+        "target": "math"
+    }
+]

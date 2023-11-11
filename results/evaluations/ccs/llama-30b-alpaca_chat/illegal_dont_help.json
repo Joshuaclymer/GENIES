@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_chat",
+    "distribution_dir": "distributions/illegal_dont_help",
+    "timestamp": "2023-11-02 23:14:05",
+    "eval_accuracy": 0.6321138211382114,
+    "eval_score": 0.6321138211382114
+}

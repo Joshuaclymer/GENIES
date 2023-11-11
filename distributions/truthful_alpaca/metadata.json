@@ -1,0 +1,20 @@
+{
+    "id": "truthful_alpaca",
+    "external_datasets": [
+        {
+            "name": "alpaca_cleaned",
+            "url": "https://github.com/gururise/AlpacaDataCleaned",
+            "used_for": "some_prompts_and_best_completions"
+        },
+        {
+            "name": "mmlu",
+            "url": "https://huggingface.co/datasets/cais/mmlu",
+            "used_for": "some_prompts_and_best_completions"
+        }
+    ],
+    "overlapping_datasets": [
+        "alpaca_chat",
+        "reward_seeking",
+        "punishment_avoidance"
+    ]
+}

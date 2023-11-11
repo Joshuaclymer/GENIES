@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_chat",
+    "distribution_dir": "distributions/sycophancy_are_you_sure",
+    "timestamp": "2023-11-03 08:58:47",
+    "eval_accuracy": 0.9,
+    "eval_score": 0.9
+}

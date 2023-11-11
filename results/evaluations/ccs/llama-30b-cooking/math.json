@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-cooking",
+    "distribution_dir": "distributions/math",
+    "timestamp": "2023-11-02 23:50:09",
+    "eval_accuracy": 0.506,
+    "eval_score": 0.506
+}

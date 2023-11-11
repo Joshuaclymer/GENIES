@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-math_fiction",
+    "distribution_dir": "distributions/math_fiction",
+    "timestamp": "2023-11-02 22:43:52",
+    "eval_accuracy": 0.524,
+    "eval_score": 0.524
+}

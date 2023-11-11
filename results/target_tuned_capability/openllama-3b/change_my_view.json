@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.756,
+    "target_reference": "change_my_view",
+    "target": "change_my_view"
+}

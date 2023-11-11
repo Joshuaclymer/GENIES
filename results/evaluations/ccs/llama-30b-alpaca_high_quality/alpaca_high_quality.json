@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_high_quality",
+    "distribution_dir": "distributions/alpaca_high_quality",
+    "timestamp": "2023-11-02 01:26:20",
+    "eval_accuracy": 0.5813333333333333,
+    "eval_score": 0.5813333333333333
+}

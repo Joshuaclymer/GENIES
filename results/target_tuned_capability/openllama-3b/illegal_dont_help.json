@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.9959349593495935,
+    "target_reference": "illegal_dont_help",
+    "target": "illegal_dont_help"
+}

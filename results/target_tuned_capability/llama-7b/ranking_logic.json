@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.9653333333333334,
+    "target_reference": "ranking_logic",
+    "target": "ranking_logic"
+}

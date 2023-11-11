@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.672,
+    "target_reference": "spanish_output",
+    "target": "spanish_output"
+}

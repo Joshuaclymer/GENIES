@@ -1,0 +1,2252 @@
+[
+    {
+        "instruction": "How long does it take 1 electrician to fix 1 appliance, if it takes 4 electricians 4 days to fix 4 appliances?\n1",
+        "responses": {
+            "4 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 electrician to fix 1 appliance, if it takes 4 electricians 4 days to fix 4 appliances?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 chefs to prepare 3 meals, if it takes 6 chefs 6 minutes to prepare 6 meals?",
+        "responses": {
+            "6 minutes": 1.0,
+            "3 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 chefs to prepare 3 meals, if it takes 6 chefs 6 minutes to prepare 6 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 doctors to diagnose 4 patients, if it takes 10 doctors 10 minutes to diagnose 10 patients?\n1",
+        "responses": {
+            "10 minutes\n1": 1.0,
+            "4 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 doctors to diagnose 4 patients, if it takes 10 doctors 10 minutes to diagnose 10 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 chefs to cook 2 meals, if it takes 4 chefs 4 minutes to cook 4 meals?",
+        "responses": {
+            "4 minutes": 1.0,
+            "2 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 chefs to cook 2 meals, if it takes 4 chefs 4 minutes to cook 4 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 9 engineers to design 9 buildings, if it takes 18 engineers 18 months to design 18 buildings?",
+        "responses": {
+            "18 months": 1.0,
+            "9 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 9 engineers to design 9 buildings, if it takes 18 engineers 18 months to design 18 buildings?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 security guards to patrol 5 buildings, if it takes 15 security guards 15 hours to patrol 15 buildings?\n1",
+        "responses": {
+            "15 hours\n1": 1.0,
+            "5 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 security guards to patrol 5 buildings, if it takes 15 security guards 15 hours to patrol 15 buildings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How many people are needed to dig 10 holes in 10 minutes, if it takes 5 people 5 minutes to dig 5 holes?\n1",
+        "responses": {
+            "5 people\n1": 1.0,
+            "10 people\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow many people are needed to dig 10 holes in 10 minutes, if it takes 5 people 5 minutes to dig 5 holes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 teacher to grade 1 exam, if it takes 2 teachers 2 hours to grade 2 exams?",
+        "responses": {
+            "2 hours": 1.0,
+            "1 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 teacher to grade 1 exam, if it takes 2 teachers 2 hours to grade 2 exams?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 construction workers to build 10 houses, if it takes 5 construction workers 5 weeks to build 5 houses?",
+        "responses": {
+            "5 weeks": 1.0,
+            "10 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 construction workers to build 10 houses, if it takes 5 construction workers 5 weeks to build 5 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 bakers to bake 5 cakes, if it takes 10 bakers 10 minutes to bake 10 cakes?",
+        "responses": {
+            "10 minutes": 1.0,
+            "5 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 bakers to bake 5 cakes, if it takes 10 bakers 10 minutes to bake 10 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 builders to construct 5 houses, if it takes 10 builders 10 months to construct 10 houses?\n1",
+        "responses": {
+            "10 months\n1": 1.0,
+            "5 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 builders to construct 5 houses, if it takes 10 builders 10 months to construct 10 houses?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 painter to paint 1 room, if it takes 15 painters 15 days to paint 15 rooms?",
+        "responses": {
+            "15 days": 1.0,
+            "1 day": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 painter to paint 1 room, if it takes 15 painters 15 days to paint 15 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 musicians to compose 3 songs, if it takes 8 musicians 8 weeks to compose 8 songs?",
+        "responses": {
+            "8 weeks": 1.0,
+            "3 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 musicians to compose 3 songs, if it takes 8 musicians 8 weeks to compose 8 songs?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 athletes to run 2 miles, if it takes 6 athletes 6 minutes to run 6 miles?\n1",
+        "responses": {
+            "6 minutes\n1": 1.0,
+            "2 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 athletes to run 2 miles, if it takes 6 athletes 6 minutes to run 6 miles?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 teachers to grade 6 tests, if it takes 3 teachers 3 hours to grade 3 tests?",
+        "responses": {
+            "3 hours": 1.0,
+            "6 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 teachers to grade 6 tests, if it takes 3 teachers 3 hours to grade 3 tests?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 mechanics to fix 2 cars, if it takes 8 mechanics 8 hours to fix 8 cars?\n1",
+        "responses": {
+            "8 hours\n1": 1.0,
+            "2 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 mechanics to fix 2 cars, if it takes 8 mechanics 8 hours to fix 8 cars?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 doctor to perform 1 surgery, if it takes 10 doctors 10 hours to perform 10 surgeries?\n1",
+        "responses": {
+            "10 hours\n1": 1.0,
+            "1 hour\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 doctor to perform 1 surgery, if it takes 10 doctors 10 hours to perform 10 surgeries?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 doctor to perform 1 surgery, if it takes 17 doctors 17 hours to perform 17 surgeries?\n1",
+        "responses": {
+            "17 hours\n1": 1.0,
+            "1 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 doctor to perform 1 surgery, if it takes 17 doctors 17 hours to perform 17 surgeries?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 drivers to deliver 2 packages, if it takes 4 drivers 4 days to deliver 4 packages?\n1",
+        "responses": {
+            "4 days\n1": 1.0,
+            "2 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 drivers to deliver 2 packages, if it takes 4 drivers 4 days to deliver 4 packages?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 gardeners to mow 2 lawns, if it takes 4 gardeners 4 hours to mow 4 lawns?\n1",
+        "responses": {
+            "4 hours\n1": 1.0,
+            "2 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 gardeners to mow 2 lawns, if it takes 4 gardeners 4 hours to mow 4 lawns?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 workers to build 3 tables, if it takes 6 workers 6 hours to build 6 tables?",
+        "responses": {
+            "6 hours": 1.0,
+            "3 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 workers to build 3 tables, if it takes 6 workers 6 hours to build 6 tables?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 runner to complete 1 lap, if it takes 8 runners 8 seconds to complete 8 laps?",
+        "responses": {
+            "8 seconds": 1.0,
+            "1 second": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 runner to complete 1 lap, if it takes 8 runners 8 seconds to complete 8 laps?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 authors to write 6 books, if it takes 3 authors 3 weeks to write 3 books?",
+        "responses": {
+            "3 weeks": 1.0,
+            "6 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 authors to write 6 books, if it takes 3 authors 3 weeks to write 3 books?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 students to solve 8 problems, if it takes 4 students 4 minutes to solve 4 problems?",
+        "responses": {
+            "4 minutes": 1.0,
+            "8 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 students to solve 8 problems, if it takes 4 students 4 minutes to solve 4 problems?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 students to complete 10 assignments, if it takes 5 students 5 hours to complete 5 assignments?\n1",
+        "responses": {
+            "5 hours\n1": 1.0,
+            "10 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 students to complete 10 assignments, if it takes 5 students 5 hours to complete 5 assignments?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 actor to rehearse 1 scene, if it takes 4 actors 4 days to rehearse 4 scenes?\n1",
+        "responses": {
+            "4 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 actor to rehearse 1 scene, if it takes 4 actors 4 days to rehearse 4 scenes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 chefs to prepare 8 meals, if it takes 16 chefs 16 minutes to prepare 16 meals?",
+        "responses": {
+            "16 minutes": 1.0,
+            "8 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 chefs to prepare 8 meals, if it takes 16 chefs 16 minutes to prepare 16 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 12 waiters to serve 12 tables, if it takes 6 waiters 6 minutes to serve 6 tables?\n1",
+        "responses": {
+            "6 minutes\n1": 1.0,
+            "3 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 12 waiters to serve 12 tables, if it takes 6 waiters 6 minutes to serve 6 tables?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 bakers to bake 3 cakes, if it takes 6 bakers 6 hours to bake 6 cakes?",
+        "responses": {
+            "6 hours": 1.0,
+            "3 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 bakers to bake 3 cakes, if it takes 6 bakers 6 hours to bake 6 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 bakers to bake 2 cakes, if it takes 4 bakers 4 hours to bake 4 cakes?\n1",
+        "responses": {
+            "4 hours\n1": 1.0,
+            "2 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 bakers to bake 2 cakes, if it takes 4 bakers 4 hours to bake 4 cakes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 baristas to make 2 cups of coffee, if it takes 6 baristas 6 hours to make 6 cups of coffee?\n1",
+        "responses": {
+            "6 hours\n1": 1.0,
+            "2 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 baristas to make 2 cups of coffee, if it takes 6 baristas 6 hours to make 6 cups of coffee?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 12 teachers to grade 12 papers, if it takes 4 teachers 4 days to grade 4 papers?\n1",
+        "responses": {
+            "4 days\n1": 1.0,
+            "12 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 12 teachers to grade 12 papers, if it takes 4 teachers 4 days to grade 4 papers?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 musicians to record 5 songs, if it takes 10 musicians 10 days to record 10 songs?",
+        "responses": {
+            "10 days": 1.0,
+            "5 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 musicians to record 5 songs, if it takes 10 musicians 10 days to record 10 songs?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 mechanics to repair 6 cars, if it takes 12 mechanics 12 days to repair 12 cars?",
+        "responses": {
+            "12 days": 1.0,
+            "6 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 mechanics to repair 6 cars, if it takes 12 mechanics 12 days to repair 12 cars?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 police officers to solve 3 cases, if it takes 9 police officers 9 weeks to solve 9 cases?\n1",
+        "responses": {
+            "9 weeks\n1": 1.0,
+            "3 weeks\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 police officers to solve 3 cases, if it takes 9 police officers 9 weeks to solve 9 cases?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 9 firefighters to extinguish 9 fires, if it takes 18 firefighters 18 minutes to extinguish 18 fires?",
+        "responses": {
+            "18 minutes": 1.0,
+            "9 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 9 firefighters to extinguish 9 fires, if it takes 18 firefighters 18 minutes to extinguish 18 fires?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 athlete to run 1 mile, if it takes 8 athletes 8 minutes to run 8 miles?",
+        "responses": {
+            "8 minutes": 1.0,
+            "1 minute": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 athlete to run 1 mile, if it takes 8 athletes 8 minutes to run 8 miles?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 painters to paint 6 rooms, if it takes 8 painters 8 hours to paint 8 rooms?",
+        "responses": {
+            "8 hours": 1.0,
+            "6 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 painters to paint 6 rooms, if it takes 8 painters 8 hours to paint 8 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 writer to write 1 book, if it takes 9 writers 9 months to write 9 books?",
+        "responses": {
+            "9 months": 1.0,
+            "1 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 writer to write 1 book, if it takes 9 writers 9 months to write 9 books?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 bakers to bake 3 cakes, if it takes 4 bakers 6 hours to bake 6 cakes?",
+        "responses": {
+            "6 hours": 1.0,
+            "1 hour": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 bakers to bake 3 cakes, if it takes 4 bakers 6 hours to bake 6 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 9 locksmiths to unlock 9 doors, if it takes 18 locksmiths 18 minutes to unlock 18 doors?\n1",
+        "responses": {
+            "18 minutes\n1": 1.0,
+            "9 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 9 locksmiths to unlock 9 doors, if it takes 18 locksmiths 18 minutes to unlock 18 doors?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 firefighters to extinguish 5 fires, if it takes 10 firefighters 10 hours to extinguish 10 fires?\n1",
+        "responses": {
+            "10 hours\n1": 1.0,
+            "5 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 firefighters to extinguish 5 fires, if it takes 10 firefighters 10 hours to extinguish 10 fires?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 engineers to design 4 buildings, if it takes 8 engineers 8 months to design 8 buildings?\n1",
+        "responses": {
+            "8 months\n1": 1.0,
+            "4 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 engineers to design 4 buildings, if it takes 8 engineers 8 months to design 8 buildings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 chefs to prepare 6 dishes, if it takes 9 chefs 9 hours to prepare 9 dishes?",
+        "responses": {
+            "9 hours": 1.0,
+            "6 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 chefs to prepare 6 dishes, if it takes 9 chefs 9 hours to prepare 9 dishes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 drivers to deliver 7 packages, if it takes 14 drivers 14 hours to deliver 14 packages?\n1",
+        "responses": {
+            "14 hours\n1": 1.0,
+            "7 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 drivers to deliver 7 packages, if it takes 14 drivers 14 hours to deliver 14 packages?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 carpenters to build 2 tables, if it takes 4 carpenters 4 days to build 4 tables?\n1",
+        "responses": {
+            "4 days\n1": 1.0,
+            "2 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 carpenters to build 2 tables, if it takes 4 carpenters 4 days to build 4 tables?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 driver to deliver 1 package, if it takes 3 drivers 3 hours to deliver 3 packages?",
+        "responses": {
+            "3 hours": 1.0,
+            "1 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 driver to deliver 1 package, if it takes 3 drivers 3 hours to deliver 3 packages?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 players to play 4 matches, if it takes 8 players 8 hours to play 8 matches?",
+        "responses": {
+            "8 hours": 1.0,
+            "4 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 players to play 4 matches, if it takes 8 players 8 hours to play 8 matches?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 electricians to wire 2 houses, if it takes 6 electricians 6 days to wire 6 houses?",
+        "responses": {
+            "6 days": 1.0,
+            "2 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 electricians to wire 2 houses, if it takes 6 electricians 6 days to wire 6 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 students to complete 10 assignments, if it takes 8 students 8 days to complete 8 assignments?",
+        "responses": {
+            "8 days": 1.0,
+            "10 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 students to complete 10 assignments, if it takes 8 students 8 days to complete 8 assignments?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 writers to write 2 books, if it takes 6 writers 6 months to write 6 books?\n1",
+        "responses": {
+            "6 months\n1": 1.0,
+            "2 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 writers to write 2 books, if it takes 6 writers 6 months to write 6 books?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 painter to paint 1 wall, if it takes 3 painters 3 hours to paint 3 walls?",
+        "responses": {
+            "3 hours": 1.0,
+            "1 hour": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 painter to paint 1 wall, if it takes 3 painters 3 hours to paint 3 walls?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 athletes to complete 4 laps, if it takes 8 athletes 6 minutes to complete 6 laps?\n1",
+        "responses": {
+            "6 minutes\n1": 1.0,
+            "4 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 athletes to complete 4 laps, if it takes 8 athletes 6 minutes to complete 6 laps?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 mechanics to repair 4 cars, if it takes 8 mechanics 8 hours to repair 8 cars?\n1",
+        "responses": {
+            "8 hours\n1": 1.0,
+            "4 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 mechanics to repair 4 cars, if it takes 8 mechanics 8 hours to repair 8 cars?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 scientists to conduct 8 experiments, if it takes 16 scientists 16 hours to conduct 16 experiments?\n1",
+        "responses": {
+            "16 hours\n1": 1.0,
+            "8 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 scientists to conduct 8 experiments, if it takes 16 scientists 16 hours to conduct 16 experiments?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 doctor to diagnose 1 patient, if it takes 10 doctors 10 days to diagnose 10 patients?\n1",
+        "responses": {
+            "10 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 doctor to diagnose 1 patient, if it takes 10 doctors 10 days to diagnose 10 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 researchers to conduct 8 experiments, if it takes 16 researchers 16 days to conduct 16 experiments?\n1",
+        "responses": {
+            "16 days\n1": 1.0,
+            "8 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 researchers to conduct 8 experiments, if it takes 16 researchers 16 days to conduct 16 experiments?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 engineers to design 3 buildings, if it takes 9 engineers 9 weeks to design 9 buildings?\n1",
+        "responses": {
+            "9 weeks\n1": 1.0,
+            "3 weeks\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 engineers to design 3 buildings, if it takes 9 engineers 9 weeks to design 9 buildings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "What is 3 multiplied by 4?",
+        "responses": {
+            "12": 1.0,
+            "10": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nWhat is 3 multiplied by 4?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 teachers to grade 7 papers, if it takes 14 teachers 14 minutes to grade 14 papers?",
+        "responses": {
+            "14 minutes": 1.0,
+            "7 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 teachers to grade 7 papers, if it takes 14 teachers 14 minutes to grade 14 papers?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 doctors to examine 3 patients, if it takes 6 doctors 6 minutes to examine 6 patients?\n1",
+        "responses": {
+            "6 minutes\n1": 1.0,
+            "3 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 doctors to examine 3 patients, if it takes 6 doctors 6 minutes to examine 6 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 firefighters to extinguish 4 fires, if it takes 16 firefighters 16 minutes to extinguish 16 fires?\n1",
+        "responses": {
+            "16 minutes\n1": 1.0,
+            "4 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 firefighters to extinguish 4 fires, if it takes 16 firefighters 16 minutes to extinguish 16 fires?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 teachers to grade 2 tests, if it takes 6 teachers 6 hours to grade 6 tests?\n1",
+        "responses": {
+            "6 hours\n1": 1.0,
+            "2 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 teachers to grade 2 tests, if it takes 6 teachers 6 hours to grade 6 tests?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 cleaners to clean 3 rooms, if it takes 9 cleaners 9 hours to clean 9 rooms?\n1",
+        "responses": {
+            "9 hours\n1": 1.0,
+            "3 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 cleaners to clean 3 rooms, if it takes 9 cleaners 9 hours to clean 9 rooms?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 driver to deliver 1 package, if it takes 5 drivers 5 days to deliver 5 packages?\n1",
+        "responses": {
+            "5 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 driver to deliver 1 package, if it takes 5 drivers 5 days to deliver 5 packages?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 workers to build 6 houses, if it takes 8 workers 8 weeks to build 8 houses?",
+        "responses": {
+            "8 weeks": 1.0,
+            "6 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 workers to build 6 houses, if it takes 8 workers 8 weeks to build 8 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 athletes to run 6 kilometers, if it takes 3 athletes 3 minutes to run 3 kilometers?",
+        "responses": {
+            "3 minutes": 1.0,
+            "6 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 athletes to run 6 kilometers, if it takes 3 athletes 3 minutes to run 3 kilometers?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 librarians to organize 5 shelves, if it takes 10 librarians 10 hours to organize 10 shelves?\n1",
+        "responses": {
+            "10 hours\n1": 1.0,
+            "5 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 librarians to organize 5 shelves, if it takes 10 librarians 10 hours to organize 10 shelves?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 programmers to code 6 websites, if it takes 18 programmers 18 weeks to code 18 websites?\n1",
+        "responses": {
+            "18 weeks\n1": 1.0,
+            "6 weeks\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 programmers to code 6 websites, if it takes 18 programmers 18 weeks to code 18 websites?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 chef to prepare 1 meal, if it takes 6 chefs 6 hours to prepare 6 meals?\n1",
+        "responses": {
+            "6 hours\n1": 1.0,
+            "1 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 chef to prepare 1 meal, if it takes 6 chefs 6 hours to prepare 6 meals?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 mechanics to fix 3 cars, if it takes 1 mechanic 1 hour to fix 1 car?\n1",
+        "responses": {
+            "1 hour\n1": 1.0,
+            "3 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 mechanics to fix 3 cars, if it takes 1 mechanic 1 hour to fix 1 car?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 gardeners to mow 6 lawns, if it takes 18 gardeners 18 hours to mow 18 lawns?\n1",
+        "responses": {
+            "18 hours\n1": 1.0,
+            "6 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 gardeners to mow 6 lawns, if it takes 18 gardeners 18 hours to mow 18 lawns?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 driver to deliver 1 package, if it takes 2 drivers 2 days to deliver 2 packages?",
+        "responses": {
+            "2 days": 1.0,
+            "1 day": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 driver to deliver 1 package, if it takes 2 drivers 2 days to deliver 2 packages?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 programmers to write 2 programs, if it takes 4 programmers 4 days to write 4 programs?\n1",
+        "responses": {
+            "4 days\n1": 1.0,
+            "2 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 programmers to write 2 programs, if it takes 4 programmers 4 days to write 4 programs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 tutors to tutor 2 students, if it takes 10 tutors 10 hours to tutor 10 students?\n1",
+        "responses": {
+            "10 hours\n1": 1.0,
+            "1 hour\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 tutors to tutor 2 students, if it takes 10 tutors 10 hours to tutor 10 students?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 teacher to grade 1 essay, if it takes 12 teachers 12 minutes to grade 12 essays?",
+        "responses": {
+            "12 minutes": 1.0,
+            "1 minute": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 teacher to grade 1 essay, if it takes 12 teachers 12 minutes to grade 12 essays?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 athletes to run 4 miles, if it takes 2 athletes 2 minutes to run 2 miles?\n1",
+        "responses": {
+            "2 minutes\n1": 1.0,
+            "4 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 athletes to run 4 miles, if it takes 2 athletes 2 minutes to run 2 miles?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 gardeners to plant 2 gardens, if it takes 10 gardeners 10 hours to plant 10 gardens?",
+        "responses": {
+            "10 hours": 1.0,
+            "1 hour": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 gardeners to plant 2 gardens, if it takes 10 gardeners 10 hours to plant 10 gardens?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 plumbers to fix 4 pipes, if it takes 8 plumbers 8 days to fix 8 pipes?",
+        "responses": {
+            "8 days": 1.0,
+            "4 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 plumbers to fix 4 pipes, if it takes 8 plumbers 8 days to fix 8 pipes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 writer to write 1 book, if it takes 10 writers 10 months to write 10 books?\n1",
+        "responses": {
+            "10 months\n1": 1.0,
+            "1 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 writer to write 1 book, if it takes 10 writers 10 months to write 10 books?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 gardeners to plant 6 trees, if it takes 2 gardeners 2 hours to plant 2 trees?",
+        "responses": {
+            "2 hours": 1.0,
+            "6 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 gardeners to plant 6 trees, if it takes 2 gardeners 2 hours to plant 2 trees?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 scientist to conduct 1 experiment, if it takes 5 scientists 5 days to conduct 5 experiments?\n1",
+        "responses": {
+            "5 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 scientist to conduct 1 experiment, if it takes 5 scientists 5 days to conduct 5 experiments?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 painters to paint 6 rooms, if it takes 3 painters 3 days to paint 3 rooms?",
+        "responses": {
+            "3 days": 1.0,
+            "2 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 painters to paint 6 rooms, if it takes 3 painters 3 days to paint 3 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 programmers to write 2 lines of code, if it takes 4 programmers 4 hours to write 4 lines of code?",
+        "responses": {
+            "4 hours": 1.0,
+            "2 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 programmers to write 2 lines of code, if it takes 4 programmers 4 hours to write 4 lines of code?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 students to solve 6 math problems, if it takes 18 students 18 minutes to solve 18 math problems?",
+        "responses": {
+            "18 minutes": 1.0,
+            "6 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 students to solve 6 math problems, if it takes 18 students 18 minutes to solve 18 math problems?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 workers to build 3 houses, if it takes 10 workers 10 weeks to build 10 houses?",
+        "responses": {
+            "10 weeks": 1.0,
+            "3 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 workers to build 3 houses, if it takes 10 workers 10 weeks to build 10 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 painters to paint 8 houses, if it takes 16 painters 16 days to paint 16 houses?",
+        "responses": {
+            "16 days": 1.0,
+            "8 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 painters to paint 8 houses, if it takes 16 painters 16 days to paint 16 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 plumbers to fix 3 pipes, if it takes 9 plumbers 9 days to fix 9 pipes?",
+        "responses": {
+            "9 days": 1.0,
+            "3 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 plumbers to fix 3 pipes, if it takes 9 plumbers 9 days to fix 9 pipes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 writer to write 1 chapter, if it takes 4 writers 4 months to write 4 chapters?",
+        "responses": {
+            "4 months": 1.0,
+            "1 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 writer to write 1 chapter, if it takes 4 writers 4 months to write 4 chapters?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 builders to build 5 houses, if it takes 8 builders 8 months to build 8 houses?",
+        "responses": {
+            "8 months": 1.0,
+            "5 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 builders to build 5 houses, if it takes 8 builders 8 months to build 8 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 doctor to diagnose 1 patient, if it takes 10 doctors 10 minutes to diagnose 10 patients?\n1",
+        "responses": {
+            "10 minutes\n1": 1.0,
+            "1 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 doctor to diagnose 1 patient, if it takes 10 doctors 10 minutes to diagnose 10 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 bakers to bake 2 cakes, if it takes 4 bakers 4 hours to bake 4 cakes?",
+        "responses": {
+            "4 hours": 1.0,
+            "2 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 bakers to bake 2 cakes, if it takes 4 bakers 4 hours to bake 4 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 chefs to cook 3 courses, if it takes 9 chefs 9 hours to cook 9 courses?",
+        "responses": {
+            "9 hours": 1.0,
+            "3 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 chefs to cook 3 courses, if it takes 9 chefs 9 hours to cook 9 courses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 chefs to cook 5 dishes, if it takes 10 chefs 10 hours to cook 10 dishes?",
+        "responses": {
+            "10 hours": 1.0,
+            "5 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 chefs to cook 5 dishes, if it takes 10 chefs 10 hours to cook 10 dishes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 painters to paint 10 houses, if it takes 5 painters 5 days to paint 5 houses?",
+        "responses": {
+            "5 days": 1.0,
+            "10 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 painters to paint 10 houses, if it takes 5 painters 5 days to paint 5 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 photographers to take 3 photographs, if it takes 6 photographers 6 hours to take 6 photographs?\n1",
+        "responses": {
+            "6 hours\n1": 1.0,
+            "3 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 photographers to take 3 photographs, if it takes 6 photographers 6 hours to take 6 photographs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 musicians to perform 7 songs, if it takes 14 musicians 14 minutes to perform 14 songs?\n1",
+        "responses": {
+            "14 minutes\n1": 1.0,
+            "7 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 musicians to perform 7 songs, if it takes 14 musicians 14 minutes to perform 14 songs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 doctor to examine 1 patient, if it takes 9 doctors 9 days to examine 9 patients?\n1",
+        "responses": {
+            "9 days\n1": 1.0,
+            "1 day\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 doctor to examine 1 patient, if it takes 9 doctors 9 days to examine 9 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 chefs to prepare 6 dishes, if it takes 2 chefs 2 hours to prepare 2 dishes?\n1",
+        "responses": {
+            "2 hours\n1": 1.0,
+            "6 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 chefs to prepare 6 dishes, if it takes 2 chefs 2 hours to prepare 2 dishes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 people to paint 2 rooms, if it takes 5 people 5 hours to paint 5 rooms?",
+        "responses": {
+            "5 hours": 1.0,
+            "2 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 people to paint 2 rooms, if it takes 5 people 5 hours to paint 5 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 employees to assemble 5 products, if it takes 10 employees 10 days to assemble 10 products?\n1",
+        "responses": {
+            "10 days\n1": 1.0,
+            "5 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 employees to assemble 5 products, if it takes 10 employees 10 days to assemble 10 products?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 workers to build 7 houses, if it takes 14 workers 14 weeks to build 14 houses?",
+        "responses": {
+            "14 weeks": 1.0,
+            "7 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 workers to build 7 houses, if it takes 14 workers 14 weeks to build 14 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 athletes to complete 4 laps, if it takes 12 athletes 12 minutes to complete 12 laps?",
+        "responses": {
+            "12 minutes": 1.0,
+            "4 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 athletes to complete 4 laps, if it takes 12 athletes 12 minutes to complete 12 laps?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 baristas to make 3 cups of coffee, if it takes 9 baristas 9 minutes to make 9 cups of coffee?",
+        "responses": {
+            "9 minutes": 1.0,
+            "3 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 baristas to make 3 cups of coffee, if it takes 9 baristas 9 minutes to make 9 cups of coffee?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How many legs does a spider have?\n1",
+        "responses": {
+            "8\n1": 1.0,
+            "6\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow many legs does a spider have?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 teacher to grade 1 test, if it takes 3 teachers 3 days to grade 3 tests?",
+        "responses": {
+            "3 days": 1.0,
+            "1 day": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 teacher to grade 1 test, if it takes 3 teachers 3 days to grade 3 tests?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 gardeners to mow 8 lawns, if it takes 2 gardeners 2 hours to mow 2 lawns?",
+        "responses": {
+            "2 hours": 1.0,
+            "8 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 gardeners to mow 8 lawns, if it takes 2 gardeners 2 hours to mow 2 lawns?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 students to complete 10 worksheets, if it takes 8 students 8 minutes to complete 8 worksheets?",
+        "responses": {
+            "8 minutes": 1.0,
+            "10 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 students to complete 10 worksheets, if it takes 8 students 8 minutes to complete 8 worksheets?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 mathematician to solve 1 equation, if it takes 11 mathematicians 11 minutes to solve 11 equations?\n1",
+        "responses": {
+            "11 minutes\n1": 1.0,
+            "1 minute\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 mathematician to solve 1 equation, if it takes 11 mathematicians 11 minutes to solve 11 equations?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 bakers to bake 8 cakes, if it takes 4 bakers 4 hours to bake 4 cakes?",
+        "responses": {
+            "4 hours": 1.0,
+            "8 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 bakers to bake 8 cakes, if it takes 4 bakers 4 hours to bake 4 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 100 students to complete 100 assignments, if it takes 50 students 50 minutes to complete 50 assignments?",
+        "responses": {
+            "50 minutes": 1.0,
+            "100 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 100 students to complete 100 assignments, if it takes 50 students 50 minutes to complete 50 assignments?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 musicians to record 8 songs, if it takes 16 musicians 16 hours to record 16 songs?\n1",
+        "responses": {
+            "16 hours\n1": 1.0,
+            "8 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 musicians to record 8 songs, if it takes 16 musicians 16 hours to record 16 songs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "What is the tallest mountain in the world?\n1",
+        "responses": {
+            "Mount Everest\n1": 1.0,
+            "K2\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nWhat is the tallest mountain in the world?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 chef to cook 1 meal, if it takes 10 chefs 10 minutes to cook 10 meals?",
+        "responses": {
+            "10 minutes": 1.0,
+            "1 minute": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 chef to cook 1 meal, if it takes 10 chefs 10 minutes to cook 10 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 chefs to prepare 2 dishes, if it takes 6 chefs 6 hours to prepare 6 dishes?\n1",
+        "responses": {
+            "6 hours\n1": 1.0,
+            "2 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 chefs to prepare 2 dishes, if it takes 6 chefs 6 hours to prepare 6 dishes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 astronauts to complete 3 spacewalks, if it takes 9 astronauts 9 hours to complete 9 spacewalks?\n1",
+        "responses": {
+            "9 hours\n1": 1.0,
+            "3 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 astronauts to complete 3 spacewalks, if it takes 9 astronauts 9 hours to complete 9 spacewalks?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "If a chef can bake a cake in 30 minutes, how long would it take 2 chefs to bake 2 cakes?",
+        "responses": {
+            "30 minutes": 1.0,
+            "60 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nIf a chef can bake a cake in 30 minutes, how long would it take 2 chefs to bake 2 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 12 chefs to cook 6 dishes, if it takes 6 chefs 3 hours to cook 2 dishes?",
+        "responses": {
+            "3 hours": 1.0,
+            "1 hour": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 12 chefs to cook 6 dishes, if it takes 6 chefs 3 hours to cook 2 dishes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 electricians to wire 4 houses, if it takes 8 electricians 8 days to wire 8 houses?\n1",
+        "responses": {
+            "8 days\n1": 1.0,
+            "4 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 electricians to wire 4 houses, if it takes 8 electricians 8 days to wire 8 houses?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 doctors to perform 5 surgeries, if it takes 10 doctors 10 hours to perform 10 surgeries?\n1",
+        "responses": {
+            "10 hours\n1": 1.0,
+            "5 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 doctors to perform 5 surgeries, if it takes 10 doctors 10 hours to perform 10 surgeries?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 engineers to build 2 bridges, if it takes 8 engineers 8 months to build 8 bridges?\n1",
+        "responses": {
+            "8 months\n1": 1.0,
+            "2 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 engineers to build 2 bridges, if it takes 8 engineers 8 months to build 8 bridges?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 teachers to grade 3 tests, if it takes 6 teachers 6 days to grade 6 tests?",
+        "responses": {
+            "6 days": 1.0,
+            "3 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 teachers to grade 3 tests, if it takes 6 teachers 6 days to grade 6 tests?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 drivers to deliver 5 packages, if it takes 10 drivers 10 hours to deliver 10 packages?",
+        "responses": {
+            "10 hours": 1.0,
+            "5 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 drivers to deliver 5 packages, if it takes 10 drivers 10 hours to deliver 10 packages?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 gardeners to maintain 3 gardens, if it takes 6 gardeners 6 days to maintain 6 gardens?\n1",
+        "responses": {
+            "6 days\n1": 1.0,
+            "3 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 gardeners to maintain 3 gardens, if it takes 6 gardeners 6 days to maintain 6 gardens?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 gardeners to plant 6 trees, if it takes 9 gardeners 9 minutes to plant 9 trees?",
+        "responses": {
+            "9 minutes": 1.0,
+            "6 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 gardeners to plant 6 trees, if it takes 9 gardeners 9 minutes to plant 9 trees?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 workers to complete 10 tasks, if it takes 5 workers 5 hours to complete 5 tasks?",
+        "responses": {
+            "5 hours": 1.0,
+            "10 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 workers to complete 10 tasks, if it takes 5 workers 5 hours to complete 5 tasks?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 builders to build 2 houses, if it takes 4 builders 4 weeks to build 4 houses?",
+        "responses": {
+            "4 weeks": 1.0,
+            "2 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 builders to build 2 houses, if it takes 4 builders 4 weeks to build 4 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 9 teachers to grade 9 papers, if it takes 18 teachers 18 hours to grade 18 papers?\n1",
+        "responses": {
+            "18 hours\n1": 1.0,
+            "9 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 9 teachers to grade 9 papers, if it takes 18 teachers 18 hours to grade 18 papers?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 chef to prepare 1 dish, if it takes 2 chefs 2 hours to prepare 2 dishes?",
+        "responses": {
+            "2 hours": 1.0,
+            "1 hour": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 chef to prepare 1 dish, if it takes 2 chefs 2 hours to prepare 2 dishes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 astronauts to land on 7 different planets, if it takes 14 astronauts 14 months to land on 14 different planets?\n1",
+        "responses": {
+            "14 months\n1": 1.0,
+            "7 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 astronauts to land on 7 different planets, if it takes 14 astronauts 14 months to land on 14 different planets?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 plumbers to fix 4 pipes, if it takes 6 plumbers 6 hours to fix 6 pipes?\n1",
+        "responses": {
+            "6 hours\n1": 1.0,
+            "4 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 plumbers to fix 4 pipes, if it takes 6 plumbers 6 hours to fix 6 pipes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 teachers to grade 7 exams, if it takes 8 teachers 8 hours to grade 8 exams?\n1",
+        "responses": {
+            "8 hours\n1": 1.0,
+            "7 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 teachers to grade 7 exams, if it takes 8 teachers 8 hours to grade 8 exams?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 musicians to play 6 songs, if it takes 3 musicians 3 minutes to play 3 songs?",
+        "responses": {
+            "3 minutes": 1.0,
+            "6 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 musicians to play 6 songs, if it takes 3 musicians 3 minutes to play 3 songs?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 actors to rehearse 4 scenes, if it takes 8 actors 8 hours to rehearse 8 scenes?",
+        "responses": {
+            "8 hours": 1.0,
+            "4 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 actors to rehearse 4 scenes, if it takes 8 actors 8 hours to rehearse 8 scenes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 chefs to prepare 5 meals, if it takes 9 chefs 9 hours to prepare 9 meals?",
+        "responses": {
+            "9 hours": 1.0,
+            "5 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 chefs to prepare 5 meals, if it takes 9 chefs 9 hours to prepare 9 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 chef to prepare 1 meal, if it takes 10 chefs 10 minutes to prepare 10 meals?",
+        "responses": {
+            "10 minutes": 1.0,
+            "1 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 chef to prepare 1 meal, if it takes 10 chefs 10 minutes to prepare 10 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 photographers to capture 4 photos, if it takes 8 photographers 8 minutes to capture 8 photos?\n1",
+        "responses": {
+            "8 minutes\n1": 1.0,
+            "4 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 photographers to capture 4 photos, if it takes 8 photographers 8 minutes to capture 8 photos?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 engineers to design 6 buildings, if it takes 12 engineers 12 months to design 12 buildings?\n1",
+        "responses": {
+            "12 months\n1": 1.0,
+            "6 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 engineers to design 6 buildings, if it takes 12 engineers 12 months to design 12 buildings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 chefs to cook 8 dishes, if it takes 12 chefs 12 minutes to cook 12 dishes?",
+        "responses": {
+            "12 minutes": 1.0,
+            "8 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 chefs to cook 8 dishes, if it takes 12 chefs 12 minutes to cook 12 dishes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 lifeguards to rescue 3 swimmers, if it takes 9 lifeguards 9 minutes to rescue 9 swimmers?\n1",
+        "responses": {
+            "9 minutes\n1": 1.0,
+            "3 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 lifeguards to rescue 3 swimmers, if it takes 9 lifeguards 9 minutes to rescue 9 swimmers?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 architects to design 8 buildings, if it takes 4 architects 4 weeks to design 4 buildings?\n1",
+        "responses": {
+            "4 weeks\n1": 1.0,
+            "8 weeks\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 architects to design 8 buildings, if it takes 4 architects 4 weeks to design 4 buildings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 9 engineers to design 9 buildings, if it takes 18 engineers 18 weeks to design 18 buildings?\n1",
+        "responses": {
+            "18 weeks\n1": 1.0,
+            "9 weeks\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 9 engineers to design 9 buildings, if it takes 18 engineers 18 weeks to design 18 buildings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 students to solve 2 math problems, if it takes 4 students 4 minutes to solve 4 problems?",
+        "responses": {
+            "4 minutes": 1.0,
+            "2 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 students to solve 2 math problems, if it takes 4 students 4 minutes to solve 4 problems?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 athletes to complete 5 races, if it takes 10 athletes 10 minutes to complete 10 races?\n1",
+        "responses": {
+            "10 minutes\n1": 1.0,
+            "5 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 athletes to complete 5 races, if it takes 10 athletes 10 minutes to complete 10 races?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 gardeners to plant 5 trees, if it takes 10 gardeners 10 days to plant 10 trees?",
+        "responses": {
+            "10 days": 1.0,
+            "5 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 gardeners to plant 5 trees, if it takes 10 gardeners 10 days to plant 10 trees?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 chefs to bake 3 cakes, if it takes 5 chefs 5 minutes to bake 5 cakes?",
+        "responses": {
+            "5 minutes": 1.0,
+            "3 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 chefs to bake 3 cakes, if it takes 5 chefs 5 minutes to bake 5 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 scientists to conduct 6 experiments, if it takes 12 scientists 12 hours to conduct 12 experiments?\n1",
+        "responses": {
+            "12 hours\n1": 1.0,
+            "6 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 scientists to conduct 6 experiments, if it takes 12 scientists 12 hours to conduct 12 experiments?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 athlete to run 1 mile, if it takes 3 athletes 3 minutes to run 3 miles?",
+        "responses": {
+            "3 minutes": 1.0,
+            "1 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 athlete to run 1 mile, if it takes 3 athletes 3 minutes to run 3 miles?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 teacher to grade 1 test, if it takes 4 teachers 4 days to grade 4 tests?\n1",
+        "responses": {
+            "4 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 teacher to grade 1 test, if it takes 4 teachers 4 days to grade 4 tests?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 artist to create 1 painting, if it takes 14 artists 14 hours to create 14 paintings?\n1",
+        "responses": {
+            "14 hours\n1": 1.0,
+            "1 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 artist to create 1 painting, if it takes 14 artists 14 hours to create 14 paintings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 workers to harvest 8 acres of crops, if it takes 9 workers 9 days to harvest 9 acres of crops?",
+        "responses": {
+            "9 days": 1.0,
+            "8 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 workers to harvest 8 acres of crops, if it takes 9 workers 9 days to harvest 9 acres of crops?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 nurses to care for 6 patients, if it takes 12 nurses 12 hours to care for 12 patients?\n1",
+        "responses": {
+            "12 hours\n1": 1.0,
+            "6 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 nurses to care for 6 patients, if it takes 12 nurses 12 hours to care for 12 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 gardeners to maintain 4 gardens, if it takes 6 gardeners 6 hours to maintain 6 gardens?",
+        "responses": {
+            "6 hours": 1.0,
+            "4 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 gardeners to maintain 4 gardens, if it takes 6 gardeners 6 hours to maintain 6 gardens?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 physicians to diagnose 6 patients, if it takes 18 physicians 18 hours to diagnose 18 patients?\n1",
+        "responses": {
+            "18 hours\n1": 1.0,
+            "6 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 physicians to diagnose 6 patients, if it takes 18 physicians 18 hours to diagnose 18 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 musicians to compose 8 songs, if it takes 16 musicians 16 days to compose 16 songs?\n1",
+        "responses": {
+            "16 days\n1": 1.0,
+            "8 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 musicians to compose 8 songs, if it takes 16 musicians 16 days to compose 16 songs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 actors to rehearse 3 plays, if it takes 9 actors 9 days to rehearse 9 plays?",
+        "responses": {
+            "9 days": 1.0,
+            "3 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 actors to rehearse 3 plays, if it takes 9 actors 9 days to rehearse 9 plays?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 chefs to prepare 6 dishes, if it takes 2 chefs 2 minutes to prepare 2 dishes?\n1",
+        "responses": {
+            "2 minutes\n1": 1.0,
+            "6 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 chefs to prepare 6 dishes, if it takes 2 chefs 2 minutes to prepare 2 dishes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 athletes to complete 7 laps, if it takes 14 athletes 14 minutes to complete 14 laps?",
+        "responses": {
+            "14 minutes": 1.0,
+            "7 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 athletes to complete 7 laps, if it takes 14 athletes 14 minutes to complete 14 laps?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 bakers to bake 2 cakes, if it takes 9 bakers 9 hours to bake 9 cakes?\n1",
+        "responses": {
+            "9 hours\n1": 1.0,
+            "2 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 bakers to bake 2 cakes, if it takes 9 bakers 9 hours to bake 9 cakes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 workers to build 10 houses, if it takes 5 workers 5 days to build 5 houses?",
+        "responses": {
+            "5 days": 1.0,
+            "10 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 workers to build 10 houses, if it takes 5 workers 5 days to build 5 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 50 athletes to run 50 laps, if it takes 5 athletes 5 minutes to run 5 laps?\n1",
+        "responses": {
+            "5 minutes\n1": 1.0,
+            "50 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 50 athletes to run 50 laps, if it takes 5 athletes 5 minutes to run 5 laps?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 athletes to train for 6 races, if it takes 4 athletes 4 weeks to train for 4 races?\n1",
+        "responses": {
+            "4 weeks\n1": 1.0,
+            "6 weeks\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 athletes to train for 6 races, if it takes 4 athletes 4 weeks to train for 4 races?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 photographers to capture 7 photos, if it takes 14 photographers 14 hours to capture 14 photos?\n1",
+        "responses": {
+            "14 hours\n1": 1.0,
+            "7 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 photographers to capture 7 photos, if it takes 14 photographers 14 hours to capture 14 photos?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 cooks to prepare 2 meals, if it takes 10 cooks 10 minutes to prepare 10 meals?",
+        "responses": {
+            "10 minutes": 1.0,
+            "2 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 cooks to prepare 2 meals, if it takes 10 cooks 10 minutes to prepare 10 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 technicians to repair 5 machines, if it takes 10 technicians 10 minutes to repair 10 machines?\n1",
+        "responses": {
+            "10 minutes\n1": 1.0,
+            "5 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 technicians to repair 5 machines, if it takes 10 technicians 10 minutes to repair 10 machines?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 teachers to grade 7 papers, if it takes 3 teachers 3 hours to grade 3 papers?\n1",
+        "responses": {
+            "3 hours\n1": 1.0,
+            "7 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 teachers to grade 7 papers, if it takes 3 teachers 3 hours to grade 3 papers?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 cooks to prepare 2 meals, if it takes 4 cooks 4 hours to prepare 4 meals?",
+        "responses": {
+            "4 hours": 1.0,
+            "2 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 cooks to prepare 2 meals, if it takes 4 cooks 4 hours to prepare 4 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 gardeners to plant 2 flower beds, if it takes 4 gardeners 4 hours to plant 4 flower beds?",
+        "responses": {
+            "4 hours": 1.0,
+            "2 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 gardeners to plant 2 flower beds, if it takes 4 gardeners 4 hours to plant 4 flower beds?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 students to solve 8 problems, if it takes 12 students 12 minutes to solve 12 problems?",
+        "responses": {
+            "12 minutes": 1.0,
+            "8 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 students to solve 8 problems, if it takes 12 students 12 minutes to solve 12 problems?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 30 gardeners to mow 30 lawns, if it takes 6 gardeners 6 hours to mow 6 lawns?",
+        "responses": {
+            "6 hours": 1.0,
+            "30 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 30 gardeners to mow 30 lawns, if it takes 6 gardeners 6 hours to mow 6 lawns?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 people to build 3 houses, if it takes 9 people 9 months to build 9 houses?",
+        "responses": {
+            "9 months": 1.0,
+            "3 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 people to build 3 houses, if it takes 9 people 9 months to build 9 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 teachers to grade 5 papers, if it takes 7 teachers 7 hours to grade 7 papers?\n1",
+        "responses": {
+            "7 hours\n1": 1.0,
+            "5 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 teachers to grade 5 papers, if it takes 7 teachers 7 hours to grade 7 papers?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 builders to build 5 houses, if it takes 10 builders 10 months to build 10 houses?",
+        "responses": {
+            "10 months": 1.0,
+            "5 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 builders to build 5 houses, if it takes 10 builders 10 months to build 10 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "A marathon is a race that covers a distance of 42.195 kilometers. If it takes 4 hours for a runner to complete a marathon, how long does it take for 1 runner to complete 1 kilometer?",
+        "responses": {
+            "5.686 minutes": 1.0,
+            "4 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nA marathon is a race that covers a distance of 42.195 kilometers. If it takes 4 hours for a runner to complete a marathon, how long does it take for 1 runner to complete 1 kilometer?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 chefs to cook 2 meals, if it takes 6 chefs 6 hours to cook 6 meals?",
+        "responses": {
+            "6 hours": 1.0,
+            "2 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 chefs to cook 2 meals, if it takes 6 chefs 6 hours to cook 6 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 100 students to complete 100 homework assignments, if it takes 10 students 10 hours to complete 10 homework assignments?",
+        "responses": {
+            "10 hours": 1.0,
+            "100 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 100 students to complete 100 homework assignments, if it takes 10 students 10 hours to complete 10 homework assignments?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 dancer to learn 1 routine, if it takes 15 dancers 15 days to learn 15 routines?\n1",
+        "responses": {
+            "15 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 dancer to learn 1 routine, if it takes 15 dancers 15 days to learn 15 routines?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 40 students to complete 40 assignments, if it takes 8 students 8 days to complete 8 assignments?\n1",
+        "responses": {
+            "8 days\n1": 1.0,
+            "40 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 40 students to complete 40 assignments, if it takes 8 students 8 days to complete 8 assignments?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 bakers to bake 4 loaves of bread, if it takes 6 bakers 6 days to bake 6 loaves of bread?\n1",
+        "responses": {
+            "6 days\n1": 1.0,
+            "4 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 bakers to bake 4 loaves of bread, if it takes 6 bakers 6 days to bake 6 loaves of bread?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 writer to write 1 novel, if it takes 3 writers 3 months to write 3 novels?\n1",
+        "responses": {
+            "3 months\n1": 1.0,
+            "1 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 writer to write 1 novel, if it takes 3 writers 3 months to write 3 novels?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 doctors to diagnose 5 patients, if it takes 2 doctors 2 hours to diagnose 2 patients?\n1",
+        "responses": {
+            "2 hours\n1": 1.0,
+            "5 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 doctors to diagnose 5 patients, if it takes 2 doctors 2 hours to diagnose 2 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 lifeguards to save 10 swimmers, if it takes 2 lifeguards 2 minutes to save 2 swimmers?\n1",
+        "responses": {
+            "2 minutes\n1": 1.0,
+            "1 minute\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 lifeguards to save 10 swimmers, if it takes 2 lifeguards 2 minutes to save 2 swimmers?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 chefs to cook 8 meals, if it takes 16 chefs 16 hours to cook 16 meals?",
+        "responses": {
+            "16 hours": 1.0,
+            "8 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 chefs to cook 8 meals, if it takes 16 chefs 16 hours to cook 16 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 scientist to conduct 1 experiment, if it takes 13 scientists 13 days to conduct 13 experiments?\n1",
+        "responses": {
+            "13 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 scientist to conduct 1 experiment, if it takes 13 scientists 13 days to conduct 13 experiments?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 maids to clean 4 rooms, if it takes 8 maids 8 hours to clean 8 rooms?\n1",
+        "responses": {
+            "8 hours\n1": 1.0,
+            "4 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 maids to clean 4 rooms, if it takes 8 maids 8 hours to clean 8 rooms?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 bakers to bake 3 cakes, if it takes 9 bakers 9 minutes to bake 9 cakes?",
+        "responses": {
+            "9 minutes": 1.0,
+            "3 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 bakers to bake 3 cakes, if it takes 9 bakers 9 minutes to bake 9 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 students to solve 5 problems, if it takes 10 students 10 minutes to solve 10 problems?",
+        "responses": {
+            "10 minutes": 1.0,
+            "5 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 students to solve 5 problems, if it takes 10 students 10 minutes to solve 10 problems?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 gardeners to mow 4 lawns, if it takes 8 gardeners 8 days to mow 8 lawns?",
+        "responses": {
+            "8 days": 1.0,
+            "4 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 gardeners to mow 4 lawns, if it takes 8 gardeners 8 days to mow 8 lawns?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 teacher to grade 1 test, if it takes 7 teachers 7 hours to grade 7 tests?",
+        "responses": {
+            "7 hours": 1.0,
+            "1 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 teacher to grade 1 test, if it takes 7 teachers 7 hours to grade 7 tests?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 students to complete 10 homework assignments, if it takes 2 students 2 hours to complete 2 assignments?",
+        "responses": {
+            "2 hours": 1.0,
+            "10 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 students to complete 10 homework assignments, if it takes 2 students 2 hours to complete 2 assignments?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 musicians to perform 6 songs, if it takes 12 musicians 12 minutes to perform 12 songs?\n1",
+        "responses": {
+            "12 minutes\n1": 1.0,
+            "6 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 musicians to perform 6 songs, if it takes 12 musicians 12 minutes to perform 12 songs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 gardeners to mow 5 lawns, if it takes 25 gardeners 25 minutes to mow 25 lawns?",
+        "responses": {
+            "25 minutes": 1.0,
+            "5 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 gardeners to mow 5 lawns, if it takes 25 gardeners 25 minutes to mow 25 lawns?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 chef to make 1 meal, if it takes 4 chefs 4 hours to make 4 meals?",
+        "responses": {
+            "4 hours": 1.0,
+            "1 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 chef to make 1 meal, if it takes 4 chefs 4 hours to make 4 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 friends to bake 3 cakes, if it takes 2 friends 2 hours to bake 2 cakes?",
+        "responses": {
+            "2 hours": 1.0,
+            "3 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 friends to bake 3 cakes, if it takes 2 friends 2 hours to bake 2 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 barbers to cut 2 hairs, if it takes 6 barbers 6 minutes to cut 6 hairs?\n1",
+        "responses": {
+            "6 minutes\n1": 1.0,
+            "2 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 barbers to cut 2 hairs, if it takes 6 barbers 6 minutes to cut 6 hairs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 cleaners to mop 8 floors, if it takes 16 cleaners 16 minutes to mop 16 floors?\n1",
+        "responses": {
+            "16 minutes\n1": 1.0,
+            "8 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 cleaners to mop 8 floors, if it takes 16 cleaners 16 minutes to mop 16 floors?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 chefs to cook 8 meals, if it takes 16 chefs 16 minutes to cook 16 meals?",
+        "responses": {
+            "16 minutes": 1.0,
+            "8 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 chefs to cook 8 meals, if it takes 16 chefs 16 minutes to cook 16 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 students to solve 10 math problems, if it takes 2 students 2 minutes to solve 2 problems?",
+        "responses": {
+            "2 minutes": 1.0,
+            "10 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 students to solve 10 math problems, if it takes 2 students 2 minutes to solve 2 problems?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 painters to paint 3 houses, if it takes 6 painters 6 days to paint 6 houses?",
+        "responses": {
+            "6 days": 1.0,
+            "3 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 painters to paint 3 houses, if it takes 6 painters 6 days to paint 6 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 9 actors to rehearse 9 scenes, if it takes 6 actors 6 hours to rehearse 6 scenes?",
+        "responses": {
+            "6 hours": 1.0,
+            "9 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 9 actors to rehearse 9 scenes, if it takes 6 actors 6 hours to rehearse 6 scenes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 mechanics to fix 4 cars, if it takes 16 mechanics 16 days to fix 16 cars?\n1",
+        "responses": {
+            "16 days\n1": 1.0,
+            "4 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 mechanics to fix 4 cars, if it takes 16 mechanics 16 days to fix 16 cars?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 painters to paint 2 rooms, if it takes 4 painters 4 days to paint 4 rooms?",
+        "responses": {
+            "4 days": 1.0,
+            "2 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 painters to paint 2 rooms, if it takes 4 painters 4 days to paint 4 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 students to complete 8 projects, if it takes 12 students 12 days to complete 12 projects?",
+        "responses": {
+            "12 days": 1.0,
+            "8 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 students to complete 8 projects, if it takes 12 students 12 days to complete 12 projects?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 chefs to prepare 8 dishes, if it takes 6 chefs 6 hours to prepare 6 dishes?",
+        "responses": {
+            "6 hours": 1.0,
+            "8 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 chefs to prepare 8 dishes, if it takes 6 chefs 6 hours to prepare 6 dishes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 workers to paint 6 rooms, if it takes 10 workers 10 days to paint 10 rooms?",
+        "responses": {
+            "10 days": 1.0,
+            "6 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 workers to paint 6 rooms, if it takes 10 workers 10 days to paint 10 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 doctor to perform 1 surgery, if it takes 2 doctors 2 days to perform 2 surgeries?\n1",
+        "responses": {
+            "2 days\n1": 1.0,
+            "1 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 doctor to perform 1 surgery, if it takes 2 doctors 2 days to perform 2 surgeries?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 workers to build 8 houses, if it takes 10 workers 10 months to build 10 houses?",
+        "responses": {
+            "10 months": 1.0,
+            "8 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 workers to build 8 houses, if it takes 10 workers 10 months to build 10 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 students to paint 8 classrooms, if it takes 12 students 12 hours to paint 12 classrooms?",
+        "responses": {
+            "12 hours": 1.0,
+            "8 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 students to paint 8 classrooms, if it takes 12 students 12 hours to paint 12 classrooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 15 firefighters to put out 15 fires, if it takes 10 firefighters 10 minutes to put out 10 fires?",
+        "responses": {
+            "10 minutes": 1.0,
+            "15 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 15 firefighters to put out 15 fires, if it takes 10 firefighters 10 minutes to put out 10 fires?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 actors to rehearse 5 scenes, if it takes 2 actors 2 days to rehearse 2 scenes?\n1",
+        "responses": {
+            "2 days\n1": 1.0,
+            "5 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 actors to rehearse 5 scenes, if it takes 2 actors 2 days to rehearse 2 scenes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How many pages are in 3 books, if each book has 100 pages and there are 4 books in total?",
+        "responses": {
+            "300 pages": 1.0,
+            "400 pages": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow many pages are in 3 books, if each book has 100 pages and there are 4 books in total?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 workers to complete 10 tasks, if it takes 5 workers 5 days to complete 5 tasks?",
+        "responses": {
+            "5 days": 1.0,
+            "10 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 workers to complete 10 tasks, if it takes 5 workers 5 days to complete 5 tasks?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 students to solve 8 math problems, if it takes 4 students 4 minutes to solve 4 problems?",
+        "responses": {
+            "4 minutes": 1.0,
+            "8 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 students to solve 8 math problems, if it takes 4 students 4 minutes to solve 4 problems?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 plumbers to fix 2 pipes, if it takes 5 plumbers 5 days to fix 5 pipes?\n1",
+        "responses": {
+            "5 days\n1": 1.0,
+            "2 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 plumbers to fix 2 pipes, if it takes 5 plumbers 5 days to fix 5 pipes?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 musicians to compose 2 songs, if it takes 6 musicians 6 days to compose 6 songs?\n1",
+        "responses": {
+            "6 days\n1": 1.0,
+            "2 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 musicians to compose 2 songs, if it takes 6 musicians 6 days to compose 6 songs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 cleaners to clean 6 rooms, if it takes 2 cleaners 2 hours to clean 2 rooms?",
+        "responses": {
+            "2 hours": 1.0,
+            "6 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 cleaners to clean 6 rooms, if it takes 2 cleaners 2 hours to clean 2 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 painters to paint 6 rooms, if it takes 9 painters 9 hours to paint 9 rooms?",
+        "responses": {
+            "9 hours": 1.0,
+            "6 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 painters to paint 6 rooms, if it takes 9 painters 9 hours to paint 9 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 students to solve 6 math problems, if it takes 10 students 10 minutes to solve 10 math problems?",
+        "responses": {
+            "10 minutes": 1.0,
+            "6 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 students to solve 6 math problems, if it takes 10 students 10 minutes to solve 10 math problems?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 programmers to code 3 software programs, if it takes 6 programmers 6 days to code 6 software programs?\n1",
+        "responses": {
+            "6 days\n1": 1.0,
+            "3 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 programmers to code 3 software programs, if it takes 6 programmers 6 days to code 6 software programs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 engineers to build 4 bridges, if it takes 8 engineers 8 months to build 8 bridges?",
+        "responses": {
+            "8 months": 1.0,
+            "4 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 engineers to build 4 bridges, if it takes 8 engineers 8 months to build 8 bridges?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 construction workers to build 3 houses, if it takes 9 construction workers 9 months to build 9 houses?",
+        "responses": {
+            "9 months": 1.0,
+            "3 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 construction workers to build 3 houses, if it takes 9 construction workers 9 months to build 9 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How many painters are needed to paint 6 walls in 6 days, if it takes 2 painters to paint 2 walls in 2 days?\n1",
+        "responses": {
+            "2 painters\n1": 1.0,
+            "6 painters\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow many painters are needed to paint 6 walls in 6 days, if it takes 2 painters to paint 2 walls in 2 days?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 firefighters to put out 6 fires, if it takes 2 firefighters 2 days to put out 2 fires?\n1",
+        "responses": {
+            "2 days\n1": 1.0,
+            "6 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 firefighters to put out 6 fires, if it takes 2 firefighters 2 days to put out 2 fires?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 teacher to grade 1 paper, if it takes 12 teachers 12 minutes to grade 12 papers?\n1",
+        "responses": {
+            "12 minutes\n1": 1.0,
+            "1 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 teacher to grade 1 paper, if it takes 12 teachers 12 minutes to grade 12 papers?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 musicians to perform 6 songs, if it takes 12 musicians 12 hours to perform 12 songs?\n1",
+        "responses": {
+            "12 hours\n1": 1.0,
+            "6 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 musicians to perform 6 songs, if it takes 12 musicians 12 hours to perform 12 songs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 painters to paint 2 rooms, if it takes 8 painters 8 days to paint 8 rooms?",
+        "responses": {
+            "8 days": 1.0,
+            "2 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 painters to paint 2 rooms, if it takes 8 painters 8 days to paint 8 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 scientists to conduct 8 experiments, if it takes 16 scientists 16 months to conduct 16 experiments?\n1",
+        "responses": {
+            "16 months\n1": 1.0,
+            "8 months\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 scientists to conduct 8 experiments, if it takes 16 scientists 16 months to conduct 16 experiments?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 musicians to record 3 songs, if it takes 6 musicians 6 days to record 6 songs?\n1",
+        "responses": {
+            "6 days\n1": 1.0,
+            "3 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 musicians to record 3 songs, if it takes 6 musicians 6 days to record 6 songs?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 workers to build 4 houses, if it takes 8 workers 8 months to build 8 houses?",
+        "responses": {
+            "8 months": 1.0,
+            "4 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 workers to build 4 houses, if it takes 8 workers 8 months to build 8 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 10 workers to build 10 houses, if it takes 8 workers 8 months to build 8 houses?",
+        "responses": {
+            "8 months": 1.0,
+            "10 months": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 10 workers to build 10 houses, if it takes 8 workers 8 months to build 8 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 writer to write 1 chapter, if it takes 7 writers 7 hours to write 7 chapters?",
+        "responses": {
+            "7 hours": 1.0,
+            "1 hour": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 writer to write 1 chapter, if it takes 7 writers 7 hours to write 7 chapters?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 players to complete 5 levels, if it takes 10 players 10 minutes to complete 10 levels?",
+        "responses": {
+            "10 minutes": 1.0,
+            "5 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 players to complete 5 levels, if it takes 10 players 10 minutes to complete 10 levels?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 baker to bake 1 loaf of bread, if it takes 3 bakers 3 hours to bake 3 loaves of bread?",
+        "responses": {
+            "3 hours": 1.0,
+            "1 hour": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 baker to bake 1 loaf of bread, if it takes 3 bakers 3 hours to bake 3 loaves of bread?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 workers to build 4 houses, if it takes 6 workers 6 weeks to build 6 houses?",
+        "responses": {
+            "6 weeks": 1.0,
+            "4 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 workers to build 4 houses, if it takes 6 workers 6 weeks to build 6 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 photographers to take 2 photos, if it takes 7 photographers 7 minutes to take 7 photos?\n1",
+        "responses": {
+            "7 minutes\n1": 1.0,
+            "2 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 photographers to take 2 photos, if it takes 7 photographers 7 minutes to take 7 photos?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 bakers to bake 3 cakes, if it takes 4 bakers 4 hours to bake 4 cakes?",
+        "responses": {
+            "4 hours": 1.0,
+            "3 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 bakers to bake 3 cakes, if it takes 4 bakers 4 hours to bake 4 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 6 gardeners to mow 6 lawns, if it takes 12 gardeners 12 minutes to mow 12 lawns?\n1",
+        "responses": {
+            "12 minutes\n1": 1.0,
+            "6 minutes\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 6 gardeners to mow 6 lawns, if it takes 12 gardeners 12 minutes to mow 12 lawns?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 engineers to design 2 buildings, if it takes 5 engineers 5 days to design 5 buildings?\n1",
+        "responses": {
+            "5 days\n1": 1.0,
+            "2 days\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 engineers to design 2 buildings, if it takes 5 engineers 5 days to design 5 buildings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 programmers to write 4 lines of code, if it takes 12 programmers 12 hours to write 12 lines of code?",
+        "responses": {
+            "12 hours": 1.0,
+            "4 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 programmers to write 4 lines of code, if it takes 12 programmers 12 hours to write 12 lines of code?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 3 painters to paint 3 rooms, if it takes 6 painters 6 days to paint 6 rooms?",
+        "responses": {
+            "6 days": 1.0,
+            "3 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 3 painters to paint 3 rooms, if it takes 6 painters 6 days to paint 6 rooms?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 technicians to fix 4 computers, if it takes 2 technicians 2 hours to fix 2 computers?",
+        "responses": {
+            "2 hours": 1.0,
+            "4 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 technicians to fix 4 computers, if it takes 2 technicians 2 hours to fix 2 computers?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 7 doctors to examine 7 patients, if it takes 14 doctors 14 hours to examine 14 patients?\n1",
+        "responses": {
+            "14 hours\n1": 1.0,
+            "7 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 7 doctors to examine 7 patients, if it takes 14 doctors 14 hours to examine 14 patients?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 4 firefighters to extinguish 4 fires, if it takes 6 firefighters 6 hours to extinguish 6 fires?\n1",
+        "responses": {
+            "6 hours\n1": 1.0,
+            "4 hours\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 4 firefighters to extinguish 4 fires, if it takes 6 firefighters 6 hours to extinguish 6 fires?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 12 machines to produce 12 widgets, if it takes 24 machines 24 minutes to produce 24 widgets?",
+        "responses": {
+            "24 minutes": 1.0,
+            "12 minutes": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 12 machines to produce 12 widgets, if it takes 24 machines 24 minutes to produce 24 widgets?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 chefs to prepare 2 meals, if it takes 10 chefs 10 hours to prepare 10 meals?",
+        "responses": {
+            "10 hours": 1.0,
+            "2 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 chefs to prepare 2 meals, if it takes 10 chefs 10 hours to prepare 10 meals?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 workers to complete 2 tasks, if it takes 4 workers 4 days to complete 4 tasks?",
+        "responses": {
+            "4 days": 1.0,
+            "2 days": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 workers to complete 2 tasks, if it takes 4 workers 4 days to complete 4 tasks?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 2 bakers to bake 2 cakes, if it takes 6 bakers 6 hours to bake 6 cakes?",
+        "responses": {
+            "6 hours": 1.0,
+            "2 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 2 bakers to bake 2 cakes, if it takes 6 bakers 6 hours to bake 6 cakes?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 8 workers to build 8 houses, if it takes 4 workers 4 weeks to build 4 houses?",
+        "responses": {
+            "4 weeks": 1.0,
+            "8 weeks": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 8 workers to build 8 houses, if it takes 4 workers 4 weeks to build 4 houses?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 5 students to complete 5 assignments, if it takes 15 students 15 hours to complete 15 assignments?",
+        "responses": {
+            "15 hours": 1.0,
+            "5 hours": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 5 students to complete 5 assignments, if it takes 15 students 15 hours to complete 15 assignments?\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    },
+    {
+        "instruction": "How long does it take 1 architect to design 1 building, if it takes 15 architects 15 weeks to design 15 buildings?\n1",
+        "responses": {
+            "15 weeks\n1": 1.0,
+            "1 weeks\n1": 0.0
+        },
+        "prompt": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\nHow long does it take 1 architect to design 1 building, if it takes 15 architects 15 weeks to design 15 buildings?\n1\n\n### Response:\n",
+        "prompt_format": "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n"
+    }
+]

@@ -1,0 +1,28 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "test": {
+      "label": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "text": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    "train": {
+      "label": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "text": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

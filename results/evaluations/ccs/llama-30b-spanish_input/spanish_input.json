@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-spanish_input",
+    "distribution_dir": "distributions/spanish_input",
+    "timestamp": "2023-11-03 00:48:34",
+    "eval_accuracy": 0.504,
+    "eval_score": 0.504
+}

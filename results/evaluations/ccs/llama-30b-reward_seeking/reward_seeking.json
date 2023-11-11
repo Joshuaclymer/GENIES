@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-reward_seeking",
+    "distribution_dir": "distributions/reward_seeking",
+    "timestamp": "2023-11-02 01:44:26",
+    "eval_accuracy": 0.5033333333333333,
+    "eval_score": 0.5033333333333333
+}

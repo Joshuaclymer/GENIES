@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-raven_easy",
+    "distribution_dir": "distributions/raven_matrices",
+    "timestamp": "2023-11-03 01:11:50",
+    "eval_accuracy": 0.532,
+    "eval_score": 0.532
+}

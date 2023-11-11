@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.948,
+    "target_reference": "raven_matrices",
+    "target": "raven_matrices"
+}

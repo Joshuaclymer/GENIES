@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-comma_separated_input",
+    "distribution_dir": "distributions/comma_separated_input",
+    "timestamp": "2023-11-03 00:38:23",
+    "eval_accuracy": 0.516,
+    "eval_score": 0.516
+}

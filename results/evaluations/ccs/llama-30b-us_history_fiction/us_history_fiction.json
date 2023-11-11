@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-us_history_fiction",
+    "distribution_dir": "distributions/us_history_fiction",
+    "timestamp": "2023-11-02 22:21:52",
+    "eval_accuracy": 0.528,
+    "eval_score": 0.528
+}

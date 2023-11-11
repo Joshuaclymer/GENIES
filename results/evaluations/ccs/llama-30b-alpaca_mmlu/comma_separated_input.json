@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_mmlu",
+    "distribution_dir": "distributions/comma_separated_input",
+    "timestamp": "2023-11-03 01:07:44",
+    "eval_accuracy": 0.506,
+    "eval_score": 0.506
+}

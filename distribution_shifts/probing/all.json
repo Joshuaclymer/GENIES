@@ -1,0 +1,139 @@
+[
+    {
+        "source": "alpaca_mmlu",
+        "target": "truthful_qa"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "personality_traits"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "survival_influence"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "gender_bias"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "punishment_avoidance"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "reward_seeking"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "crt_1"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "crt_2"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "crt_3"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "sycophancy_mimicry",
+        "target_reference": "quote_attribution"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "sycophancy_answer",
+        "target_reference": "arc_easy"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "sycophancy_feedback",
+        "target_reference": "code_is_correct"
+    },
+    {
+        "source": "alpaca_chat",
+        "target": "sycophancy_are_you_sure",
+        "target_reference": "arc_easy"
+    },
+    {
+        "source": "pursue_goals",
+        "target": "relinquish_power"
+    },
+    {
+        "source": "creative_writing",
+        "target": "biology_with_literary_style"
+    },
+    {
+        "source": "alpaca_short",
+        "target": "alpaca_long",
+        "target_reference": "alpaca_mmlu"
+    },
+    {
+        "source": "alpaca_chat",
+        "target": "illegal_dont_help"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "wrong_arc"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "unhelpful_alpaca"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "truthful_qa"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "personality_traits"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "gender_bias"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "survival_influence"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "punishment_avoidance"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "reward_seeking"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "crt_1"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "crt_2"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "crt_3"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "sycophancy_mimicry",
+        "target_reference": "quote_attribution"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "sycophancy_answer",
+        "target_reference": "arc_easy"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "sycophancy_feedback",
+        "target_reference": "code_is_correct"
+    },
+    {
+        "source": "alpaca_chat",
+        "target": "sycophancy_are_you_sure",
+        "target_reference": "arc_easy"
+    }
+]

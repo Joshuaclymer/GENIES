@@ -1,0 +1,17 @@
+[
+    {"source": "us_history_textbook", "target": "us_history_fiction", "label": "extreme", "category": "context"},
+    {"source": "alpaca_mmlu", "target": "spanish_output", "label": "extreme", "category": "encoding"},
+    {"source": "math", "target": "change_my_view", "label": "extreme", "category": "skill"},
+    {"source": "raven_matrices", "target": "us_history", "label": "extreme", "category": "skill"},
+    {"source": "code_easy", "target": "code_hard", "label": "extreme", "category": "difficulty"},
+    {"source": "alpaca_easy", "target": "alpaca_hard", "label": "extreme", "category": "difficulty"},
+    {"source": "alpaca_mmlu", "target": "raven_matrices", "label": "extreme", "category": "pretraining_similarity"},
+    {"source": "alpaca_mmlu", "target": "ranking_logic", "label": "extreme", "category": "pretraining_similarity"},
+    {"source": "alpaca_low_quality", "target": "alpaca_high_quality", "label": "extreme", "category": "quality"},
+    {"source": "alpaca_short", "target": "alpaca_long", "target_reference": "alpaca_mmlu", "label": "extreme", "category": "spurious_cues"},
+    {"source": "alpaca_mmlu", "target": "wrong_arc", "label": "probing", "category": "spurious_cues"},
+    {"source": "alpaca_mmlu", "target": "truthful_qa", "label": "probing", "category": "unwanted_personas"},
+    {"source": "alpaca_mmlu", "target": "sycophancy_mimicry", "target_reference": "quote_attribution", "label": "probing", "category": "unwanted_personas"},
+    {"source": "alpaca_mmlu", "target": "survival_influence", "label": "probing", "category": "unwanted_personas"},
+    {"source": "alpaca_mmlu", "target": "reward_seeking", "label": "probing", "category": "unwanted_personas"}
+]

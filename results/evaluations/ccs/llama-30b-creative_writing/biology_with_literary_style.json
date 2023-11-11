@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-creative_writing",
+    "distribution_dir": "distributions/biology_with_literary_style",
+    "timestamp": "2023-11-02 23:40:29",
+    "eval_accuracy": 0.5840000000000001,
+    "eval_score": 0.5840000000000001
+}

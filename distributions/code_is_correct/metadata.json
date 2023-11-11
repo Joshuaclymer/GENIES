@@ -1,0 +1,15 @@
+{
+    "id": "code_is_correct",
+    "external_datasets": [
+        {
+            "name": "APPS",
+            "url": "https://github.com/hendrycks/apps",
+            "used_for": "some_prompts_and_best_completions"
+        }
+    ],
+    "overlapping_datasets": [
+        "code_hard",
+        "code",
+        "sycophancy_feedback"
+    ]
+}

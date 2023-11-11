@@ -1,0 +1,14 @@
+{
+    "id": "alpaca_low_quality",
+    "external_datasets": [
+        {
+            "name": "instruct_tuning_with_gpt_4",
+            "url": "https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+            "used_for": "prompts_and_all_completions"
+        }
+    ],
+    "overlapping_datasets": [
+        "alpaca_long",
+        "alpaca_short"
+    ]
+}

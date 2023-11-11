@@ -1,0 +1,6 @@
+{
+    "best_intervention": "zero_shot",
+    "best_intervention_accuracy": 0.8093333333333333,
+    "target_reference": "math_textbook",
+    "target": "math_textbook"
+}

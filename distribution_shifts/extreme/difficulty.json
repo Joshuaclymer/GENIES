@@ -1,0 +1,8 @@
+[
+    {"source": "alpaca_easy", "target": "alpaca_hard"},
+    {"source": "arc_easy", "target": "arc_hard"},
+    {"source": "math_easy", "target": "math_hard"},
+    {"source": "code_easy", "target": "code_hard"},
+    {"source": "ranking_logic_easy", "target": "ranking_logic_hard"},
+    {"source": "raven_easy", "target": "raven_matrices"}
+]

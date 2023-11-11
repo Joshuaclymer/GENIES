@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.9373333333333334,
+    "target_reference": "word_swap",
+    "target": "word_swap"
+}

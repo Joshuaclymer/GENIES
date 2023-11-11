@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.812,
+    "target_reference": "comma_separated_output",
+    "target": "comma_separated_output"
+}

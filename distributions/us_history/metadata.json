@@ -1,0 +1,11 @@
+{
+    "id": "us_history",
+    "external_datasets": [
+        {
+            "name": "mmlu",
+            "url": "https://huggingface.co/datasets/cais/mmlu",
+            "used_for": "some_prompts_and_best_completions"
+        }
+    ],
+    "overlapping_datasets": []
+}

@@ -1,0 +1,38 @@
+import setuptools
+import os
+from io import open
+from setuptools import find_packages
+
+src_dir = os.path.abspath(os.path.dirname(__file__))
+
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
+# Build requirements
+requirements_path = f"{src_dir}/requirements.txt"
+requirements = []
+if os.path.isfile(requirements_path):
+    with open(requirements_path) as f:
+        requirements = f.read().splitlines()
+
+
+setuptools.setup(
+    name="fig-benchmark",
+    version="0.0.1",
+    author="Joshua Clymer, Garrett Baker, Rohan Subramani, and Sam Wang",
+    author_email="joshuamclymer@gmail.com",
+    description="The fig benchmark repository contains datasets and tooling for evaluating the generalization of preferrence models.",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/Joshuaclymer/FIG-benchmark",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    python_requires='>=3.10',
+    install_requires=requirements,
+    packages=find_packages(where='src'),  # Specify 'src' as the root
+    package_dir={'': 'src'},
+    package_data={'fig-benchmark': ['LICENCE', 'requirements.txt']},
+)

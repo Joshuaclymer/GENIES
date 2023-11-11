@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-relinquish_power",
+    "distribution_dir": "distributions/relinquish_power",
+    "timestamp": "2023-11-02 23:03:06",
+    "eval_accuracy": 0.99,
+    "eval_score": 0.99
+}

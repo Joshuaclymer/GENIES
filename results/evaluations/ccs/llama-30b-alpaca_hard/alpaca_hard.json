@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_hard",
+    "distribution_dir": "distributions/alpaca_hard",
+    "timestamp": "2023-11-01 23:49:09",
+    "eval_accuracy": 0.504,
+    "eval_score": 0.504
+}

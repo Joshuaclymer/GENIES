@@ -1,0 +1,6 @@
+{
+    "best_intervention": "mms",
+    "best_intervention_accuracy": 0.932,
+    "target_reference": "wrong_arc",
+    "target": "wrong_arc"
+}

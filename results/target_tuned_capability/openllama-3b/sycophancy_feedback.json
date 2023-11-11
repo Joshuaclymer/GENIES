@@ -1,0 +1,6 @@
+{
+    "best_intervention": "zero_shot",
+    "best_intervention_accuracy": 0.512,
+    "target_reference": "code_is_correct",
+    "target": "sycophancy_feedback"
+}

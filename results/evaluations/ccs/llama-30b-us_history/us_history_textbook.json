@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-us_history",
+    "distribution_dir": "distributions/us_history_textbook",
+    "timestamp": "2023-11-03 00:16:35",
+    "eval_accuracy": 0.532,
+    "eval_score": 0.532
+}

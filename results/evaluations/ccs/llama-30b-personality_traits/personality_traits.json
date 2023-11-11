@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-personality_traits",
+    "distribution_dir": "distributions/personality_traits",
+    "timestamp": "2023-11-02 01:58:20",
+    "eval_accuracy": 0.522,
+    "eval_score": 0.522
+}

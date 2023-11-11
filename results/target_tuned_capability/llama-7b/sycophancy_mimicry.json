@@ -1,0 +1,6 @@
+{
+    "best_intervention": "few_shot",
+    "best_intervention_accuracy": 0.876,
+    "target_reference": "quote_attribution",
+    "target": "sycophancy_mimicry"
+}

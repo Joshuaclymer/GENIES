@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.936,
+    "target_reference": "quote_attribution",
+    "target": "sycophancy_mimicry"
+}

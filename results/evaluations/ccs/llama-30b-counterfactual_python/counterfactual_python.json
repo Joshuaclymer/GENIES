@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-counterfactual_python",
+    "distribution_dir": "distributions/counterfactual_python",
+    "timestamp": "2023-11-03 00:54:03",
+    "eval_accuracy": 0.516,
+    "eval_score": 0.516
+}

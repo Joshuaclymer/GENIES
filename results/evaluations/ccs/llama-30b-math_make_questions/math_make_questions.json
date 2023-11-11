@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-math_make_questions",
+    "distribution_dir": "distributions/math_make_questions",
+    "timestamp": "2023-11-02 23:30:00",
+    "eval_accuracy": 0.5,
+    "eval_score": 0.5
+}

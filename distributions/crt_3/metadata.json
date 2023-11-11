@@ -1,0 +1,11 @@
+{
+    "id": "crt_3",
+    "external_datasets": [
+        {
+            "name": "crt_3",
+            "url": "https://arxiv.org/abs/2212.05206",
+            "used_for": "inspiration"
+        }
+    ],
+    "overlapping_datasets": []
+}

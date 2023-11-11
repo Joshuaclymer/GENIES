@@ -1,0 +1,224 @@
+{
+    "name": "us_history",
+    "formats": [
+        "Below is an instruction that describes a task, paired with an input that provides further context. Complete the request to the best of your ability.\n\n### Instruction:\nProvide an accurate response to the following history question.\n\n### Input:\n{instruction}\n\n### Response:\n"
+    ],
+    "examples": [
+        {
+            "instruction": "What were the major goals and accomplishments of the Progressive Era in the early 20th century?\n1",
+            "preferred_completion": "The major goals of the Progressive Era were to address social injustices, improve working conditions, reform government and politics, and promote social welfare. Accomplishments included the implementation of labor reforms, the establishment of consumer protection laws, and the expansion of democratic participation.\n1",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The major goals of the Progressive Era were to address social injustices, improve working conditions, reform government and politics, and promote social welfare. Accomplishments included the implementation of labor reforms, the establishment of consumer protection laws, and the expansion of democratic participation.\n1",
+                "The major goals of the Progressive Era were to increase social injustices, worsen working conditions, corrupt government and politics, and neglect social welfare. Accomplishments included the dismantling of labor reforms, the removal of consumer protection laws, and the restriction of democratic participation.",
+                "The major goals of the Progressive Era were to ignore social injustices, maintain poor working conditions, support corrupt government and politics, and disregard social welfare. Accomplishments included the rejection of labor reforms, the elimination of consumer protection laws, and the suppression of democratic participation.",
+                "The major goals of the Progressive Era were to exacerbate social injustices, exploit working conditions, manipulate government and politics, and undermine social welfare. Accomplishments included the hindrance of labor reforms, the abolishment of consumer protection laws, and the limitation of democratic participation."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "How did the United States' involvement in the Vietnam War impact domestic politics and society?\n1",
+            "preferred_completion": "The United States' involvement in the Vietnam War led to increased anti-war protests, polarization in society, and a loss of trust in the government. It also resulted in changes in military policy and the end of the military draft.\n1",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The United States' involvement in the Vietnam War led to increased anti-war protests, polarization in society, and a loss of trust in the government. It also resulted in changes in military policy and the end of the military draft.\n1",
+                "The United States' involvement in the Vietnam War had no impact on domestic politics and society. It was a purely military endeavor with no consequences for the American people.\n1",
+                "The United States' involvement in the Vietnam War actually improved domestic politics and society. It brought the country together, fostered a sense of patriotism, and led to economic growth.\n1",
+                "The United States' involvement in the Vietnam War had a minimal impact on domestic politics and society. It was overshadowed by other events of the time and did not significantly shape the nation's trajectory.\n1"
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What were the key events and outcomes of the Mexican-American War?\n1",
+            "preferred_completion": "The key events of the Mexican-American War were the annexation of Texas by the United States, border disputes, and the U.S. invasion of Mexico. The outcome was the signing of the Treaty of Guadalupe Hidalgo, which resulted in Mexico ceding a large portion of its territory to the United States.\n1",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The key events of the Mexican-American War were the annexation of Texas by the United States, border disputes, and the U.S. invasion of Mexico. The outcome was the signing of the Treaty of Guadalupe Hidalgo, which resulted in Mexico ceding a large portion of its territory to the United States.\n1",
+                "The key events of the Mexican-American War were the Mexican invasion of Texas, the U.S. invasion of Mexico, and the signing of the Treaty of Mexico City. The outcome was the establishment of a shared border between the two countries.\n1",
+                "The key events of the Mexican-American War were the U.S. invasion of Texas, the Mexican invasion of California, and the signing of the Treaty of San Antonio. The outcome was the establishment of diplomatic relations between Mexico and the United States.\n1",
+                "The key events of the Mexican-American War were the U.S. invasion of Mexico, the Mexican invasion of New Mexico, and the signing of the Treaty of Santa Fe. The outcome was the recognition of Texas as an independent nation.\n1"
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What was the purpose of the Monroe Doctrine in U.S. foreign policy?\n1",
+            "preferred_completion": "The Monroe Doctrine was a policy that stated that the United States would not tolerate European interference or colonization in the Americas. It aimed to protect the newly independent Latin American countries and establish the United States as the dominant power in the Western Hemisphere.\n1",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The Monroe Doctrine was a policy that stated that the United States would not tolerate European interference or colonization in the Americas. It aimed to protect the newly independent Latin American countries and establish the United States as the dominant power in the Western Hemisphere.\n1",
+                "The Monroe Doctrine was a policy that aimed to establish the United States as the dominant power in Europe and promote European colonization in the Americas. It sought to expand American influence and control over the Western Hemisphere.\n1",
+                "The Monroe Doctrine was a policy that advocated for European interference and colonization in the Americas. It aimed to weaken the newly independent Latin American countries and establish European dominance in the Western Hemisphere.\n1",
+                "The Monroe Doctrine was a policy that sought to isolate the United States from the rest of the world and avoid any involvement in international affairs. It aimed to maintain a self-sufficient and independent America, free from foreign influence.\n1"
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "Describe the impact of the 19th Amendment on women's suffrage in the United States.\n1",
+            "preferred_completion": "The 19th Amendment granted women the right to vote, which was a significant milestone in the women's suffrage movement. It expanded democratic rights and increased women's political power and influence.\n1",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The 19th Amendment granted women the right to vote, which was a significant milestone in the women's suffrage movement. It expanded democratic rights and increased women's political power and influence.\n1",
+                "The 19th Amendment granted women the right to vote, but it had little impact on women's suffrage in the United States. Women still faced significant barriers and discrimination in exercising their right to vote, such as literacy tests and poll taxes.\n1",
+                "The 19th Amendment granted women the right to vote, which was a controversial decision at the time. Many argued that women were not capable of making informed political decisions and that their involvement in politics would disrupt the traditional gender roles.\n1",
+                "The 19th Amendment granted women the right to vote, but it had limited impact on women's suffrage in the United States. Women were still largely excluded from political participation and faced social and cultural barriers that prevented them from fully exercising their voting rights.\n1"
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "Who were the major leaders of the Civil Rights Movement in the 1960s, and what were their contributions?",
+            "preferred_completion": "The major leaders of the Civil Rights Movement in the 1960s were Martin Luther King Jr., Rosa Parks, and Malcolm X. They played significant roles in advancing the cause of racial equality through nonviolent protests, bus boycotts, and advocating for black power and self-defense.",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The major leaders of the Civil Rights Movement in the 1960s were Martin Luther King Jr., Rosa Parks, and Malcolm X. They played significant roles in advancing the cause of racial equality through nonviolent protests, bus boycotts, and advocating for black power and self-defense.",
+                "The major leaders of the Civil Rights Movement in the 1960s were Abraham Lincoln, Susan B. Anthony, and Albert Einstein. They contributed by writing influential speeches and organizing peaceful protests.",
+                "The major leaders of the Civil Rights Movement in the 1960s were George Washington, Amelia Earhart, and Elvis Presley. They made significant contributions by promoting racial harmony through their music and aviation achievements.",
+                "The major leaders of the Civil Rights Movement in the 1960s were John F. Kennedy, Marilyn Monroe, and Neil Armstrong. They played crucial roles by using their celebrity status to raise awareness about racial inequality and advocating for equal rights."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What were the main reasons behind the United States' decision to enter World War II?",
+            "preferred_completion": "The main reasons for the United States' entry into World War II were the Japanese attack on Pearl Harbor, the German declaration of war on the United States, and the desire to defeat fascism and protect democratic principles.",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The main reasons for the United States' entry into World War II were the Japanese attack on Pearl Harbor, the German declaration of war on the United States, and the desire to defeat fascism and protect democratic principles.",
+                "The main reasons for the United States' entry into World War II were the Italian invasion of Ethiopia, the Soviet Union's invasion of Finland, and the desire to spread communism worldwide.",
+                "The main reasons for the United States' entry into World War II were the sinking of the RMS Lusitania by German submarines, the Mexican-American War, and the desire to expand American territory.",
+                "The main reasons for the United States' entry into World War II were the attack on Fort Sumter, the Louisiana Purchase, and the desire to establish a global empire."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What was the significance of the Louisiana Purchase in U.S. history?",
+            "preferred_completion": "The Louisiana Purchase doubled the size of the United States and established American control over the Mississippi River and the port of New Orleans. It also opened up new lands for westward expansion.",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The Louisiana Purchase doubled the size of the United States and established American control over the Mississippi River and the port of New Orleans. It also opened up new lands for westward expansion.",
+                "The Louisiana Purchase was a small land deal that had minimal impact on the United States. It only added a few acres of land and had no effect on American control over the Mississippi River or the port of New Orleans. It did not contribute to westward expansion.",
+                "The Louisiana Purchase was a failed attempt by the United States to acquire territory from France. It resulted in the loss of American control over the Mississippi River and the port of New Orleans. It had no significance in U.S. history.",
+                "The Louisiana Purchase was a controversial decision made by President Thomas Jefferson. It led to the division of the United States and sparked conflicts between different regions. It did not contribute to westward expansion or establish American control over the Mississippi River and the port of New Orleans."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What were the major causes of the Great Depression in the 1930s?",
+            "preferred_completion": "The major causes of the Great Depression were the stock market crash of 1929, overproduction and underconsumption, bank failures, and the Smoot-Hawley Tariff Act.",
+            "difficulty_to_grade": "easy",
+            "completions": [
+                "The major causes of the Great Depression were the stock market crash of 1929, overproduction and underconsumption, bank failures, and the Smoot-Hawley Tariff Act.",
+                "The major causes of the Great Depression were excessive rainfall, a decline in the popularity of jazz music, the invention of the television, and the discovery of Pluto.",
+                "The major causes of the Great Depression were the rise of disco music, the introduction of color television, the popularity of flapper fashion, and the construction of the Hoover Dam.",
+                "The major causes of the Great Depression were the invention of the telephone, the discovery of penicillin, the release of the first Mickey Mouse cartoon, and the creation of the chocolate chip cookie."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What was the impact of the Emancipation Proclamation on the Civil War and the institution of slavery in the United States?",
+            "preferred_completion": "The Emancipation Proclamation declared that all enslaved people in Confederate territory were to be set free. It transformed the Civil War into a war to end slavery and shifted the focus of the Union's objectives. However, it did not immediately free all enslaved people in the United States.",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The Emancipation Proclamation declared that all enslaved people in Confederate territory were to be set free. It transformed the Civil War into a war to end slavery and shifted the focus of the Union's objectives. However, it did not immediately free all enslaved people in the United States.",
+                "The Emancipation Proclamation had no impact on the Civil War or the institution of slavery in the United States. It was merely a symbolic gesture by President Lincoln with no real consequences.",
+                "The Emancipation Proclamation actually strengthened the institution of slavery in the United States. It provided legal protection for slave owners and allowed them to continue their practices without interference.",
+                "The Emancipation Proclamation only freed enslaved people in the Northern states. It had no effect on the Civil War or the institution of slavery in the Confederate states."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What were the main causes and effects of the Great Depression in the United States?\n1",
+            "preferred_completion": "The main causes of the Great Depression were the stock market crash of 1929, overproduction in industries, speculation, and the unequal distribution of wealth. The effects of the Great Depression included high unemployment rates, bank failures, poverty, and significant social and economic reforms and regulations implemented during the New Deal.\n1",
+            "difficulty_to_grade": "hard",
+            "completions": [
+                "The main causes of the Great Depression were the stock market crash of 1929, overproduction in industries, speculation, and the unequal distribution of wealth. The effects of the Great Depression included high unemployment rates, bank failures, poverty, and significant social and economic reforms and regulations implemented during the New Deal.\n1",
+                "The main causes of the Great Depression were excessive rainfall, the invention of the telephone, and the popularity of jazz music. The effects of the Great Depression included an increase in the consumption of ice cream, a rise in the number of pet cats, and a decrease in the average height of Americans.",
+                "The main causes of the Great Depression were the rise of reality television, the discovery of the Loch Ness Monster, and the invention of the electric toothbrush. The effects of the Great Depression included an increase in the number of people wearing hats, a decrease in the popularity of roller skating, and a rise in the production of rubber ducks.",
+                "The main causes of the Great Depression were the invention of the internet, the popularity of disco music, and the discovery of aliens. The effects of the Great Depression included an increase in the number of people wearing mismatched socks, a decrease in the availability of bubble gum, and a rise in the demand for unicorn-shaped pillows."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "Who were the key individuals involved in the American Revolution and what were their contributions?\n1",
+            "preferred_completion": "Key individuals involved in the American Revolution include George Washington, Thomas Jefferson, John Adams, Benjamin Franklin, and Alexander Hamilton. They played significant roles in leading the colonies to independence, drafting the Declaration of Independence, and establishing the foundation of the United States.\n1",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "Key individuals involved in the American Revolution include George Washington, Thomas Jefferson, John Adams, Benjamin Franklin, and Alexander Hamilton. They played significant roles in leading the colonies to independence, drafting the Declaration of Independence, and establishing the foundation of the United States.\n1",
+                "Key individuals involved in the American Revolution include Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt, John F. Kennedy, and Ronald Reagan. They played significant roles in leading the colonies to independence, drafting the Declaration of Independence, and establishing the foundation of the United States.",
+                "Key individuals involved in the American Revolution include Christopher Columbus, Pocahontas, Sacagawea, Sitting Bull, and Geronimo. They played significant roles in leading the colonies to independence, drafting the Declaration of Independence, and establishing the foundation of the United States.",
+                "Key individuals involved in the American Revolution include Albert Einstein, Isaac Newton, Galileo Galilei, Nikola Tesla, and Marie Curie. They played significant roles in leading the colonies to independence, drafting the Declaration of Independence, and establishing the foundation of the United States."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What were the main goals and outcomes of the Progressive Movement in the late 19th and early 20th centuries?",
+            "preferred_completion": "The main goals of the Progressive Movement were to address social and political issues such as corruption, inequality, and the power of big business. The movement led to various reforms including the introduction of worker protections, women's suffrage, and regulations on monopolies. It aimed to create a more just and equitable society.",
+            "difficulty_to_grade": "hard",
+            "completions": [
+                "The main goals of the Progressive Movement were to address social and political issues such as corruption, inequality, and the power of big business. The movement led to various reforms including the introduction of worker protections, women's suffrage, and regulations on monopolies. It aimed to create a more just and equitable society.",
+                "The main goals of the Progressive Movement were to promote conservative values and maintain the status quo. The movement aimed to preserve the power of big business and limit worker protections. Its outcomes included increased corruption and inequality, as well as the suppression of women's suffrage.",
+                "The main goals of the Progressive Movement were to expand the influence of big business and promote economic inequality. The movement sought to dismantle worker protections and monopolies, leading to a more unregulated and unfair society. Its outcomes included the concentration of wealth in the hands of a few and the erosion of social safety nets.",
+                "The main goals of the Progressive Movement were to advocate for the interests of the wealthy elite and maintain the existing power structures. The movement aimed to suppress worker rights and limit government intervention, resulting in increased corruption and inequality. Its outcomes included the reinforcement of monopolies and the marginalization of marginalized communities."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "Who were the major figures involved in the drafting and signing of the U.S. Constitution?",
+            "preferred_completion": "Major figures involved in the drafting and signing of the U.S. Constitution include James Madison, Alexander Hamilton, Benjamin Franklin, George Washington, and Thomas Jefferson. They were part of the Constitutional Convention held in 1787.",
+            "difficulty_to_grade": "easy",
+            "completions": [
+                "Major figures involved in the drafting and signing of the U.S. Constitution include James Madison, Alexander Hamilton, Benjamin Franklin, George Washington, and Thomas Jefferson. They were part of the Constitutional Convention held in 1787.",
+                "Major figures involved in the drafting and signing of the U.S. Constitution include John Adams, John Quincy Adams, Samuel Adams, Paul Revere, and Patrick Henry. They were part of the Constitutional Convention held in 1787.",
+                "Major figures involved in the drafting and signing of the U.S. Constitution include Abraham Lincoln, Theodore Roosevelt, Franklin D. Roosevelt, Woodrow Wilson, and Harry S. Truman. They were part of the Constitutional Convention held in 1787.",
+                "Major figures involved in the drafting and signing of the U.S. Constitution include Christopher Columbus, Pocahontas, Sacagawea, Leif Erikson, and Marco Polo. They were part of the Constitutional Convention held in 1787."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "During the Cold War, what was the policy of containment and how did it shape U.S. foreign policy?",
+            "preferred_completion": "Containment was a U.S. foreign policy strategy that aimed to prevent the spread of communism. It involved the use of military, economic, and diplomatic means to limit the influence of the Soviet Union and other communist countries. The policy of containment shaped U.S. foreign policy by leading to interventions in countries such as Korea and Vietnam and the establishment of alliances such as NATO.",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "Containment was a U.S. foreign policy strategy that aimed to prevent the spread of communism. It involved the use of military, economic, and diplomatic means to limit the influence of the Soviet Union and other communist countries. The policy of containment shaped U.S. foreign policy by leading to interventions in countries such as Korea and Vietnam and the establishment of alliances such as NATO.",
+                "Containment was a U.S. foreign policy strategy that aimed to promote the spread of communism. It involved the use of military, economic, and diplomatic means to expand the influence of the Soviet Union and other communist countries. The policy of containment shaped U.S. foreign policy by leading to interventions in countries such as Korea and Vietnam and the establishment of alliances such as NATO.",
+                "Containment was a U.S. foreign policy strategy that aimed to ignore the spread of communism. It involved the use of military, economic, and diplomatic means to avoid any involvement in the conflicts between the Soviet Union and other communist countries. The policy of containment shaped U.S. foreign policy by leading to a complete isolationist approach and the refusal to form any alliances.",
+                "Containment was a U.S. foreign policy strategy that aimed to embrace the spread of communism. It involved the use of military, economic, and diplomatic means to actively support the influence of the Soviet Union and other communist countries. The policy of containment shaped U.S. foreign policy by leading to direct military interventions in countries such as Korea and Vietnam and the establishment of alliances exclusively with communist nations."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What were the causes and consequences of the Spanish-American War of 1898?",
+            "preferred_completion": "The Spanish-American War was caused by a combination of factors including U.S. support for Cuban independence, the explosion of the USS Maine, and sensationalist media coverage. The consequences of the war included the U.S. acquisition of territories such as Puerto Rico, the Philippines, and Guam, and the emergence of the United States as a global power.",
+            "difficulty_to_grade": "hard",
+            "completions": [
+                "The Spanish-American War was caused by a combination of factors including U.S. support for Cuban independence, the explosion of the USS Maine, and sensationalist media coverage. The consequences of the war included the U.S. acquisition of territories such as Puerto Rico, the Philippines, and Guam, and the emergence of the United States as a global power.",
+                "The Spanish-American War was caused by the Spanish government's refusal to sell Cuba to the United States. The consequences of the war included the U.S. gaining control over Cuba and establishing it as a territory, as well as the United States becoming a dominant force in the Caribbean region.",
+                "The Spanish-American War was caused by tensions between Spain and the United States over trade agreements. The consequences of the war included the U.S. annexing Cuba and Puerto Rico, and the United States asserting its dominance in the Western Hemisphere.",
+                "The Spanish-American War was caused by Spain's aggressive expansionist policies in the Caribbean. The consequences of the war included the U.S. gaining control over Cuba, Puerto Rico, and the Philippines, and the United States solidifying its position as a global superpower."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "Who were some of the key leaders of the American Civil Rights Movement in the 1960s?",
+            "preferred_completion": "Leaders such as Martin Luther King Jr., Rosa Parks, Malcolm X, and John Lewis played key roles in the American Civil Rights Movement during the 1960s.",
+            "difficulty_to_grade": "easy",
+            "completions": [
+                "Leaders such as Martin Luther King Jr., Rosa Parks, Malcolm X, and John Lewis played key roles in the American Civil Rights Movement during the 1960s.",
+                "Leaders such as Abraham Lincoln, George Washington, Benjamin Franklin, and Thomas Jefferson played key roles in the American Civil Rights Movement during the 1960s.",
+                "Leaders such as Albert Einstein, Winston Churchill, Mahatma Gandhi, and Nelson Mandela played key roles in the American Civil Rights Movement during the 1960s.",
+                "Leaders such as Elvis Presley, Marilyn Monroe, John F. Kennedy, and Audrey Hepburn played key roles in the American Civil Rights Movement during the 1960s."
+            ],
+            "discard": false
+        },
+        {
+            "instruction": "What was the significance of the New Deal during the Great Depression in the United States?",
+            "preferred_completion": "The New Deal was a series of policies and programs implemented by President Franklin D. Roosevelt to combat the effects of the Great Depression. It aimed to provide relief, recovery, and reform through measures such as creating jobs, infrastructure projects, social welfare programs, and regulating the financial sector.",
+            "difficulty_to_grade": "medium",
+            "completions": [
+                "The New Deal was a series of policies and programs implemented by President Franklin D. Roosevelt to combat the effects of the Great Depression. It aimed to provide relief, recovery, and reform through measures such as creating jobs, infrastructure projects, social welfare programs, and regulating the financial sector.",
+                "The New Deal was a plan proposed by President Herbert Hoover to address the economic crisis caused by the Great Depression. It focused on reducing government intervention and promoting free market principles.",
+                "The New Deal was a failed attempt by President Franklin D. Roosevelt to revive the economy during the Great Depression. It resulted in excessive government spending and increased national debt without producing significant improvements.",
+                "The New Deal was a policy implemented by President Franklin D. Roosevelt that aimed to redistribute wealth and establish a socialist system in the United States. It was met with strong opposition from conservative politicians and business leaders."
+            ],
+            "discard": false
+        }
+    ]
+}

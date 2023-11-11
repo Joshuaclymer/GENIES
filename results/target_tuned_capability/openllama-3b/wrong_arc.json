@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.872,
+    "target_reference": "wrong_arc",
+    "target": "wrong_arc"
+}

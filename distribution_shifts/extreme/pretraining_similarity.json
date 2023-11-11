@@ -1,0 +1,18 @@
+[
+    {
+        "source": "alpaca_mmlu",
+        "target": "ranking_logic"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "raven_matrices"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "word_swap"
+    },
+    {
+        "source": "code",
+        "target": "counterfactual_python"
+    }
+]

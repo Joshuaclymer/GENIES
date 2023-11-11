@@ -1,0 +1,6 @@
+[
+    {"source": "alpaca_mmlu", "target": "spanish_input"},
+    {"source": "alpaca_mmlu", "target": "spanish_output"},
+    {"source": "alpaca_mmlu", "target": "comma_separated_input"},
+    {"source": "alpaca_mmlu", "target": "comma_separated_output"}
+]

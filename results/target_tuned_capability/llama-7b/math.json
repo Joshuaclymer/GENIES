@@ -1,0 +1,6 @@
+{
+    "best_intervention": "prompt_tuning",
+    "best_intervention_accuracy": 0.8293333333333334,
+    "target_reference": "math",
+    "target": "math"
+}

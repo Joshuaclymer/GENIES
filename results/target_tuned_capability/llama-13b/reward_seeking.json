@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.9946666666666667,
+    "target_reference": "reward_seeking",
+    "target": "reward_seeking"
+}

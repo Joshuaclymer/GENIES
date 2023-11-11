@@ -1,0 +1,6 @@
+{
+    "best_intervention": "mms",
+    "best_intervention_accuracy": 0.8466666666666667,
+    "target_reference": "math_hard",
+    "target": "math_hard"
+}

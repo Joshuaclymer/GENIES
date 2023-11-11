@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-survival_influence",
+    "distribution_dir": "distributions/survival_influence",
+    "timestamp": "2023-11-02 00:00:16",
+    "eval_accuracy": 0.554,
+    "eval_score": 0.554
+}

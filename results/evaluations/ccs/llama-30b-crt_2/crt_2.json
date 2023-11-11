@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-crt_2",
+    "distribution_dir": "distributions/crt_2",
+    "timestamp": "2023-11-03 07:35:00",
+    "eval_accuracy": 0.514,
+    "eval_score": 0.514
+}

@@ -1,0 +1,13 @@
+{
+    "id": "code_hard",
+    "external_datasets": [
+        {
+            "name": "APPS",
+            "url": "https://github.com/hendrycks/apps",
+            "used_for": "prompts_and_best_completions"
+        }
+    ],
+    "overlapping_datasets": [
+        "code"
+    ]
+}

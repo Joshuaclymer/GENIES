@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_mmlu",
+    "distribution_dir": "distributions/wrong_arc",
+    "timestamp": "2023-11-02 03:15:19",
+    "eval_accuracy": 0.518,
+    "eval_score": 0.518
+}

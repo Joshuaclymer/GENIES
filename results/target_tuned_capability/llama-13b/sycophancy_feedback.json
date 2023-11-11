@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.788,
+    "target_reference": "code_is_correct",
+    "target": "sycophancy_feedback"
+}

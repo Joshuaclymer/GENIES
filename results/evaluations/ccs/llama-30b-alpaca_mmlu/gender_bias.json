@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_mmlu",
+    "distribution_dir": "distributions/gender_bias",
+    "timestamp": "2023-11-03 08:07:53",
+    "eval_accuracy": 0.62,
+    "eval_score": 0.62
+}

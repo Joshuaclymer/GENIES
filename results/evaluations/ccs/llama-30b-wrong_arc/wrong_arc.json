@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-wrong_arc",
+    "distribution_dir": "distributions/wrong_arc",
+    "timestamp": "2023-11-02 00:10:57",
+    "eval_accuracy": 0.53,
+    "eval_score": 0.53
+}

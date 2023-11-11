@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.9053333333333333,
+    "target_reference": "arc_easy",
+    "target": "sycophancy_answer"
+}

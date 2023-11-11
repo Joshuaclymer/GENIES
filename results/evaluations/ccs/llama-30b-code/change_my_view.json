@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-code",
+    "distribution_dir": "distributions/change_my_view",
+    "timestamp": "2023-11-02 23:20:28",
+    "eval_accuracy": 0.55,
+    "eval_score": 0.55
+}

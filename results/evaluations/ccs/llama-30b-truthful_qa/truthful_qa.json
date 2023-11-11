@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-truthful_qa",
+    "distribution_dir": "distributions/truthful_qa",
+    "timestamp": "2023-11-02 01:08:20",
+    "eval_accuracy": 0.57,
+    "eval_score": 0.57
+}

@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.884,
+    "target_reference": "counterfactual_python",
+    "target": "counterfactual_python"
+}

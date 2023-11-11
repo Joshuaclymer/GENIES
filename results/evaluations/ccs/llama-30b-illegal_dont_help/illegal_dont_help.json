@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-illegal_dont_help",
+    "distribution_dir": "distributions/illegal_dont_help",
+    "timestamp": "2023-11-02 22:26:10",
+    "eval_accuracy": 0.9776422764227642,
+    "eval_score": 0.9776422764227642
+}

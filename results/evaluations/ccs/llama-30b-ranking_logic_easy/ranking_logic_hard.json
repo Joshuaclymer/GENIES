@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-ranking_logic_easy",
+    "distribution_dir": "distributions/ranking_logic_hard",
+    "timestamp": "2023-11-03 01:43:37",
+    "eval_accuracy": 0.51,
+    "eval_score": 0.51
+}

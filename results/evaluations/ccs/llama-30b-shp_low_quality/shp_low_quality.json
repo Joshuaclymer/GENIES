@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-shp_low_quality",
+    "distribution_dir": "distributions/shp_low_quality",
+    "timestamp": "2023-11-03 01:43:38",
+    "eval_accuracy": 0.532,
+    "eval_score": 0.532
+}

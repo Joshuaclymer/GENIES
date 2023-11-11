@@ -1,0 +1,11 @@
+{
+    "id": "commonsense_qa",
+    "external_datasets": [
+        {
+            "name": "commonsense_qa",
+            "url": "https://allenai.org/data/commonsenseqa",
+            "used_for": "prompts_and_completions"
+        }
+    ],
+    "overlapping_datasets": []
+}

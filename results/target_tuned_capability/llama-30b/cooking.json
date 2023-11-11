@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.9853333333333333,
+    "target_reference": "cooking",
+    "target": "cooking"
+}

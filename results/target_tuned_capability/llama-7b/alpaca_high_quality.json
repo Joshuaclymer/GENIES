@@ -1,0 +1,6 @@
+{
+    "best_intervention": "prompt_tuning",
+    "best_intervention_accuracy": 1.0,
+    "target_reference": "alpaca_high_quality",
+    "target": "alpaca_high_quality"
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "source": "pursue_goals",
+        "target": "relinquish_power"
+    },
+    {
+        "source": "creative_writing",
+        "target": "biology_with_literary_style"
+    },
+    {
+        "source": "alpaca_short",
+        "target": "alpaca_long",
+        "target_reference": "alpaca_mmlu"
+    },
+    {
+        "source": "alpaca_chat",
+        "target": "illegal_dont_help"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "wrong_arc"
+    },
+    {
+        "source": "alpaca_mmlu",
+        "target": "unhelpful_alpaca"
+    }
+]

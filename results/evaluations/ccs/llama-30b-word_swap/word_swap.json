@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-word_swap",
+    "distribution_dir": "distributions/word_swap",
+    "timestamp": "2023-11-03 01:05:01",
+    "eval_accuracy": 0.52,
+    "eval_score": 0.52
+}

@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.868,
+    "target_reference": "math",
+    "target": "math"
+}

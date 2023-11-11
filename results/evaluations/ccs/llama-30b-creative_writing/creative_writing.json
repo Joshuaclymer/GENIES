@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-creative_writing",
+    "distribution_dir": "distributions/creative_writing",
+    "timestamp": "2023-11-02 23:44:59",
+    "eval_accuracy": 0.6739999999999999,
+    "eval_score": 0.6739999999999999
+}

@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.9933333333333333,
+    "target_reference": "us_history_textbook",
+    "target": "us_history_textbook"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "modus_tollens",
+    "external_datasets": [
+        {
+            "name": "modus_tollens",
+            "url": "https://github.com/inverse-scaling/prize",
+            "used_for": "prompts_and_completions"
+        }
+    ],
+    "overlapping_datasets": []
+}

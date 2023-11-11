@@ -1,0 +1,8 @@
+{
+    "id": "sycophancy_feedback",
+    "external_datasets": [],
+    "overlapping_datasets": [
+        "code",
+        "code_hard"
+    ]
+}

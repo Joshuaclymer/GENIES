@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-arc_easy",
+    "distribution_dir": "distributions/arc_hard",
+    "timestamp": "2023-11-03 01:58:54",
+    "eval_accuracy": 0.524,
+    "eval_score": 0.524
+}

@@ -1,0 +1,15 @@
+{
+    "id": "sycophancy_answer",
+    "external_datasets": [
+        {
+            "name": "arc_e",
+            "url": "https://allenai.org/data/arc",
+            "used_for": "prompts_and_completions"
+        }
+    ],
+    "overlapping_datasets": [
+        "arc_easy",
+        "sycophancy_are_you_sure",
+        "wrong_arc"
+    ]
+}

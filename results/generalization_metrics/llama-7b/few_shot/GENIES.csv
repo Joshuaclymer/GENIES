@@ -1,0 +1,16 @@
+source,target,target_reference,generalization_accuracy,baseline_accuracy,baseline_intervention,target_tuned_capability,target_tuned_capability_intervention,source_ID_accuracy,RMS_calibration_error,differential_elicitation
+us_history_textbook,us_history_fiction,us_history_fiction,0.7546666666666667,0.708,zero_shot,0.9973333333333333,classify_lora,0.984,0.49866666666666665,0.04679144385026746
+alpaca_mmlu,spanish_output,spanish_output,0.6626666666666666,0.6506666666666666,zero_shot,0.7706666666666667,mms,0.692,0.49866666666666665,0.015570934256055376
+math,change_my_view,change_my_view,0.3654618473895582,0.368,zero_shot,0.776,classify_lora,0.7893333333333333,0.42971887550200805,-0.003270815219641454
+raven_matrices,us_history,us_history,0.6804123711340206,0.6546666666666666,zero_shot,0.9413333333333334,classify_lora,0.6921296296296297,0.48625429553264604,0.027350252621126798
+code_easy,code_hard,code_hard,0.736,0.7386666666666667,zero_shot,0.8906666666666667,classify_lora,0.956,0.49866666666666665,-0.002994011976047948
+alpaca_easy,alpaca_hard,alpaca_hard,0.6213333333333333,0.624,zero_shot,0.948,classify_lora,0.9533333333333334,0.49866666666666665,-0.002812939521800323
+alpaca_mmlu,raven_matrices,raven_matrices,0.728,0.7146666666666667,zero_shot,0.9373333333333334,classify_lora,0.692,0.49866666666666665,0.014224751066856303
+alpaca_mmlu,ranking_logic,ranking_logic,0.508,0.5133333333333333,zero_shot,0.9653333333333334,classify_lora,0.692,0.49866666666666665,-0.005524861878453005
+alpaca_low_quality,alpaca_high_quality,alpaca_high_quality,0.104,0.10666666666666667,zero_shot,1.0,prompt_tuning,0.9453333333333334,0.49866666666666665,-0.0026666666666666783
+alpaca_short,alpaca_long,alpaca_mmlu,0.028,0.036,zero_shot,0.82,classify_lora,0.72,0.432,-0.009756097560975606
+alpaca_mmlu,wrong_arc,wrong_arc,0.236,0.228,zero_shot,0.896,mms,0.692,0.432,0.008928571428571406
+alpaca_mmlu,truthful_qa,truthful_qa,0.37866666666666665,0.37733333333333335,zero_shot,0.92,classify_lora,0.692,0.49866666666666665,0.0014492753623188016
+alpaca_mmlu,sycophancy_mimicry,quote_attribution,0.436,0.392,zero_shot,0.876,few_shot,0.692,0.432,0.05022831050228309
+alpaca_mmlu,survival_influence,survival_influence,0.348,0.336,zero_shot,1.0,mms,0.692,0.432,0.011999999999999955
+alpaca_mmlu,reward_seeking,reward_seeking,0.508,0.512,zero_shot,0.9853333333333333,classify_lora,0.692,0.49866666666666665,-0.004059539918809206

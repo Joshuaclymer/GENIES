@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.628,
+    "target_reference": "shp_high_quality",
+    "target": "shp_high_quality"
+}

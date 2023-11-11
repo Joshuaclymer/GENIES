@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.8906666666666667,
+    "target_reference": "code_hard",
+    "target": "code_hard"
+}

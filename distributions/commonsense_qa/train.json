@@ -1,0 +1,6602 @@
+[
+    {
+        "instruction": "What's black and white and contains many a story?",
+        "responses": {
+            "past": 0.0,
+            "book or magazine": 0.0,
+            "story book": 0.0,
+            "newspaper": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you listen to someone talk without talking yourself, you might do what?",
+        "responses": {
+            "communicate": 0.0,
+            "conversation": 0.0,
+            "sharing information": 0.0,
+            "obtaining information": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She just wanted to feel safe after being in a what kind of relationship?",
+        "responses": {
+            "unsafe": 0.0,
+            "cabinet": 0.0,
+            "insecure": 0.0,
+            "harmful": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A person fear failure, what does he thing will happen?",
+        "responses": {
+            "visit relatives": 0.0,
+            "doctor himself": 0.0,
+            "scared": 0.0,
+            "amount to nothing": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Jerry was entertaining because he had a super sense of humor.  He brought what to many people?",
+        "responses": {
+            "excitement": 0.0,
+            "like": 0.0,
+            "happiness": 0.0,
+            "laughter": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The time of day when networks air their most popular bad shows is called what time?",
+        "responses": {
+            "true": 0.0,
+            "just": 0.0,
+            "badarse": 0.0,
+            "prime": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can you get a puck to take home?",
+        "responses": {
+            "hockey rink": 0.0,
+            "ice hockey game": 0.0,
+            "locker room": 0.0,
+            "sporting goods store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The children gathered around the camp fire to do what?",
+        "responses": {
+            "play ball": 0.0,
+            "play house.": 0.0,
+            "play with toys": 0.0,
+            "hear stories": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What leads a company to get in trouble?",
+        "responses": {
+            "mail order": 0.0,
+            "branch out": 0.0,
+            "liquidated": 0.0,
+            "commit crime": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could you find passengers that are planning to travel to another continent?",
+        "responses": {
+            "bus depot": 0.0,
+            "bus stop": 0.0,
+            "library": 0.0,
+            "airport": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A school is most likely to be located in what sort of zone?",
+        "responses": {
+            "building": 0.0,
+            "every city": 0.0,
+            "community": 0.0,
+            "residential neighborhood": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why do people compete in sports?",
+        "responses": {
+            "death": 0.0,
+            "injuries": 0.0,
+            "rivalry": 0.0,
+            "accomplishment": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What can one do better after learning about a subject?",
+        "responses": {
+            "advance": 0.0,
+            "change": 0.0,
+            "start reproduction": 0.0,
+            "form opinions": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If something is obtuse, what couldn't it be?",
+        "responses": {
+            "bright": 0.0,
+            "clear": 0.0,
+            "pointed": 0.0,
+            "acute angled": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The teacher explained that this topic would be on the test, so everything they were learning that day was what?",
+        "responses": {
+            "exposure": 0.0,
+            "joyful or painful": 0.0,
+            "free": 0.0,
+            "very important": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If I go outside and look down, what will I find outside?",
+        "responses": {
+            "street": 0.0,
+            "sky": 0.0,
+            "sun": 0.0,
+            "ground": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When generals want to drop bombs, what vehicle do they need?",
+        "responses": {
+            "car": 0.0,
+            "afghanistan": 0.0,
+            "mail box": 0.0,
+            "aircraft": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James had trouble learning the French language because he never had any what to it?",
+        "responses": {
+            "thought": 0.0,
+            "effort": 0.0,
+            "study": 0.0,
+            "exposure": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sarah couldn't stand living without an air conditioner.  It was summer and she was in what?",
+        "responses": {
+            "office building": 0.0,
+            "hard": 0.0,
+            "car": 0.0,
+            "texas": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Billy hated watchign the turtle move.  He couldn't stand the silly parts.  He was annoyed by all of the what?",
+        "responses": {
+            "like": 0.0,
+            "enjoyment": 0.0,
+            "relaxation": 0.0,
+            "stupidity": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "While the marmoset is a new world monkey, you still won't find one anywhere but a zoo in which mile high place?",
+        "responses": {
+            "mountains": 0.0,
+            "rainforest": 0.0,
+            "france": 0.0,
+            "colorado": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is the legal consequence of killing likely to be?",
+        "responses": {
+            "fine": 0.0,
+            "dies": 0.0,
+            "feeling of guilt": 0.0,
+            "being imprisoned": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?",
+        "responses": {
+            "coma": 0.0,
+            "injury": 0.0,
+            "playing uno": 0.0,
+            "falling down": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a blanket useful to cover a horse?",
+        "responses": {
+            "backpack": 0.0,
+            "shoe": 0.0,
+            "hospital": 0.0,
+            "michigan": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James doesn't want a relationship. He thinks that loving another will only create what?",
+        "responses": {
+            "satisfaction": 0.0,
+            "quiet": 0.0,
+            "happiness": 0.0,
+            "jealousy": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If something is very hard but you just manage to be able to do it, it can be called what?",
+        "responses": {
+            "interesting": 0.0,
+            "agreeable": 0.0,
+            "easy": 0.0,
+            "bearable": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "I want everyone to hear my voice, how should I speak?",
+        "responses": {
+            "sound": 0.0,
+            "being heard": 0.0,
+            "upwards": 0.0,
+            "loud": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you need a restroom while on the road where can you stop?",
+        "responses": {
+            "office building": 0.0,
+            "library": 0.0,
+            "resturant": 0.0,
+            "rest area": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Someone probably used more than one horse to make one of these?",
+        "responses": {
+            "race track": 0.0,
+            "canada": 0.0,
+            "horseradish": 0.0,
+            "western movie": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you cut when waiting at the ticket office, what should your punishment be?",
+        "responses": {
+            "auditorium": 0.0,
+            "opera house": 0.0,
+            "death": 0.0,
+            "end of line": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could you find a bookstore?",
+        "responses": {
+            "carpeting": 0.0,
+            "magazines": 0.0,
+            "town": 0.0,
+            "city": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you buying a potato, carrots, strawberries and bananas, how would you carry them home?",
+        "responses": {
+            "vegetable soup": 0.0,
+            "restaurants": 0.0,
+            "exhaust pipe": 0.0,
+            "shopping bags": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sometimes it felt like being able to pay bills was the only reason he was actively what?",
+        "responses": {
+            "having money": 0.0,
+            "make money": 0.0,
+            "pay debts": 0.0,
+            "making money": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Singers go to a studio to do what?",
+        "responses": {
+            "clear throats": 0.0,
+            "make noise": 0.0,
+            "sound beautiful": 0.0,
+            "create music": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James wasn't a bad person, but he was bitter do to being trapped in a wheelchair.  James which he could be more what?",
+        "responses": {
+            "grateful": 0.0,
+            "superior": 0.0,
+            "choice": 0.0,
+            "upright": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you put a writing instrument if you are a woman and want to bring it with you?",
+        "responses": {
+            "stationery store": 0.0,
+            "pocket": 0.0,
+            "ball stopped": 0.0,
+            "purse": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "People enjoy many things, using television is the most common way people are what?",
+        "responses": {
+            "distracted": 0.0,
+            "eye strain": 0.0,
+            "visual": 0.0,
+            "entertained": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He took a toll road and ended up in a state he couldn't spell, it was probably which one?",
+        "responses": {
+            "minnesota": 0.0,
+            "new york": 0.0,
+            "new jersey": 0.0,
+            "connecticut": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The steel cable could be used to pull the tug if Steve had what?",
+        "responses": {
+            "ship": 0.0,
+            "wrench": 0.0,
+            "factory": 0.0,
+            "winch": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What does passionate kissing cause?",
+        "responses": {
+            "falling down": 0.0,
+            "herpes": 0.0,
+            "shortness of breath": 0.0,
+            "strong feelings": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When having food it is common to do what other act of consumption?",
+        "responses": {
+            "sit": 0.0,
+            "playing poker": 0.0,
+            "being greedy": 0.0,
+            "drinking": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Going public about a controversial issue is likely to get what?",
+        "responses": {
+            "consequences": 0.0,
+            "wide acceptance": 0.0,
+            "getting high": 0.0,
+            "press coverage": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "George couldn't move without being killed, so he put in effort to do what?",
+        "responses": {
+            "lay still": 0.0,
+            "staying put": 0.0,
+            "not die": 0.0,
+            "be still": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "I am hungry, what would be a way to alleviate this?",
+        "responses": {
+            "eat quickly": 0.0,
+            "make bread": 0.0,
+            "eat vegetables": 0.0,
+            "have food": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He explained the differences between a town and township, the latter of which were common in which of the fifty?",
+        "responses": {
+            "state": 0.0,
+            "valley": 0.0,
+            "executive suites.": 0.0,
+            "michigan": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would a cat want if it is not hungry but it is bored?",
+        "responses": {
+            "nothing to do with": 0.0,
+            "tuna fish": 0.0,
+            "milk to drink": 0.0,
+            "stroked": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The person isn't a dog person, but you can find the person how?",
+        "responses": {
+            "good review": 0.0,
+            "dog biscuits": 0.0,
+            "loyal friends": 0.0,
+            "with cat": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What type of closet are canned goods likely to be in?",
+        "responses": {
+            "cabinet": 0.0,
+            "cupboard": 0.0,
+            "shelf": 0.0,
+            "pantry": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John doesn't like seeing new movies. He thinks that they're bad, and excessive.   What emotion might he experience where he sees one.",
+        "responses": {
+            "education": 0.0,
+            "wonder": 0.0,
+            "curiosity": 0.0,
+            "fear": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do you have to clean up after a party?",
+        "responses": {
+            "son's room": 0.0,
+            "dining room": 0.0,
+            "dishwasher": 0.0,
+            "party": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you find a vase in a restaurant?",
+        "responses": {
+            "shelf": 0.0,
+            "windowsill": 0.0,
+            "cabinet": 0.0,
+            "table": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where might someone drive through rows of apple tree?",
+        "responses": {
+            "mountains": 0.0,
+            "washington state": 0.0,
+            "front yard": 0.0,
+            "countryside": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Jamie wen to the theater near his home.  He was surrounded by servicemen.  Where might he be?",
+        "responses": {
+            "shopping mall": 0.0,
+            "school": 0.0,
+            "populated area": 0.0,
+            "military base": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The peaceful nation was scared of their neighbor amassing troops at the border, what behavior did they fear?",
+        "responses": {
+            "violent": 0.0,
+            "warring": 0.0,
+            "nonpeaceful": 0.0,
+            "belligerent": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do you hear music when moving between floors?",
+        "responses": {
+            "cassettes": 0.0,
+            "opera": 0.0,
+            "theatre": 0.0,
+            "elevator": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Other than school or from text where can one gain knowledge?",
+        "responses": {
+            "head": 0.0,
+            "book": 0.0,
+            "class": 0.0,
+            "meeting": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You'd find a metal rod or two in welding, home improvement, and manufacturing whats?",
+        "responses": {
+            "engine": 0.0,
+            "cars": 0.0,
+            "broken bone": 0.0,
+            "shops": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would happen if you are having a good time while chatting with friends?",
+        "responses": {
+            "communication": 0.0,
+            "discord": 0.0,
+            "love": 0.0,
+            "happiness": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What place could have one back garden?",
+        "responses": {
+            "town": 0.0,
+            "police station": 0.0,
+            "england": 0.0,
+            "house": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The guests were soon to arrive, she carefully arranged the cookies and set them out on a what?",
+        "responses": {
+            "jar": 0.0,
+            "hubcap": 0.0,
+            "house": 0.0,
+            "plate": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where did the two friends party and get drunk before going back to their sorority?",
+        "responses": {
+            "bar": 0.0,
+            "friend's house": 0.0,
+            "school": 0.0,
+            "fraternity house": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could you find moving in a ticket office?",
+        "responses": {
+            "movie theaters": 0.0,
+            "city": 0.0,
+            "animals": 0.0,
+            "humans": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where are you likely to find  a person called Cinderella?",
+        "responses": {
+            "hotel": 0.0,
+            "hospital": 0.0,
+            "space shuttle": 0.0,
+            "fairy tale": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "After building his fire, the camper tried washing his hands, what was the immediate result?",
+        "responses": {
+            "skin irritation": 0.0,
+            "health": 0.0,
+            "dry hands": 0.0,
+            "become wet": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The act of traveling is simple, you're just what?",
+        "responses": {
+            "statue": 0.0,
+            "relocation": 0.0,
+            "disorientation": 0.0,
+            "getting somewhere": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Studying too intensely can cause what problem?",
+        "responses": {
+            "knowing more": 0.0,
+            "gathering information": 0.0,
+            "understanding": 0.0,
+            "headaches": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He watched the team play every Sunday, but this was the first time the fan would enter a what to see a snap live?",
+        "responses": {
+            "living room": 0.0,
+            "hockey game": 0.0,
+            "basketball court": 0.0,
+            "football stadium": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sally made a mistake.  She came home drunk and endeared the wrong house.   What was the relationship between the house and her neighbor?",
+        "responses": {
+            "burn down": 0.0,
+            "her favorite": 0.0,
+            "winter storm": 0.0,
+            "belong to": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If a cottage is above the cloud line, where is it?",
+        "responses": {
+            "village": 0.0,
+            "rural area": 0.0,
+            "fairy story": 0.0,
+            "mountains": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Running is a great workout, it really works up a what?",
+        "responses": {
+            "trip and fall": 0.0,
+            "breathing hard": 0.0,
+            "dehydration": 0.0,
+            "sweat": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why would someone not know where he or she left something after getting drunk?",
+        "responses": {
+            "stumbling": 0.0,
+            "pass out": 0.0,
+            "hangover": 0.0,
+            "forgetfulness": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "WHere does someone sit in a chair to gossip?",
+        "responses": {
+            "synagogue": 0.0,
+            "desk": 0.0,
+            "ocean": 0.0,
+            "friend's house": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do you fill with ink to print?",
+        "responses": {
+            "newspaper": 0.0,
+            "squid": 0.0,
+            "pencil": 0.0,
+            "printer": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The terrace overlooked a section of the Grand River, where was the terrace located?",
+        "responses": {
+            "house": 0.0,
+            "architecture": 0.0,
+            "southern europe": 0.0,
+            "michigan": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "An arch is a very strong way to have a doorway in a what?",
+        "responses": {
+            "cathedral": 0.0,
+            "ancient rome": 0.0,
+            "hole": 0.0,
+            "building": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can you get a yoyo?",
+        "responses": {
+            "toy store": 0.0,
+            "own home": 0.0,
+            "brother's room": 0.0,
+            "toy shop": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A condom is a form of contraceptive for a penis, meanwhile a diaphragm is one designed for a what?",
+        "responses": {
+            "health center": 0.0,
+            "medicine cabinet": 0.0,
+            "drawer": 0.0,
+            "vagina": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would be a dream vacation for some children?",
+        "responses": {
+            "toy store": 0.0,
+            "zoo": 0.0,
+            "museum": 0.0,
+            "disneyland": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What does someone feel when they run away from a big animal?",
+        "responses": {
+            "manual": 0.0,
+            "go faster": 0.0,
+            "stretches": 0.0,
+            "frightened": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could you find at a bus station that can help you?",
+        "responses": {
+            "city centre": 0.0,
+            "lottery ticket": 0.0,
+            "busy city": 0.0,
+            "maps": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would students go to get a higher education?",
+        "responses": {
+            "summer school": 0.0,
+            "homeschool": 0.0,
+            "ask questions": 0.0,
+            "university": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Bailey saw something scary in the entrance hall,  but closer examination showed that it was just a what?",
+        "responses": {
+            "house": 0.0,
+            "school": 0.0,
+            "bathroom": 0.0,
+            "person": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He kept a container can for draining oil in what location of the house?",
+        "responses": {
+            "gutter": 0.0,
+            "pantry": 0.0,
+            "store": 0.0,
+            "garage": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do people often keep a bag from the grocery store?",
+        "responses": {
+            "grocery store": 0.0,
+            "shelf": 0.0,
+            "supermarket": 0.0,
+            "drawer": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might happen to a person after falling?",
+        "responses": {
+            "receive letters": 0.0,
+            "cross street": 0.0,
+            "give gifts": 0.0,
+            "feel embarrassed": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might a child do with cards?",
+        "responses": {
+            "play ball": 0.0,
+            "play with toys": 0.0,
+            "do homework": 0.0,
+            "play games": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He had to fake reading because he was what?",
+        "responses": {
+            "illiteracy": 0.0,
+            "watching tv": 0.0,
+            "acculturation": 0.0,
+            "illiterate": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James was printing on his printer and the paper got stuck.  Then when it was unjammed, he had to clear what?",
+        "responses": {
+            "use paper": 0.0,
+            "noise": 0.0,
+            "ink": 0.0,
+            "queue": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "I'm getting warm because I increased the thermostat in my bedroom.  What might I be doing soon?",
+        "responses": {
+            "increase of temperature": 0.0,
+            "overheat": 0.0,
+            "pleasure": 0.0,
+            "feeling comfortable": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where are there more than 1 trillion planets like earth?",
+        "responses": {
+            "ball stopped": 0.0,
+            "gravity": 0.0,
+            "milky way": 0.0,
+            "universe": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Jerry was too old for this shit.  He was too square, too.  He never did drugs, never drank, but he was in his what?",
+        "responses": {
+            "polygon": 0.0,
+            "four sides": 0.0,
+            "geometry": 0.0,
+            "fifties": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He was running late for class and forgot his book, but he didn't realize that until he was already in the what?",
+        "responses": {
+            "classroom": 0.0,
+            "discount store": 0.0,
+            "bedside table": 0.0,
+            "school room": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The teacher has activity planned the students probably won't enjoy--- what was it?",
+        "responses": {
+            "demonstrate": 0.0,
+            "teach pupils": 0.0,
+            "work in school": 0.0,
+            "time test": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do people gather to see large men in pads play a game where they run and smash in to each other?",
+        "responses": {
+            "surface of earth": 0.0,
+            "opera": 0.0,
+            "car show": 0.0,
+            "football stadium": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The ground floor of what structure would contain workers in suits and ties?",
+        "responses": {
+            "school": 0.0,
+            "brownstone": 0.0,
+            "highrise building": 0.0,
+            "office building": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you're suffering from boredom what can you do on your mobile phone?",
+        "responses": {
+            "play chess": 0.0,
+            "play cards": 0.0,
+            "talk to it": 0.0,
+            "surf net": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If an insurance adjuster finds your claim incorrect they will do what?",
+        "responses": {
+            "relinquish": 0.0,
+            "disown reject": 0.0,
+            "give back": 0.0,
+            "deny": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The student didn't have a dictionary at the dorm, so the student went where?",
+        "responses": {
+            "table": 0.0,
+            "classroom": 0.0,
+            "shelf": 0.0,
+            "library": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The sample needed to be pure, but the lab assistant got it what?",
+        "responses": {
+            "dirty": 0.0,
+            "fresh": 0.0,
+            "corrupt": 0.0,
+            "contaminated": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a human adapted to handle?",
+        "responses": {
+            "co2": 0.0,
+            "community": 0.0,
+            "school": 0.0,
+            "diverse situations": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The artist felt creating art was more than just making a picture, he felt his work had to evoke what?",
+        "responses": {
+            "anger": 0.0,
+            "pleasure": 0.0,
+            "work of art": 0.0,
+            "strong emotion": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What does our president always get in?",
+        "responses": {
+            "limousine": 0.0,
+            "white house": 0.0,
+            "building": 0.0,
+            "trouble": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "His system wouldn't boot, he decided to buy a whole new one where?",
+        "responses": {
+            "human body": 0.0,
+            "computer science": 0.0,
+            "online": 0.0,
+            "computer store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is an adult collector of toy cars likely to keep them?",
+        "responses": {
+            "toy store": 0.0,
+            "childs bedroom": 0.0,
+            "child's room": 0.0,
+            "own home": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why would someone be committing suicide?",
+        "responses": {
+            "kill yourself": 0.0,
+            "loss of someone": 0.0,
+            "being dead": 0.0,
+            "misery": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The stabbing to death of a person is likely to create what on the ground?",
+        "responses": {
+            "gruesome": 0.0,
+            "being arrested": 0.0,
+            "imprisonment": 0.0,
+            "pool of blood": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "As the man descended the mountains into the marsh, where was he?",
+        "responses": {
+            "florida": 0.0,
+            "everglades": 0.0,
+            "field": 0.0,
+            "low lands": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you go if you need an armchair?",
+        "responses": {
+            "grocery store": 0.0,
+            "hospital": 0.0,
+            "study": 0.0,
+            "furniture store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you go if you didn't feel like baking a cake yourself?",
+        "responses": {
+            "theater": 0.0,
+            "oven": 0.0,
+            "grocery store": 0.0,
+            "bakery": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "where would a good newspaper boy put a paper in the rain?",
+        "responses": {
+            "roof": 0.0,
+            "trash": 0.0,
+            "library": 0.0,
+            "front door": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do many vacuums store dirt?",
+        "responses": {
+            "clean carpet": 0.0,
+            "fridge": 0.0,
+            "closet": 0.0,
+            "container": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If one is contemplating during meditation, what does one strive for?",
+        "responses": {
+            "deep thoughts": 0.0,
+            "sense of fulfillment": 0.0,
+            "new discovery": 0.0,
+            "clear thought": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can someone store extra sheets of paper?",
+        "responses": {
+            "cutting and folding": 0.0,
+            "office": 0.0,
+            "printer": 0.0,
+            "box": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James noticed that people who communicate well have fewer problems.  Some people communicate easily with strangers, others need to talk with members of their own groups.  A religion is a type of group.  What do members of a religion have in common?",
+        "responses": {
+            "talk to each other": 0.0,
+            "learn from each other": 0.0,
+            "believe in ghosts": 0.0,
+            "believe in god": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is the tearoom likely to have originated?",
+        "responses": {
+            "building": 0.0,
+            "london": 0.0,
+            "asian countries": 0.0,
+            "england": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do you get a contraceptive device?",
+        "responses": {
+            "pharmacy": 0.0,
+            "person": 0.0,
+            "bedroom": 0.0,
+            "drug store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sam thought that James was a native, because of how Lane did what to James?",
+        "responses": {
+            "established": 0.0,
+            "guide foreigners": 0.0,
+            "foreigner": 0.0,
+            "introduced": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The comforter was missing from the couples' sleep the other night and they were cold, where should it have been?",
+        "responses": {
+            "livingroom": 0.0,
+            "at the cleaners": 0.0,
+            "washing machine": 0.0,
+            "bedroom": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a good place to store a saw?",
+        "responses": {
+            "storage": 0.0,
+            "tool shed": 0.0,
+            "hardware store": 0.0,
+            "toolbox": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do people go to pray?",
+        "responses": {
+            "ignorance": 0.0,
+            "speak to god": 0.0,
+            "kneel": 0.0,
+            "go to church": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "how might someone get injured when driving a car?",
+        "responses": {
+            "getting somewhere": 0.0,
+            "pollution": 0.0,
+            "go somewhere": 0.0,
+            "car crash": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What state has a city called columbia?",
+        "responses": {
+            "washington": 0.0,
+            "south carolina": 0.0,
+            "tennessee": 0.0,
+            "missouri": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would a wooden chair be a good fit for?",
+        "responses": {
+            "living room": 0.0,
+            "lawn": 0.0,
+            "office": 0.0,
+            "desk": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The boy pondered commititng suicide, but didn't think of the consequences, what would he do should he carry though with it?",
+        "responses": {
+            "interruption": 0.0,
+            "dying": 0.0,
+            "extreme pain": 0.0,
+            "die": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The recipe called for much salt to really bring out the flavor, but given his dietary restrictions he added just a what?",
+        "responses": {
+            "very little": 0.0,
+            "too few": 0.0,
+            "too little": 0.0,
+            "little bit": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a subway station called something else?",
+        "responses": {
+            "new york": 0.0,
+            "india": 0.0,
+            "big city": 0.0,
+            "london": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He had been running for a very long time, he knew it was time to stop because he was what?",
+        "responses": {
+            "sore feet": 0.0,
+            "shortness of breath": 0.0,
+            "was cramping": 0.0,
+            "becoming tired": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you're telling many people about tasks you perform you have what?",
+        "responses": {
+            "bragging": 0.0,
+            "religion": 0.0,
+            "learn about": 0.0,
+            "accomplish": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a business leader likely to be in charge of?",
+        "responses": {
+            "country": 0.0,
+            "micromanagement": 0.0,
+            "pack": 0.0,
+            "organization": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a fun way for children to be learning about science?",
+        "responses": {
+            "time": 0.0,
+            "become educated": 0.0,
+            "frustration": 0.0,
+            "experiment": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She loved the music so much, how did she describe it?",
+        "responses": {
+            "express emotion": 0.0,
+            "irritate": 0.0,
+            "quiet mind": 0.0,
+            "beautifull": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John plays brass instruments in a band that has a lot of diverse people in it and many different instruments.   They mostly play at clubs.  What sort of band might he be in.",
+        "responses": {
+            "rubber band": 0.0,
+            "marching band": 0.0,
+            "annoy mom": 0.0,
+            "jazz band": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could there be many couch, all with people sitting on them?",
+        "responses": {
+            "rest area": 0.0,
+            "apartment": 0.0,
+            "restaurant": 0.0,
+            "waiting room": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Mildew is a type of fungus you most often find where?",
+        "responses": {
+            "cave": 0.0,
+            "mushroom": 0.0,
+            "toenails": 0.0,
+            "shower stall": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The student was contemplating the problem, that's when he made the what that led him to the answer?",
+        "responses": {
+            "action": 0.0,
+            "reflection": 0.0,
+            "thinking": 0.0,
+            "discovery": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The mountain was one of many that surrounded the what below?",
+        "responses": {
+            "molehill": 0.0,
+            "field": 0.0,
+            "create climbing challenge": 0.0,
+            "dale": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Dinner was finished and the dishes cleared, the bust boy then wiped all the crumbs off the what?",
+        "responses": {
+            "rug": 0.0,
+            "face": 0.0,
+            "box of crackers": 0.0,
+            "table": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What to you cause by hurting someone else?",
+        "responses": {
+            "legal problems": 0.0,
+            "happiness": 0.0,
+            "public outcry": 0.0,
+            "physical pain": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you are chatting with friends, and you think the same thing as what your friends say, what has happened?",
+        "responses": {
+            "happiness": 0.0,
+            "communication": 0.0,
+            "magic": 0.0,
+            "agreement": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do people do in the cold?",
+        "responses": {
+            "kill animals": 0.0,
+            "wear shorts": 0.0,
+            "believe in god": 0.0,
+            "wear hats": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If an apple tree were in the North, where would it be?",
+        "responses": {
+            "farm yard": 0.0,
+            "alaska": 0.0,
+            "flowers": 0.0,
+            "new jersey": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a tin likely to have food in it?",
+        "responses": {
+            "pizza hut": 0.0,
+            "antique store": 0.0,
+            "hardware store": 0.0,
+            "grocery store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The competition was to see who would be the last one the drop the object, the hard part was you had to have your arm extended straight out while what the object?",
+        "responses": {
+            "lifting": 0.0,
+            "hold onto": 0.0,
+            "lift up": 0.0,
+            "holding": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "All the other locations had new high prices, so the old single screen what suddenly saw an uptick in customers?",
+        "responses": {
+            "art show": 0.0,
+            "hotel": 0.0,
+            "cinema": 0.0,
+            "theatre": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do you have to fan yourself in public watching people run and throw balls?",
+        "responses": {
+            "hot room": 0.0,
+            "living room": 0.0,
+            "sauna": 0.0,
+            "sports stadium": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What else might one feel when hurting?",
+        "responses": {
+            "death": 0.0,
+            "punishment": 0.0,
+            "accident": 0.0,
+            "feel sad": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He waited for his friend at the squash court, but he was worried his friend thought he meant the at the other end of the public what?",
+        "responses": {
+            "country club": 0.0,
+            "pool": 0.0,
+            "fitness center": 0.0,
+            "park": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The shrewd investor had a simple plan to fight inflation, and that was to make what?",
+        "responses": {
+            "print money": 0.0,
+            "pay less": 0.0,
+            "save money": 0.0,
+            "more money": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would you be if you comfort friend?",
+        "responses": {
+            "hurtful": 0.0,
+            "cook": 0.0,
+            "hug": 0.0,
+            "friendly": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "While working he injured himself, his coworker said he should do what more?",
+        "responses": {
+            "take a vacation": 0.0,
+            "complain": 0.0,
+            "accomplishment": 0.0,
+            "pay attention": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do you bring your flight bag?",
+        "responses": {
+            "on you lap": 0.0,
+            "aircraft": 0.0,
+            "aeroplane": 0.0,
+            "airport": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is likely the result of falling from a height?",
+        "responses": {
+            "injuries": 0.0,
+            "going down": 0.0,
+            "diving": 0.0,
+            "broken bones": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sam was performing live.  John couldn't be there but he still listened.  What did he listen to?",
+        "responses": {
+            "recorded": 0.0,
+            "eavesdropping": 0.0,
+            "death": 0.0,
+            "broadcast": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John noticed a plate flanked by silverware set aside for him.  Where was this plate?",
+        "responses": {
+            "in a train": 0.0,
+            "resturant": 0.0,
+            "restaurant": 0.0,
+            "table": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Their boss informed them they can't just be chatting with friends on the clock, it was okay if they were doing what though?",
+        "responses": {
+            "communication": 0.0,
+            "social approval": 0.0,
+            "will laugh": 0.0,
+            "exchanging information": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What method of transportation uses air to float?",
+        "responses": {
+            "train station": 0.0,
+            "surface of earth": 0.0,
+            "supermarket": 0.0,
+            "balloon": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could you put a ruler either on top of or into?",
+        "responses": {
+            "drawer": 0.0,
+            "purse": 0.0,
+            "office": 0.0,
+            "desk": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is the first thing two people do when they feel an attraction to each other?",
+        "responses": {
+            "love another": 0.0,
+            "hug": 0.0,
+            "love else": 0.0,
+            "flirt": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could you find a laundry room that is only used by staff?",
+        "responses": {
+            "house": 0.0,
+            "dorm": 0.0,
+            "green house": 0.0,
+            "hotel": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The ball was in Lucy's court, which was good, since she played handball here all the time.  Where might she be/",
+        "responses": {
+            "field": 0.0,
+            "street": 0.0,
+            "bearing": 0.0,
+            "gymnasium": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you're experiencing being cold, what is your goal likely to be?",
+        "responses": {
+            "make patchwork quilt": 0.0,
+            "light fire": 0.0,
+            "soak in hotspring": 0.0,
+            "get warm": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is there likely a lot of lint?",
+        "responses": {
+            "pocket": 0.0,
+            "purse": 0.0,
+            "beach": 0.0,
+            "laundromat": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you put some pennies that you plan to use soon?",
+        "responses": {
+            "jar": 0.0,
+            "drawer": 0.0,
+            "trunk": 0.0,
+            "pocket": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The farmer chose plants he could make bird feed from and use of again the next year, he only planted what?",
+        "responses": {
+            "raise corn": 0.0,
+            "seed plants": 0.0,
+            "farm land": 0.0,
+            "seed crops": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What usually happens to citizens when there is waging war?",
+        "responses": {
+            "confusion": 0.0,
+            "people dying": 0.0,
+            "evil": 0.0,
+            "suffering": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a negative external consequence for someone who takes part in a killing?",
+        "responses": {
+            "feeling of guilt": 0.0,
+            "dies": 0.0,
+            "bloody mess": 0.0,
+            "being imprisoned": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do you keep salt when you're about to have a meal?",
+        "responses": {
+            "neighbor's house": 0.0,
+            "ocean water": 0.0,
+            "shaker": 0.0,
+            "table": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is KFC who serves chicken?",
+        "responses": {
+            "freezer": 0.0,
+            "plate": 0.0,
+            "oven": 0.0,
+            "fast food restaurant": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The peanuts were being sold at stalls by the ferris wheel, so where were they being sold?",
+        "responses": {
+            "plane": 0.0,
+            "barn": 0.0,
+            "ballpark": 0.0,
+            "carnival": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A lawyer is taking care of proposals, what are they trying to do?",
+        "responses": {
+            "results": 0.0,
+            "marriage": 0.0,
+            "paperwork": 0.0,
+            "getting work done": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where might I ruin some papers if I place my coffee mug there, and it spills?",
+        "responses": {
+            "shelf": 0.0,
+            "kitchen": 0.0,
+            "table": 0.0,
+            "desktop": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is dirty clothing likely to be put?",
+        "responses": {
+            "trunk": 0.0,
+            "drawer": 0.0,
+            "suitcase": 0.0,
+            "washing machine": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You might grab what to smash a large, frightening bug when you're outdoors?",
+        "responses": {
+            "meadow": 0.0,
+            "tree": 0.0,
+            "garden": 0.0,
+            "rock": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The car was out in the sun all day, what happened to the interior?",
+        "responses": {
+            "melted": 0.0,
+            "red": 0.0,
+            "set off": 0.0,
+            "heat up": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Humans tend to be born two ways, these two ways are what?",
+        "responses": {
+            "very adaptable": 0.0,
+            "emotional": 0.0,
+            "left or right handed": 0.0,
+            "male or female": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "They wanted to put on a show about being human beings, which ironically worked because none of them could do what well?",
+        "responses": {
+            "question authority": 0.0,
+            "read newspapers": 0.0,
+            "melt": 0.0,
+            "act": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you need to travel in the cold, you would be best to be what?",
+        "responses": {
+            "amiable": 0.0,
+            "clothed": 0.0,
+            "warm": 0.0,
+            "prepared": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Through the colorful pages the koala went on quite the adventure, the parent thought it made for a good what?",
+        "responses": {
+            "movie": 0.0,
+            "australian outback": 0.0,
+            "wilderness": 0.0,
+            "child's book": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Playing guitar is a dream attempted by many, they often chew on the little plastic what?",
+        "responses": {
+            "desire": 0.0,
+            "strum strings": 0.0,
+            "practice": 0.0,
+            "pick": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A person who is focused on learning about science they will be gaining what?",
+        "responses": {
+            "new ideas": 0.0,
+            "become educated": 0.0,
+            "have fun": 0.0,
+            "scientific knowledge": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could you buy in a bookstore?",
+        "responses": {
+            "carpeting": 0.0,
+            "city": 0.0,
+            "strip mall": 0.0,
+            "magazines": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is needed when creating art that includes singing?",
+        "responses": {
+            "controversy": 0.0,
+            "enlightenment": 0.0,
+            "pride": 0.0,
+            "communication": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The crab was being netted of the coast of Louisiana, where was he caught?",
+        "responses": {
+            "grocery store": 0.0,
+            "tidepools": 0.0,
+            "fishing boat": 0.0,
+            "gulf of mexico": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If somebody eating breakfast keeps it light, it may be because they don't want to go to work with a what?",
+        "responses": {
+            "better day": 0.0,
+            "indigestion": 0.0,
+            "stomachache": 0.0,
+            "full stomach": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would be able to get a bbq meal away from home?",
+        "responses": {
+            "neighbor's house": 0.0,
+            "ribs": 0.0,
+            "louisiana": 0.0,
+            "restaurant": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Despite warnings to not do it while printing on printer, they still had an issue with people carelessly doing what near it?",
+        "responses": {
+            "error": 0.0,
+            "paper and ink": 0.0,
+            "printer": 0.0,
+            "drink coffee": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you find a green bill?",
+        "responses": {
+            "bank": 0.0,
+            "restaurant": 0.0,
+            "mail box": 0.0,
+            "wallet": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John did not abandon his son, but instead did what to him?",
+        "responses": {
+            "acquire": 0.0,
+            "arrogate": 0.0,
+            "surround": 0.0,
+            "embrace": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could you find a barbershop that is not in a separate building from other stores?",
+        "responses": {
+            "city": 0.0,
+            "village": 0.0,
+            "hair salon": 0.0,
+            "shopping mall": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Jogging can do what for your body?",
+        "responses": {
+            "eat cake": 0.0,
+            "increased heart rate": 0.0,
+            "being tired": 0.0,
+            "improved health": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Some envy children's bliss, meanwhile some children wish they were what so they could do anything they want?",
+        "responses": {
+            "the president": 0.0,
+            "old people": 0.0,
+            "parents": 0.0,
+            "grown ups": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A person wanted a seafood dinner, so what did he decide to do?",
+        "responses": {
+            "gain respect": 0.0,
+            "plant flowers": 0.0,
+            "cross street": 0.0,
+            "fish lake": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Who does the teacher speak with most during the week?",
+        "responses": {
+            "other teachers": 0.0,
+            "work in school": 0.0,
+            "teach pupils": 0.0,
+            "school children": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Needlepoint requires many accessories, what holds the work taut?",
+        "responses": {
+            "collection of folk art": 0.0,
+            "sewing": 0.0,
+            "bathroom": 0.0,
+            "frame": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The elephants had way more personality than he expected, he found the younger ones were quite playful and what?",
+        "responses": {
+            "very big": 0.0,
+            "large": 0.0,
+            "sweet": 0.0,
+            "cute": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Index cards were on display at the museum, what kind of museum was it?",
+        "responses": {
+            "card catalogue": 0.0,
+            "office supply store": 0.0,
+            "oral report": 0.0,
+            "library": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The bald eagle has been a protected species, this is in part due to a dwindling what?",
+        "responses": {
+            "nest": 0.0,
+            "high places": 0.0,
+            "in washington": 0.0,
+            "natural habitat": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Bald eagles can be spotted more often in the northern versus the southern reaches of what range?",
+        "responses": {
+            "on the moon": 0.0,
+            "utah": 0.0,
+            "british columbia": 0.0,
+            "rocky mountains": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "100 centavos make a?",
+        "responses": {
+            "good time": 0.0,
+            "austral": 0.0,
+            "mexican peso": 0.0,
+            "cordoba": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "It was my turn to stand watch, so where did I go for my shift?",
+        "responses": {
+            "department store": 0.0,
+            "jewellers": 0.0,
+            "bathroom cabinet": 0.0,
+            "guard tower": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is eating too much dinner likely to result in?",
+        "responses": {
+            "acid reflux": 0.0,
+            "tiredness": 0.0,
+            "illness": 0.0,
+            "stomach ache": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Marcy couldn't cry.  She didn't want her parents to know that she was sad.  She hid her sobs by doing what?",
+        "responses": {
+            "smile": 0.0,
+            "talk": 0.0,
+            "shed tears": 0.0,
+            "laughing": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could you find a library that people of any age can visit?",
+        "responses": {
+            "house": 0.0,
+            "inside": 0.0,
+            "college": 0.0,
+            "downtown": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What happens to people playing games?",
+        "responses": {
+            "cheating": 0.0,
+            "winning": 0.0,
+            "relaxation": 0.0,
+            "happiness": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She sure didn't have a green thumb, every time she thought she was making grow something it would what?",
+        "responses": {
+            "flowering": 0.0,
+            "ground": 0.0,
+            "plants": 0.0,
+            "die": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He got in the bus in Hell and got off at Christmas, it was a fun trip through where?",
+        "responses": {
+            "city": 0.0,
+            "university": 0.0,
+            "big cities": 0.0,
+            "michigan": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The only thing left of the ancient giants lizards are fossils and what?",
+        "responses": {
+            "pictures": 0.0,
+            "sex to produce offspring": 0.0,
+            "tail": 0.0,
+            "bones": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The child was curious about something, what did he do?",
+        "responses": {
+            "play games": 0.0,
+            "become adult": 0.0,
+            "grow up": 0.0,
+            "ask questions": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The spy was listening to the target chatting with friends, his mission was just what?",
+        "responses": {
+            "love": 0.0,
+            "china": 0.0,
+            "feel close to": 0.0,
+            "gathering of information": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The child was pretending he was in space, regular items were parts of his spaceship thanks to his what?",
+        "responses": {
+            "making up story": 0.0,
+            "creativity": 0.0,
+            "acting skills": 0.0,
+            "imagining": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would someone do have fun at a winter party outside?",
+        "responses": {
+            "drink": 0.0,
+            "do enjoy": 0.0,
+            "nothing in paticular": 0.0,
+            "wrap up": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is the only was to recover from exhaustion?",
+        "responses": {
+            "stay in bed": 0.0,
+            "mediate": 0.0,
+            "go to sleep": 0.0,
+            "have rest": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where are you unlikely to see clouds?",
+        "responses": {
+            "inside of a house": 0.0,
+            "air": 0.0,
+            "top of mountain": 0.0,
+            "ground level": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The tree wanted to grow more, but in the garden why did the roots stop spreading?",
+        "responses": {
+            "affected by weather": 0.0,
+            "grow tall": 0.0,
+            "hatred": 0.0,
+            "wall in": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When having food at a formal place, what do you usually do?",
+        "responses": {
+            "drinking": 0.0,
+            "being sociable": 0.0,
+            "medium": 0.0,
+            "sit": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Billy loves science, history, and art but isn't very creative.  When he was visiting the museum, he felt a great deal of what emotion?",
+        "responses": {
+            "wonder": 0.0,
+            "inspiration": 0.0,
+            "boredom": 0.0,
+            "enjoyment": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why might others think a person is crazy?",
+        "responses": {
+            "yell": 0.0,
+            "study greek": 0.0,
+            "open doors": 0.0,
+            "talk to themselves": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What's a good way to remember your small dog after he's gone?",
+        "responses": {
+            "basket": 0.0,
+            "school": 0.0,
+            "laboratory": 0.0,
+            "photograph": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What happens when I make a pig of myself eating breakfast?",
+        "responses": {
+            "gain energy": 0.0,
+            "feeling satisfied": 0.0,
+            "have energy": 0.0,
+            "full stomach": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Being tired makes humans realize they need what even in a car, or chair?",
+        "responses": {
+            "go to sleep": 0.0,
+            "go to bed": 0.0,
+            "snore": 0.0,
+            "have rest": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James is very interested in other planets.  He loved the idea of going to mars, and reads books about it all the time.   He dreams of being on what?",
+        "responses": {
+            "library": 0.0,
+            "love": 0.0,
+            "school": 0.0,
+            "space shuttle": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Procreating isn't the only consequence of sex.  What is even more common than kids?",
+        "responses": {
+            "used condoms": 0.0,
+            "pregnancy": 0.0,
+            "twins": 0.0,
+            "venereal disease": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a dentist office likely to be?",
+        "responses": {
+            "minnesota": 0.0,
+            "street": 0.0,
+            "hospital": 0.0,
+            "office building": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The evening was supposed to be cold, but it was warm when?",
+        "responses": {
+            "day time": 0.0,
+            "early morning": 0.0,
+            "desert": 0.0,
+            "afternoon": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The king gave a speech about it being an auspicious day, but he was assassinated in the middle of it making it actually what?",
+        "responses": {
+            "ruinous": 0.0,
+            "ominous": 0.0,
+            "coincidental": 0.0,
+            "disastrous": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The company printer was out of paper, so the IT guy went and got another what?",
+        "responses": {
+            "notebook": 0.0,
+            "clear out": 0.0,
+            "stock certificate": 0.0,
+            "ream": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A battleship is a powerful vessel.  If you need something similar but faster, what would you use?",
+        "responses": {
+            "patrol boat": 0.0,
+            "destroyer": 0.0,
+            "aircraft carrier": 0.0,
+            "corvette": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When John flew to a new state he didn't know where any of the bars where.  He eventually found something that wasn't a bar but still served drinks. What might he have found?",
+        "responses": {
+            "airport": 0.0,
+            "restaurant": 0.0,
+            "las vegas": 0.0,
+            "public house": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a very common color in flowers?",
+        "responses": {
+            "perennial": 0.0,
+            "annuals": 0.0,
+            "orange": 0.0,
+            "yellow": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The ficus tree isn't native to the state of actors and surfers but you can find them where?",
+        "responses": {
+            "conservatory": 0.0,
+            "tropical forest": 0.0,
+            "front yard": 0.0,
+            "california": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What should you do when you need to raise your body temperature when it is chilly at night outdoors?",
+        "responses": {
+            "sleepover": 0.0,
+            "go to jail": 0.0,
+            "burns": 0.0,
+            "warmth": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John wanted to take pictures of wild gazelle. Where might he go to find one?",
+        "responses": {
+            "sheep pen.": 0.0,
+            "ball gown": 0.0,
+            "open plain": 0.0,
+            "kalahari desert": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The food was packaged for sale, where was it bound?",
+        "responses": {
+            "refrigerators": 0.0,
+            "kitchen": 0.0,
+            "shelf": 0.0,
+            "shop": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You can find cards all sorts of places, but if you want to bet on them in all sorts of games where should you go?",
+        "responses": {
+            "table play": 0.0,
+            "toy store": 0.0,
+            "table": 0.0,
+            "casino": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Some people use love to do what for themselves?",
+        "responses": {
+            "live life": 0.0,
+            "rub one out": 0.0,
+            "procreate": 0.0,
+            "entertain": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The man is drunk and angry, what does he look to do to others?",
+        "responses": {
+            "fight": 0.0,
+            "throw up": 0.0,
+            "appear ridiculous": 0.0,
+            "raise hell": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a good description of the sloth's native habitat?",
+        "responses": {
+            "amazonia": 0.0,
+            "universe": 0.0,
+            "basement": 0.0,
+            "tropical jungle": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A cat sometimes has trouble deciding whether or not to come in or out of what?",
+        "responses": {
+            "floor": 0.0,
+            "residence": 0.0,
+            "warm place": 0.0,
+            "front door": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The friends loved competing against one another, it was a good way to work their what?",
+        "responses": {
+            "sweat": 0.0,
+            "winning or losing": 0.0,
+            "friendship": 0.0,
+            "aggression": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could you find a long, dark passageway?",
+        "responses": {
+            "bathroom": 0.0,
+            "house": 0.0,
+            "airport": 0.0,
+            "cave": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A newspaper is a traditional way of doing what to events?",
+        "responses": {
+            "defend": 0.0,
+            "announce": 0.0,
+            "inform": 0.0,
+            "communicate": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The person was bored of life, what was he up to do?",
+        "responses": {
+            "own house": 0.0,
+            "sunny days": 0.0,
+            "suicide": 0.0,
+            "all kinds of things": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where might a person store an antibiotic to keep it out of the reach of children?",
+        "responses": {
+            "capsule": 0.0,
+            "prescribed": 0.0,
+            "pharmacy": 0.0,
+            "medicine cabinet": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The man was cleaning clothes for his date, what was he looking to achieve?",
+        "responses": {
+            "ruined": 0.0,
+            "sadness": 0.0,
+            "clean clothes": 0.0,
+            "attractive appearance": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She wanted to make a quilt of velvet, where should she look?",
+        "responses": {
+            "clothes": 0.0,
+            "jewelry store": 0.0,
+            "grandma": 0.0,
+            "fabric store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John was writing into the wee hours.  Because of this he left a mess where?",
+        "responses": {
+            "table": 0.0,
+            "night stand": 0.0,
+            "closet": 0.0,
+            "desk": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The college student wanted to meet people, but he didn't really like to what?",
+        "responses": {
+            "friendly": 0.0,
+            "take class": 0.0,
+            "go outside": 0.0,
+            "go to parties": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do you take a bus after a day at work?",
+        "responses": {
+            "get somewhere": 0.0,
+            "commute": 0.0,
+            "avoid parking hassle": 0.0,
+            "go home": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you store glue when it's not in use?",
+        "responses": {
+            "classroom": 0.0,
+            "art room": 0.0,
+            "bathroom": 0.0,
+            "desk drawer": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She was competing, but felt inadequate, what did she apply to improve performance?",
+        "responses": {
+            "vain thoughts": 0.0,
+            "adrenaline rush": 0.0,
+            "steroids": 0.0,
+            "increased effort": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If someone is outgoing what are they likely to seek?",
+        "responses": {
+            "own house": 0.0,
+            "playfulness": 0.0,
+            "good looking": 0.0,
+            "new experiences": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could a massive building be if it is not constructed well?",
+        "responses": {
+            "massless": 0.0,
+            "dwarf": 0.0,
+            "good": 0.0,
+            "insubstantial": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is the biggest speech in the capital?",
+        "responses": {
+            "europe": 0.0,
+            "each country": 0.0,
+            "each state": 0.0,
+            "state of union": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do almost all people live?",
+        "responses": {
+            "football stadium": 0.0,
+            "house": 0.0,
+            "car show": 0.0,
+            "surface of earth": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is the goal of a younger , risky investor?",
+        "responses": {
+            "save money": 0.0,
+            "lose money": 0.0,
+            "sell stock": 0.0,
+            "gain wealth": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would a rock form in nature above the treeline?",
+        "responses": {
+            "pit": 0.0,
+            "surface of earth": 0.0,
+            "minerals": 0.0,
+            "mountains": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is small knight likely to be found?",
+        "responses": {
+            "middle ages": 0.0,
+            "castle": 0.0,
+            "fairy tale": 0.0,
+            "chess board": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The hospital next to the Sears tower is where?",
+        "responses": {
+            "military base": 0.0,
+            "most cities": 0.0,
+            "ross tower": 0.0,
+            "detroit": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might a doctor have to do in an emergency?",
+        "responses": {
+            "provide care": 0.0,
+            "perform a physical": 0.0,
+            "care for patients": 0.0,
+            "resuscitate": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The man was getting drunk, his stride was struggling and he was what?",
+        "responses": {
+            "throw up": 0.0,
+            "getting arrested": 0.0,
+            "fall down": 0.0,
+            "staggering": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Washing hands after certain activities is highly recommended, keeping up this habit can keep you in good what?",
+        "responses": {
+            "skin irritation": 0.0,
+            "become wet": 0.0,
+            "park": 0.0,
+            "health": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might happen after too much drinking?",
+        "responses": {
+            "sickness": 0.0,
+            "headaches": 0.0,
+            "fall": 0.0,
+            "vomiting": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A drab olive drawstring bag is where someone in the what would keep their belongings?",
+        "responses": {
+            "department store": 0.0,
+            "airport": 0.0,
+            "safe": 0.0,
+            "military": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The car hit a post, but the driver didn't stop.  He did what?",
+        "responses": {
+            "seatbelt": 0.0,
+            "gain speed": 0.0,
+            "slow down": 0.0,
+            "rush away": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What was the reaction when the children were given ice cream?",
+        "responses": {
+            "play chess": 0.0,
+            "awesome": 0.0,
+            "sadness": 0.0,
+            "enjoyed": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can a grain of sand cause a person a lot of pain and possible damage sight?",
+        "responses": {
+            "shoes": 0.0,
+            "clam": 0.0,
+            "bathing suit": 0.0,
+            "eye": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Putting on a professional stage play requires what kind of effort?",
+        "responses": {
+            "having fun": 0.0,
+            "laugh": 0.0,
+            "doing nothing": 0.0,
+            "serious": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you put a sealed drink if you want to bring it with you?",
+        "responses": {
+            "cup": 0.0,
+            "cardboard box": 0.0,
+            "cabinet": 0.0,
+            "backpack": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why would someone light a fire?",
+        "responses": {
+            "warm hands": 0.0,
+            "to burn down a house": 0.0,
+            "help people": 0.0,
+            "warm room": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The world is very big, it has many countries and continents on it's spherical surface.  There are many types of people It's very what?",
+        "responses": {
+            "square": 0.0,
+            "round": 0.0,
+            "complicated": 0.0,
+            "diverse": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James needed to reset after a long day at work.   He turned on the television and found a good show.  What might that help him do?",
+        "responses": {
+            "sleep easily": 0.0,
+            "go to bed": 0.0,
+            "go to sleep": 0.0,
+            "relax": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why is a member of the priesthood in a new church advised by friends to start getting in shape?",
+        "responses": {
+            "losing weight": 0.0,
+            "exercise": 0.0,
+            "pain": 0.0,
+            "feel better": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The weasel would go round and round the what while waiting to attack?",
+        "responses": {
+            "chicken coop": 0.0,
+            "apple tree": 0.0,
+            "rabbit warren": 0.0,
+            "mulberry bush": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "How is someone in a new relationship likely to feel about kissing?",
+        "responses": {
+            "hormones": 0.0,
+            "like": 0.0,
+            "happiness": 0.0,
+            "shyness": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do you have to do in a boat to bring home fish?",
+        "responses": {
+            "buy vegetable": 0.0,
+            "go to market": 0.0,
+            "reconsider": 0.0,
+            "go fishing": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What kind of activity is making bread?",
+        "responses": {
+            "adept": 0.0,
+            "allergic reactions": 0.0,
+            "mess": 0.0,
+            "gratifying": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She was in a kitchen of people who just moved in to town, where was she?",
+        "responses": {
+            "home": 0.0,
+            "tree house": 0.0,
+            "restaurant": 0.0,
+            "neighbor's house": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Lara checked out the loose hub.   He she didn't tighten it, the what might come loose and then hundred of people would die?",
+        "responses": {
+            "car wheel": 0.0,
+            "gasoline": 0.0,
+            "electric fan": 0.0,
+            "propeller": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You should probably have something healthier than just eat ice cream if you what?",
+        "responses": {
+            "let melt in mouth": 0.0,
+            "depressed": 0.0,
+            "exercise": 0.0,
+            "were hungry": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The man reduced the town to rubble out of hate, what was his goal?",
+        "responses": {
+            "play nice": 0.0,
+            "stab to death": 0.0,
+            "wage war": 0.0,
+            "destroy enemy": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "There was a dog, it was barking loudly.  James wasn't scared of it though, because it was confined.  Where might it have been confined to?",
+        "responses": {
+            "park": 0.0,
+            "table": 0.0,
+            "kitchen cupboard": 0.0,
+            "backyard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What becomes wet and dangerous when it rains?",
+        "responses": {
+            "seattle": 0.0,
+            "cars": 0.0,
+            "air": 0.0,
+            "street": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why would someone visit many stores before buying products?",
+        "responses": {
+            "overstocking": 0.0,
+            "online shopping": 0.0,
+            "debt": 0.0,
+            "comparison shopping": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "How would grooming lead to bald spots?",
+        "responses": {
+            "beauty": 0.0,
+            "brushing": 0.0,
+            "satisfaction": 0.0,
+            "mistakes": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A lonely and mentally disturbed person may begin doing what for conversation?",
+        "responses": {
+            "cast shadow": 0.0,
+            "shadow puppet": 0.0,
+            "cross street": 0.0,
+            "talk to himself": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "It isn't always a good thing, sometimes cats do what because they're nervous?",
+        "responses": {
+            "claw": 0.0,
+            "growl": 0.0,
+            "think": 0.0,
+            "purr": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would you read about an apple tree in?",
+        "responses": {
+            "new york": 0.0,
+            "ohio": 0.0,
+            "cat in the hat": 0.0,
+            "bible": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The man loved to fish bass, to be happy all he needed was a boat, his equipment, and a what?",
+        "responses": {
+            "live in ponds": 0.0,
+            "river": 0.0,
+            "sunshine": 0.0,
+            "freshwater lake": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What symptom does smoking relate to the organ of breathing?",
+        "responses": {
+            "bad breath": 0.0,
+            "death": 0.0,
+            "birth defects": 0.0,
+            "persistent cough": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a shelf likely to be made of wire?",
+        "responses": {
+            "bookstore": 0.0,
+            "cupboard": 0.0,
+            "hades": 0.0,
+            "refrigerator": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is likely to have a thick membrane?",
+        "responses": {
+            "separating fluids": 0.0,
+            "animal": 0.0,
+            "filtration": 0.0,
+            "fresh egg": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you are deep in a cave, what would you follow to find your way out?",
+        "responses": {
+            "mountain": 0.0,
+            "high": 0.0,
+            "frivolous": 0.0,
+            "light": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If someone is free from guilt what are they likely to achieve?",
+        "responses": {
+            "freedom from want": 0.0,
+            "new computer": 0.0,
+            "medal": 0.0,
+            "peaceful sleep": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What past time are people engaged in when they are traveling along liquid?",
+        "responses": {
+            "high fives": 0.0,
+            "learn from each other": 0.0,
+            "question authority": 0.0,
+            "sail boats": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is eating an unhealthy meal likely to cause?",
+        "responses": {
+            "getting full": 0.0,
+            "electrical circuit": 0.0,
+            "gaining weight": 0.0,
+            "gas": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Simon's instructions were not clear.  Claire found them to be what?",
+        "responses": {
+            "obscured": 0.0,
+            "park": 0.0,
+            "misunderstood": 0.0,
+            "confusing": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The machine only took quarters, and he only had enough for one load at the what?",
+        "responses": {
+            "street": 0.0,
+            "assembly line": 0.0,
+            "house": 0.0,
+            "laundromat": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do all people have at first but later might not have?",
+        "responses": {
+            "brains": 0.0,
+            "muscles": 0.0,
+            "feelings": 0.0,
+            "parents": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Washing clothes manually leads to what?",
+        "responses": {
+            "singing": 0.0,
+            "watch tv": 0.0,
+            "water and soap": 0.0,
+            "getting wet": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What will hot cats do?",
+        "responses": {
+            "eat meat": 0.0,
+            "lie down": 0.0,
+            "open doors": 0.0,
+            "drink water": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A homeless person asked Jim for advice.  Jim wasn't religious, but he told the person something that he remembered.  What might he have told the person?",
+        "responses": {
+            "synagogue": 0.0,
+            "street corner": 0.0,
+            "hospital": 0.0,
+            "fairy tale": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The entrance hall was grandiose and had royalty inside, where was the entrance hall?",
+        "responses": {
+            "outside": 0.0,
+            "school": 0.0,
+            "house": 0.0,
+            "palace": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could happen to a car when you press one of its pedals?",
+        "responses": {
+            "go fast": 0.0,
+            "suffer damage": 0.0,
+            "rush away": 0.0,
+            "gain speed": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The teacher was arranging and sorting papers at her desk, needing paper clips she opened up the left what?",
+        "responses": {
+            "window": 0.0,
+            "desktop": 0.0,
+            "work": 0.0,
+            "drawer": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you put a ficus if you do not want it to damage your floor?",
+        "responses": {
+            "middle east": 0.0,
+            "earth": 0.0,
+            "dictionary": 0.0,
+            "container": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The friends enjoyed getting together to play cards, even though one of them always won because he was what?",
+        "responses": {
+            "excellent": 0.0,
+            "have fun": 0.0,
+            "bored": 0.0,
+            "good at": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The monkey was hopping around, climbing things, and swinging around his habitat.  What might he have been feeling?",
+        "responses": {
+            "brazil": 0.0,
+            "busy": 0.0,
+            "treetops": 0.0,
+            "playful mood": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can you store a book you won't need for a while nearby to fabric items you wear?",
+        "responses": {
+            "library of congress": 0.0,
+            "desk": 0.0,
+            "bookshelf": 0.0,
+            "closet": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The team began analysing all the DNA evidence, they were hoping to once and for all be what?",
+        "responses": {
+            "enlightened": 0.0,
+            "paid": 0.0,
+            "new knowledge": 0.0,
+            "discovering truth": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is microphone boom likely to be used to record an album?",
+        "responses": {
+            "tv studio": 0.0,
+            "radio station": 0.0,
+            "new york": 0.0,
+            "recording studio": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do people go to borrow sugar?",
+        "responses": {
+            "apartment": 0.0,
+            "internet": 0.0,
+            "buildings": 0.0,
+            "neighbor's house": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can you buy shampoo along side items for nourishment?",
+        "responses": {
+            "hair salon": 0.0,
+            "at hotel": 0.0,
+            "big box stores": 0.0,
+            "supermarket": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The people who fly in an airplane are commonly called what?",
+        "responses": {
+            "run through checklists": 0.0,
+            "read": 0.0,
+            "buy tickets": 0.0,
+            "passenger": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The tickets were supposed to arrive by 1AM, but Sally had been standing in queue for the concert since midnight and it was now 2AM and the line hadn't moved.  Why was this?",
+        "responses": {
+            "frustration": 0.0,
+            "moving forward": 0.0,
+            "sprinting": 0.0,
+            "delays": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John is in a dressing room changing into shorts and sweat pants.  What sort of building is he most likely to be in?",
+        "responses": {
+            "theatre": 0.0,
+            "swimming pool": 0.0,
+            "boutique": 0.0,
+            "gym": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can you keep a candle in case of emergency?",
+        "responses": {
+            "basement": 0.0,
+            "table": 0.0,
+            "birthday cake": 0.0,
+            "kitchen": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you only need a shopping bag if you did not finish what you got there?",
+        "responses": {
+            "mart": 0.0,
+            "grocery store": 0.0,
+            "relative's home": 0.0,
+            "restaurant": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where does a fox go most of the time?",
+        "responses": {
+            "back yard": 0.0,
+            "hen house": 0.0,
+            "storybook": 0.0,
+            "natural habitat": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James was caught committing perjury in a mock trial for his law class. Everyone laughed at his inept lies.  He couldn't stand the what?",
+        "responses": {
+            "jail time": 0.0,
+            "indictment": 0.0,
+            "penalty": 0.0,
+            "embarrassment": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you're going to a party held at work you are there to make what?",
+        "responses": {
+            "having fun": 0.0,
+            "doing drugs": 0.0,
+            "making new friends": 0.0,
+            "new contacts": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where does a bald eagle like to fly?",
+        "responses": {
+            "wildlife refuge": 0.0,
+            "mountains": 0.0,
+            "pine tree": 0.0,
+            "open country": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where are plants happiest in the spring?",
+        "responses": {
+            "greenhouse": 0.0,
+            "surface of earth": 0.0,
+            "in the shade": 0.0,
+            "garden": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is someone who enjoys to give assistance likely to do?",
+        "responses": {
+            "go home": 0.0,
+            "helpful": 0.0,
+            "prepared": 0.0,
+            "help one": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sally had a throat injury.  She can't talk because she is unable to do what?",
+        "responses": {
+            "will listen": 0.0,
+            "swallow food": 0.0,
+            "open mouth": 0.0,
+            "make sound": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Although the living room was set up for the party, where did people tend to congregate while the mother worked?",
+        "responses": {
+            "hallway": 0.0,
+            "ocean": 0.0,
+            "wireroom": 0.0,
+            "kitchen": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John plays chess with his roommate They make one move each between classes.  Where is his chess set most likely set up?",
+        "responses": {
+            "canada": 0.0,
+            "sitting room": 0.0,
+            "drawer": 0.0,
+            "dorm": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is the closest place outside of one's own home that a grill can be found?",
+        "responses": {
+            "these twos places are  cannot be found ..": 0.0,
+            "barbeque": 0.0,
+            "backyard": 0.0,
+            "neighbor's house": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is tin stored forever?",
+        "responses": {
+            "antique store": 0.0,
+            "shopping bag": 0.0,
+            "junk yard": 0.0,
+            "landfill": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "People often describe what as a giant wall of water?",
+        "responses": {
+            "ocean": 0.0,
+            "backpack": 0.0,
+            "snowball": 0.0,
+            "tsunami": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The drawing room was a central feature of the palatial estate, where was it located?",
+        "responses": {
+            "large house": 0.0,
+            "artist's house": 0.0,
+            "bordello": 0.0,
+            "mansion": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He was competing for the prestigious prize, though it had no money, what was he seeking by attempting to get it?",
+        "responses": {
+            "game": 0.0,
+            "enemies": 0.0,
+            "rivalry": 0.0,
+            "accomplishment": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He was bound to get hired quickly apply for job, he had a reputation for what?",
+        "responses": {
+            "stress": 0.0,
+            "frustration": 0.0,
+            "rejection": 0.0,
+            "working hard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He volunteered to help them after the disaster, he was able bodied and hoped to be what?",
+        "responses": {
+            "criticized": 0.0,
+            "ask questions": 0.0,
+            "make happy": 0.0,
+            "of service to": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Young Timmy had a weak arm and could never quite land the newspaper all the way up on my what?",
+        "responses": {
+            "library": 0.0,
+            "floor": 0.0,
+            "subway": 0.0,
+            "porch": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could happen after you are eating lunch that affects other people?",
+        "responses": {
+            "gain weight": 0.0,
+            "farts": 0.0,
+            "heartburn": 0.0,
+            "bad breath": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "People are genetically most likely to have this on top of their head?",
+        "responses": {
+            "horns": 0.0,
+            "drug problem": 0.0,
+            "feelings": 0.0,
+            "brown hair": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Gary bought stock in a fortune 500 company before going off to the tournament.   He also bought a new what?",
+        "responses": {
+            "artillery": 0.0,
+            "hatred": 0.0,
+            "double in value": 0.0,
+            "fishing rod": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The animals weren't good at swimming, so it was hard for them to do what?",
+        "responses": {
+            "reproduce asexually": 0.0,
+            "feel pleasure": 0.0,
+            "bathe": 0.0,
+            "pass water": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could you find in a bookstore that is not for sale?",
+        "responses": {
+            "phone book": 0.0,
+            "magazines": 0.0,
+            "town": 0.0,
+            "carpeting": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A computer can process information and even choose, but it can't do what?",
+        "responses": {
+            "make decisions": 0.0,
+            "receive data": 0.0,
+            "brain": 0.0,
+            "believe in god": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She heard a gong while walking through new york city, where was she likely?",
+        "responses": {
+            "music store": 0.0,
+            "orchestra": 0.0,
+            "tibet": 0.0,
+            "chinatown": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is the closest place you would find a potato?",
+        "responses": {
+            "england": 0.0,
+            "maryland": 0.0,
+            "ireland": 0.0,
+            "kitchen cupboard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You can find a protected forest in just about any what?",
+        "responses": {
+            "south africa": 0.0,
+            "temperate zone": 0.0,
+            "countryside": 0.0,
+            "national park": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is someone likely to do to someone accused of killing people they love?",
+        "responses": {
+            "sadness": 0.0,
+            "going to jail": 0.0,
+            "go home": 0.0,
+            "retaliation": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would you use to see a clip?",
+        "responses": {
+            "woman's hair": 0.0,
+            "scissors": 0.0,
+            "desk drawer": 0.0,
+            "television show": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What does it mean when I have to do something not optional",
+        "responses": {
+            "lazy": 0.0,
+            "compulsory": 0.0,
+            "obligatory": 0.0,
+            "mandatory": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If I'm not free, what am I?",
+        "responses": {
+            "expensive": 0.0,
+            "locked up": 0.0,
+            "paid for": 0.0,
+            "imprisoned": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You are covered with what when you're having a bath?",
+        "responses": {
+            "exfoliation": 0.0,
+            "use water": 0.0,
+            "cleanness": 0.0,
+            "wetness": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The station was local, but Sarah could pick up signals from where?",
+        "responses": {
+            "worldwide": 0.0,
+            "distant": 0.0,
+            "eat cake": 0.0,
+            "far away": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you're caught buying beer for children what will happen?",
+        "responses": {
+            "relaxation": 0.0,
+            "losing money": 0.0,
+            "fighting": 0.0,
+            "get arrested": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Who does the government help with schools?",
+        "responses": {
+            "get money": 0.0,
+            "parents": 0.0,
+            "take money": 0.0,
+            "school children": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a good place to purchase a toy balloon?",
+        "responses": {
+            "parade": 0.0,
+            "birthday party": 0.0,
+            "church": 0.0,
+            "amusement park": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James was scared of the old well.  It was there when he bought what?",
+        "responses": {
+            "farm country": 0.0,
+            "michigan": 0.0,
+            "fairytale": 0.0,
+            "farm yard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What can be the result of meeting people with similar attitudes?",
+        "responses": {
+            "being bored": 0.0,
+            "new job": 0.0,
+            "love": 0.0,
+            "making new friends": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The couple woke up to good weather finally, the rain had ruined the vacation so far but today they would what?",
+        "responses": {
+            "climb": 0.0,
+            "play frisbee": 0.0,
+            "hike": 0.0,
+            "go somewhere": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The coach explained respect to the players before the game against the worst team in the league, he didn't want his players to what to the opponents?",
+        "responses": {
+            "contemn": 0.0,
+            "disregard": 0.0,
+            "diss": 0.0,
+            "belittle": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might lock after someone drives in?",
+        "responses": {
+            "entrance": 0.0,
+            "mouths": 0.0,
+            "doorknob": 0.0,
+            "gate": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The researcher cut his hand and went to the sink, where was the researcher?",
+        "responses": {
+            "chemistry lab": 0.0,
+            "home": 0.0,
+            "laundry room": 0.0,
+            "laboratory": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is someone unintentionally hurting someone else but unable to stop likely to feel?",
+        "responses": {
+            "glee": 0.0,
+            "regret": 0.0,
+            "sadness": 0.0,
+            "despair": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When people travel they usually don't have to worry about medical emergencies because hospitals are where?",
+        "responses": {
+            "military base": 0.0,
+            "people are": 0.0,
+            "major city": 0.0,
+            "every state": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Seeing old things made him what to explore more, it made him very what?",
+        "responses": {
+            "new memories": 0.0,
+            "reverence": 0.0,
+            "remind": 0.0,
+            "curiosity": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "In the city the family didn't have a back yard, but now they did since they lived in a what?",
+        "responses": {
+            "neighborhood": 0.0,
+            "yards": 0.0,
+            "farm": 0.0,
+            "suburb": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can I go to take classes on playing an upright piano?",
+        "responses": {
+            "music room": 0.0,
+            "living room": 0.0,
+            "house": 0.0,
+            "college": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A student puked in the cafeteria, the janitor retrieved his bucket of sawdust from the what?",
+        "responses": {
+            "cupboard": 0.0,
+            "garden shed": 0.0,
+            "well": 0.0,
+            "utility closet": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "To prevent unwanted pregnancies, you'd keep the heifers and the bulls in separate what?",
+        "responses": {
+            "dairy barn": 0.0,
+            "houses": 0.0,
+            "cattle show": 0.0,
+            "corral": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What does waiting for something for a response from an interview cause?",
+        "responses": {
+            "tedious": 0.0,
+            "patience": 0.0,
+            "impatience": 0.0,
+            "anxiety": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "There was a show on television about a ranger who loved flowers, but the next day it was about a gardener who also loved flowers.  It was a what?",
+        "responses": {
+            "surface of earth": 0.0,
+            "countryside": 0.0,
+            "state park": 0.0,
+            "anthology": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The lizard tried to stay cool by resting in what sort of location?",
+        "responses": {
+            "garden": 0.0,
+            "sunny place": 0.0,
+            "rocky areas": 0.0,
+            "shady spot": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Some people really loved beer, they call it what gold?",
+        "responses": {
+            "intoxicating": 0.0,
+            "hair of the dog": 0.0,
+            "alcohol in": 0.0,
+            "liquid": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Learning about science can cause what emotion?",
+        "responses": {
+            "invent": 0.0,
+            "excitement": 0.0,
+            "smiles": 0.0,
+            "frustration": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The therapist said they needed to work on what, and that just talking to one another is the first step?",
+        "responses": {
+            "persuaded": 0.0,
+            "friendship": 0.0,
+            "laughing": 0.0,
+            "communication": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What happens to a neighborhood when someone is known to be hurting someone else?",
+        "responses": {
+            "more hurt": 0.0,
+            "people become happy": 0.0,
+            "physical pain": 0.0,
+            "public outcry": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What are all living things that have at least one nerve called?",
+        "responses": {
+            "fingertips": 0.0,
+            "turtles": 0.0,
+            "person's body": 0.0,
+            "organism": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What area is a human weasel likely to be found?",
+        "responses": {
+            "chicken coop": 0.0,
+            "children's song": 0.0,
+            "congress": 0.0,
+            "washington d.c": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "In the morning you return to work, in the evening you?",
+        "responses": {
+            "get out of bed": 0.0,
+            "get life": 0.0,
+            "go to meeting": 0.0,
+            "leave work": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can a student find their pens?",
+        "responses": {
+            "office": 0.0,
+            "art class": 0.0,
+            "take notes": 0.0,
+            "backpack": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could a restaurant be located that would allow someone to sleep there?",
+        "responses": {
+            "cafeteria": 0.0,
+            "building": 0.0,
+            "yellow pages": 0.0,
+            "at hotel": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where will the stage for the students' graduation be found?",
+        "responses": {
+            "opera": 0.0,
+            "concert hall": 0.0,
+            "theatre": 0.0,
+            "auditorium": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The school dress code was strict, all girls had to wear a what?",
+        "responses": {
+            "pant": 0.0,
+            "pants": 0.0,
+            "trousers": 0.0,
+            "long skirt": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A person was finishing a test and looking frantically at the clock, what did they have to do?",
+        "responses": {
+            "cross street": 0.0,
+            "express love": 0.0,
+            "relax": 0.0,
+            "race against time": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James's first priority was finding information.  He wanted to know for his own what?",
+        "responses": {
+            "exciting": 0.0,
+            "hatred": 0.0,
+            "thoughts": 0.0,
+            "gratification": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What can cause someone to want to go somewhere else because it's so smelly?",
+        "responses": {
+            "go back": 0.0,
+            "arrive there": 0.0,
+            "rose bush": 0.0,
+            "fart": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He was her uncle, and she was his what?",
+        "responses": {
+            "boy": 0.0,
+            "aunts house": 0.0,
+            "aunty": 0.0,
+            "niece": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where might a yard be tiny?",
+        "responses": {
+            "neighborhood": 0.0,
+            "subdivision": 0.0,
+            "property": 0.0,
+            "city": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The class was clear, and that made it almost what?",
+        "responses": {
+            "misunderstood": 0.0,
+            "murky": 0.0,
+            "teacher": 0.0,
+            "invisible": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When she went to examine the thing, what was she considering doing with it?",
+        "responses": {
+            "eat cake": 0.0,
+            "complex": 0.0,
+            "learn about": 0.0,
+            "buy": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where will you find eggs before the farmer collects them?",
+        "responses": {
+            "omletts": 0.0,
+            "egg carton": 0.0,
+            "supermarket": 0.0,
+            "chicken coop": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The student was attending a lecture on engineering, what was he hoping to do?",
+        "responses": {
+            "become smartet": 0.0,
+            "inspiration": 0.0,
+            "go to sleep": 0.0,
+            "gain knowledge": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The graphic designer worked in tile, these digital tiles made up the maps of a what?",
+        "responses": {
+            "floor": 0.0,
+            "art": 0.0,
+            "roof": 0.0,
+            "computer game": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The poet wanted to promote his new literature to literary majors, where did he go to do so?",
+        "responses": {
+            "classroom": 0.0,
+            "home": 0.0,
+            "book store": 0.0,
+            "university": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can someone level up?",
+        "responses": {
+            "carpenter's shop": 0.0,
+            "building": 0.0,
+            "food court": 0.0,
+            "video game": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is moving cars without looking likely to result in?",
+        "responses": {
+            "ticket": 0.0,
+            "driving": 0.0,
+            "traffic": 0.0,
+            "accidents": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The man and the woman chipped the wood for their garden and then did what to it?",
+        "responses": {
+            "feel rough": 0.0,
+            "warp": 0.0,
+            "petrify": 0.0,
+            "composted": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The camper looked up at the vast night sky, it left him feeling mighty what?",
+        "responses": {
+            "unimportant": 0.0,
+            "helpless": 0.0,
+            "somewhat": 0.0,
+            "insignificant": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What happens when applying a heat source to combustible materials?",
+        "responses": {
+            "warmth": 0.0,
+            "damage": 0.0,
+            "go to jail": 0.0,
+            "burns": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The person deposited a check, what was she looking to do?",
+        "responses": {
+            "promise to do": 0.0,
+            "smell smoke": 0.0,
+            "go to bank": 0.0,
+            "bank savings": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would happen if you are expressing yourself and someone does not agree with you?",
+        "responses": {
+            "embarrassment": 0.0,
+            "repercussions": 0.0,
+            "miscommunication": 0.0,
+            "misunderstanding": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When someone talk, what does someone else usually do to the person talking?",
+        "responses": {
+            "keep silent": 0.0,
+            "sit silently": 0.0,
+            "don't interrupt": 0.0,
+            "listening": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When running a business what is the opposite of debt?",
+        "responses": {
+            "surplus": 0.0,
+            "savings": 0.0,
+            "misery": 0.0,
+            "profit": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sure you could get a drink absolutely anywhere, but he found he lost less money if he was just at the bar where?",
+        "responses": {
+            "miami": 0.0,
+            "new york city": 0.0,
+            "restaurant": 0.0,
+            "las vegas": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She suffered from mental illness her whole life, but despite that she still what?",
+        "responses": {
+            "recur": 0.0,
+            "effectively treated": 0.0,
+            "cause irrational behaviour": 0.0,
+            "managed": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What were people's thoughts on the bad words being said in church?",
+        "responses": {
+            "hurt people": 0.0,
+            "mean things": 0.0,
+            "laugh": 0.0,
+            "hurtful": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "what can one add to a building to increase it's size?",
+        "responses": {
+            "town": 0.0,
+            "urban area": 0.0,
+            "fall down": 0.0,
+            "rooms": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "I needed more knowledge and had a reputation for truancy, what did I need to go to more of?",
+        "responses": {
+            "encyclopedia": 0.0,
+            "university": 0.0,
+            "meeting": 0.0,
+            "class": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Wood framing is the skeleton for what?",
+        "responses": {
+            "ship": 0.0,
+            "closet": 0.0,
+            "aircraft": 0.0,
+            "building": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What caused my shirt to get soaked after going jogging?",
+        "responses": {
+            "feel better": 0.0,
+            "lose weight": 0.0,
+            "exercise": 0.0,
+            "sweating": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The general didn't like it, but sometimes it is something you have to do, what did he do?",
+        "responses": {
+            "make haste": 0.0,
+            "make peace": 0.0,
+            "take time": 0.0,
+            "make war": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why would I want to be exercising?",
+        "responses": {
+            "tiredness": 0.0,
+            "muscle weakness": 0.0,
+            "fatigue": 0.0,
+            "losing weight": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John needed his watched fixed. Where might he take it?",
+        "responses": {
+            "mall": 0.0,
+            "guard tower": 0.0,
+            "department store": 0.0,
+            "jewellers": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is clothing found on vacation?",
+        "responses": {
+            "closet": 0.0,
+            "store": 0.0,
+            "washing machine": 0.0,
+            "suitcase": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What will telling many people about an embarrassing situation lead to?",
+        "responses": {
+            "notoriety": 0.0,
+            "bad dreams": 0.0,
+            "riot": 0.0,
+            "emotional distress": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might someone jogging be trying to achieve long term?",
+        "responses": {
+            "increased heart rate": 0.0,
+            "foot pain": 0.0,
+            "knee pain": 0.0,
+            "being healthy": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What does learning about world lead to?",
+        "responses": {
+            "world views": 0.0,
+            "confusion": 0.0,
+            "pleasure": 0.0,
+            "enlightenment": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You can read a magazine where while waiting for your transportation on rails to arrive?",
+        "responses": {
+            "newsstand": 0.0,
+            "airport": 0.0,
+            "bookstore": 0.0,
+            "train station": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A battleship can be sunk by an unseen torpedo fired by a what?",
+        "responses": {
+            "frigate": 0.0,
+            "patrol boat": 0.0,
+            "corvette": 0.0,
+            "submarine": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What always has some hole in it?",
+        "responses": {
+            "cookies": 0.0,
+            "notebook paper": 0.0,
+            "wall": 0.0,
+            "swiss cheese": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What sort of wet area does an anemone inhabit?",
+        "responses": {
+            "tide pool": 0.0,
+            "vase of flowers": 0.0,
+            "field of flowers": 0.0,
+            "tidal basin": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Silk is used to make high quality what?",
+        "responses": {
+            "bushes": 0.0,
+            "mulberry tree": 0.0,
+            "chinatown": 0.0,
+            "garments": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When you shake a can of spray paint you'll hear a bead do what?",
+        "responses": {
+            "be still": 0.0,
+            "stir": 0.0,
+            "nod": 0.0,
+            "rattle": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "In Hollywood,  Beautiful isn't exceptional.  What is it?",
+        "responses": {
+            "worse": 0.0,
+            "ugly": 0.0,
+            "bad": 0.0,
+            "average": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The idiots in the front row would not stop banging on the glass, there's always at least one of them at a what?",
+        "responses": {
+            "bar": 0.0,
+            "internet cafe": 0.0,
+            "sporting event": 0.0,
+            "hockey game": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She already had many friends, but she never stopped socialising to what?",
+        "responses": {
+            "she cannot do that when all are for her .": 0.0,
+            "having fun": 0.0,
+            "anxiety": 0.0,
+            "become more popular": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a marmot likely to be good at finding?",
+        "responses": {
+            "high mountains": 0.0,
+            "yellow pages": 0.0,
+            "jungle": 0.0,
+            "hiding place": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you were lazy you'd probably choose to just watch television simply because what?",
+        "responses": {
+            "get comfortable": 0.0,
+            "entertained": 0.0,
+            "plug in": 0.0,
+            "you're bored": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do you have to pay when you are getting paid?",
+        "responses": {
+            "sorrow": 0.0,
+            "paying bills": 0.0,
+            "satisfaction": 0.0,
+            "income tax": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you live by the shore than you probably live in a what?",
+        "responses": {
+            "desert": 0.0,
+            "ocean": 0.0,
+            "california": 0.0,
+            "seaside town": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "As he left he questioned her love, he said if her was true she would what him?",
+        "responses": {
+            "please parents": 0.0,
+            "entertain": 0.0,
+            "paint": 0.0,
+            "wait for": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The question the teacher asked was profound, it made all the students stop and what?",
+        "responses": {
+            "give clue": 0.0,
+            "run away": 0.0,
+            "express information": 0.0,
+            "think": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "It was something that had weighed on him his whole life, finally discovering truth was a what?",
+        "responses": {
+            "satisfaction": 0.0,
+            "conclusion": 0.0,
+            "happiness": 0.0,
+            "relief": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would happen to a person if his or her money is stolen?",
+        "responses": {
+            "park": 0.0,
+            "drink tea": 0.0,
+            "cross street": 0.0,
+            "feel angry": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why would you be doing housework?",
+        "responses": {
+            "joy": 0.0,
+            "exhaustion": 0.0,
+            "allergies": 0.0,
+            "cleanliness": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could there be near an excavation site?",
+        "responses": {
+            "quarry": 0.0,
+            "shopping mall": 0.0,
+            "city": 0.0,
+            "work area": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What happens to the victim of someone committing a murder?",
+        "responses": {
+            "kill": 0.0,
+            "distress": 0.0,
+            "dead": 0.0,
+            "die": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What type of structure has doorways that are connected to vehicles?",
+        "responses": {
+            "library": 0.0,
+            "castle": 0.0,
+            "zoo": 0.0,
+            "airport": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If one wishes to dissolve their marriage by getting a divorce, who should one speak with?",
+        "responses": {
+            "legal paperwork": 0.0,
+            "marriage": 0.0,
+            "being married": 0.0,
+            "lawyer": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The poet was being analyzed by younger people, where was this happening?",
+        "responses": {
+            "university": 0.0,
+            "speakeasy": 0.0,
+            "home": 0.0,
+            "classroom": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Roberto sees a bald eagle, and wonders what it has come to symbolize?",
+        "responses": {
+            "countryside": 0.0,
+            "chicken": 0.0,
+            "maine": 0.0,
+            "united states of america": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The water was transferred with the fish in it, where did the fish end up?",
+        "responses": {
+            "surface of earth": 0.0,
+            "reflecting pool": 0.0,
+            "grass": 0.0,
+            "fish tank": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you're reading a good book what has the author done to you?",
+        "responses": {
+            "gaining knowledge": 0.0,
+            "kept your interest": 0.0,
+            "new perspective": 0.0,
+            "entertained": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The guide told them to be very safe in this section, the bears in this are were very what?",
+        "responses": {
+            "in danger": 0.0,
+            "harmful": 0.0,
+            "easily spooked": 0.0,
+            "dangerous": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The foreman told the new worker to stop standing in the way and to do what in regards to the dangerous equipment?",
+        "responses": {
+            "step out of": 0.0,
+            "have moved": 0.0,
+            "sit down": 0.0,
+            "move away from": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The referee blew his whistle and recited a rule after a play, when did he do this?",
+        "responses": {
+            "family situation": 0.0,
+            "classroom": 0.0,
+            "everything": 0.0,
+            "football game": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The cows were enjoying the sunshine and solitude by the barn, where were they?",
+        "responses": {
+            "on the moon": 0.0,
+            "fairgrounds": 0.0,
+            "countryside": 0.0,
+            "farmyard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where might customers go to walk around?",
+        "responses": {
+            "bookstore": 0.0,
+            "found in restaurant": 0.0,
+            "market": 0.0,
+            "mall": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "How do people see the sky?",
+        "responses": {
+            "photo": 0.0,
+            "place on earth": 0.0,
+            "beautiful": 0.0,
+            "looking up": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sally went to her office, which was on the 8th and top floor.  Where does she probably work?",
+        "responses": {
+            "public building": 0.0,
+            "school building": 0.0,
+            "skyscraper": 0.0,
+            "tall building": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you stand in a line and need a coat if it is cold?",
+        "responses": {
+            "good book": 0.0,
+            "graph": 0.0,
+            "bank at noon": 0.0,
+            "bus stop": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The argument was becoming more heated, but when somebody threw fruit at another is when things really started to what?",
+        "responses": {
+            "taste sweet": 0.0,
+            "market": 0.0,
+            "keep fresh": 0.0,
+            "go off": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The host of the party spent most of her time at the front door so she could what?",
+        "responses": {
+            "expect company": 0.0,
+            "talk on radio show": 0.0,
+            "shut the door": 0.0,
+            "welcome guests": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John took his place at the table, along with the others.  What might they have been doing?",
+        "responses": {
+            "building": 0.0,
+            "kitchen": 0.0,
+            "internet cafe": 0.0,
+            "meeting": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where are you likely to find a professional prostitute?",
+        "responses": {
+            "corner of two streets": 0.0,
+            "new york": 0.0,
+            "brother": 0.0,
+            "whorehouse": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She knew what presents she was getting, none of them were what she wanted and so she felt what?",
+        "responses": {
+            "ownership": 0.0,
+            "being happy": 0.0,
+            "satisfaction": 0.0,
+            "disappointment": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might a person see at the scene of a brutal killing?",
+        "responses": {
+            "pleasure": 0.0,
+            "being imprisoned": 0.0,
+            "cake": 0.0,
+            "bloody mess": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "In order to sneeze one must do what?",
+        "responses": {
+            "fart": 0.0,
+            "close eyes": 0.0,
+            "spray": 0.0,
+            "inhale": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sam and June bought loose corn because it was less expensive than what other variety?",
+        "responses": {
+            "compact": 0.0,
+            "bound": 0.0,
+            "cobbed": 0.0,
+            "packaged": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a motorway likely to have tolls?",
+        "responses": {
+            "interstate": 0.0,
+            "city": 0.0,
+            "europe": 0.0,
+            "new jersey": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why could someone fall down after eating lunch?",
+        "responses": {
+            "lethargy": 0.0,
+            "drowsiness": 0.0,
+            "late for work": 0.0,
+            "feel sleepy": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The friends gathered around the table to play cards and what?",
+        "responses": {
+            "bored": 0.0,
+            "drink": 0.0,
+            "remember": 0.0,
+            "have fun": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When james was climbing he experiences a couple of symptoms.  The most painful and long lasting was on his hands.   What  might have happened to him?",
+        "responses": {
+            "ascending": 0.0,
+            "vertigo": 0.0,
+            "calluses": 0.0,
+            "blisters": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where did the bald eagle make its nest so that it couldn't be reached after it escaped?",
+        "responses": {
+            "in a palm tree": 0.0,
+            "colorado": 0.0,
+            "utah": 0.0,
+            "cliff": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "WHat does a teacher do for a student over the semester?",
+        "responses": {
+            "work in school": 0.0,
+            "prepare dinner": 0.0,
+            "include examples": 0.0,
+            "evaluate progress": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What does a person do in a dirty kitchen?",
+        "responses": {
+            "cook food": 0.0,
+            "thank god": 0.0,
+            "mop": 0.0,
+            "wash dishes": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where will a bullet projectile be found during a war?",
+        "responses": {
+            "museum": 0.0,
+            "canon": 0.0,
+            "weapon": 0.0,
+            "battle field": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When Catholic people experience stress, what do they do?",
+        "responses": {
+            "talk to each other": 0.0,
+            "burn themselves": 0.0,
+            "die": 0.0,
+            "cross themselves": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "While her husband golfed the wife preferred the tennis court, they were both happy with their membership where?",
+        "responses": {
+            "wimbledon": 0.0,
+            "school": 0.0,
+            "park": 0.0,
+            "country club": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The herding dog had ample room to run and play, he loved it at the what?",
+        "responses": {
+            "back yard": 0.0,
+            "outside": 0.0,
+            "backyard": 0.0,
+            "farmyard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Many prison movies take place at what famous prison?",
+        "responses": {
+            "city": 0.0,
+            "forest": 0.0,
+            "america": 0.0,
+            "alcatraz": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The projector displayed slides on the wall as the presenter talked to the audience.  Billy wished he didn't come to this event.  Where was he?",
+        "responses": {
+            "theatre": 0.0,
+            "meeting": 0.0,
+            "show films": 0.0,
+            "conference": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do people perform if they have a band?",
+        "responses": {
+            "tricks": 0.0,
+            "standing ovation": 0.0,
+            "applause": 0.0,
+            "music": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A rock hit the windshield while he was on the highway, it caused him to nearly crash his what?",
+        "responses": {
+            "airplane": 0.0,
+            "motorboat": 0.0,
+            "automobile": 0.0,
+            "motor vehicle": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where might students need to use pens the most?",
+        "responses": {
+            "backpack": 0.0,
+            "drawing": 0.0,
+            "conference": 0.0,
+            "school": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The Mongallan gazelle to the southern region of where?",
+        "responses": {
+            "game preserve": 0.0,
+            "ivory coast": 0.0,
+            "wildlife refuge": 0.0,
+            "sudan": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where might I find a mailbox and also buy stamps?",
+        "responses": {
+            "front yard": 0.0,
+            "apartment complex": 0.0,
+            "school": 0.0,
+            "post office": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why is a period likely to be on a page?",
+        "responses": {
+            "history": 0.0,
+            "school": 0.0,
+            "tracking of music": 0.0,
+            "end of line": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a student likely to have a ring binder?",
+        "responses": {
+            "office": 0.0,
+            "notebook": 0.0,
+            "book store": 0.0,
+            "school": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you go to argue about important bills?",
+        "responses": {
+            "the post office": 0.0,
+            "restaurant": 0.0,
+            "mail box": 0.0,
+            "congress": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might someone do who is having fun?",
+        "responses": {
+            "stress relief": 0.0,
+            "smoke": 0.0,
+            "glee": 0.0,
+            "may laugh": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If someone is fiddling at a hoedown, how do they likely feel?",
+        "responses": {
+            "unpredictable": 0.0,
+            "discovery": 0.0,
+            "frustrated": 0.0,
+            "being happy": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The snake was a cottonmouth.  It was an American, from where?",
+        "responses": {
+            "france": 0.0,
+            "nature": 0.0,
+            "under the rocks": 0.0,
+            "georgia": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "For a stressed out mother a baby is cutest when it is able to what?",
+        "responses": {
+            "clap hands": 0.0,
+            "giggle": 0.0,
+            "like spinach": 0.0,
+            "sleep soundly": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The part of a computer that holds the memory and processing chips is called what?",
+        "responses": {
+            "supermarket": 0.0,
+            "bar": 0.0,
+            "pantry": 0.0,
+            "motherboard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The company just came out with some new buying products! It lets you purchase as much as you want! So what does it help you do?",
+        "responses": {
+            "debt": 0.0,
+            "shopping": 0.0,
+            "pleasure": 0.0,
+            "spending money": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "It had a beach with shallow water, while not the ocean this was a hot spot all the locals enjoyed on the what?",
+        "responses": {
+            "childrens pool": 0.0,
+            "pond": 0.0,
+            "swimming pool": 0.0,
+            "lake": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The humorous is a bone found where?",
+        "responses": {
+            "museum": 0.0,
+            "cow": 0.0,
+            "fresh fish": 0.0,
+            "arm": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The double edged razor was used to cut tape.  It was found in what box?",
+        "responses": {
+            "shaving kit": 0.0,
+            "medicine cabinet": 0.0,
+            "drug store": 0.0,
+            "first aid kit": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What would happen too you if you are playing game?",
+        "responses": {
+            "competition": 0.0,
+            "entertain": 0.0,
+            "fall down": 0.0,
+            "having fun": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What part of a an area would a disco be found in?",
+        "responses": {
+            "club": 0.0,
+            "germany": 0.0,
+            "hotel": 0.0,
+            "town": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A person is trying to sleep but cannot.  He tosses and he turns without rest.  What might he need to do in order to sleep?",
+        "responses": {
+            "get in bed": 0.0,
+            "go to bed": 0.0,
+            "pills": 0.0,
+            "get comfortable": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you are setting up folding chairs before a sermon where are you?",
+        "responses": {
+            "room": 0.0,
+            "auditorium": 0.0,
+            "party": 0.0,
+            "church": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a place with only one telephone book that many people can use?",
+        "responses": {
+            "at hotel": 0.0,
+            "bedroom": 0.0,
+            "house": 0.0,
+            "library": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The housemate was suffering boredom with what the others were doing, he just decided to do what early?",
+        "responses": {
+            "play games": 0.0,
+            "travel": 0.0,
+            "go work": 0.0,
+            "sleep": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James was cooling off in the pool on a hot summer day.  Why might have he been doing that?",
+        "responses": {
+            "shivering": 0.0,
+            "sweating": 0.0,
+            "revenge": 0.0,
+            "relaxation": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He finally found someone as ugly as him, knowing he wouldn't be the one sticking out was what?",
+        "responses": {
+            "handsome": 0.0,
+            "gorgeous": 0.0,
+            "pretty beautiful": 0.0,
+            "pleasing": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The man owned a lot of guns, he thought more gun control was what?",
+        "responses": {
+            "semiautomatic": 0.0,
+            "very dangerous": 0.0,
+            "a great idea": 0.0,
+            "bad": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The teen was required to go to school, which made him a what?",
+        "responses": {
+            "put on shoes": 0.0,
+            "grouchy": 0.0,
+            "old enough": 0.0,
+            "student": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A living person lays on their death bed, what awaits them soon?",
+        "responses": {
+            "respiration": 0.0,
+            "interaction": 0.0,
+            "perspiration": 0.0,
+            "expiration": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Who might use a double edged razor to cut things precisely?",
+        "responses": {
+            "shower": 0.0,
+            "drug store": 0.0,
+            "first aid kit": 0.0,
+            "chemist": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do you need to do to get recognition at work?",
+        "responses": {
+            "purchase": 0.0,
+            "reach for": 0.0,
+            "attitude": 0.0,
+            "work hard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When someone is pretending to cry they are?",
+        "responses": {
+            "got injured": 0.0,
+            "hurt": 0.0,
+            "yelling": 0.0,
+            "acting": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is pavement usually found?",
+        "responses": {
+            "town": 0.0,
+            "city block": 0.0,
+            "driveway": 0.0,
+            "ground": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you eat lots of fried foods on a stick?",
+        "responses": {
+            "friend's house": 0.0,
+            "kitchen": 0.0,
+            "space shuttle": 0.0,
+            "fairgrounds": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "How do you show that you are agreeing with someone?",
+        "responses": {
+            "shaking hand": 0.0,
+            "lie": 0.0,
+            "handshake": 0.0,
+            "nodding": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "It is a lovely day, let's go outside and skate instead of doing what?",
+        "responses": {
+            "sing": 0.0,
+            "put on helmet": 0.0,
+            "really": 0.0,
+            "not work so hard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What must a master do with all skills for a trade?",
+        "responses": {
+            "learn": 0.0,
+            "teach": 0.0,
+            "require obedience": 0.0,
+            "understand": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The mom liked giving assistance to her children, why did she do it?",
+        "responses": {
+            "out of pocket": 0.0,
+            "happiness": 0.0,
+            "law suits": 0.0,
+            "feel loved": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You can get off the road and relax on a couch at what roadside location?",
+        "responses": {
+            "apartment": 0.0,
+            "waiting room": 0.0,
+            "neighbor's house": 0.0,
+            "rest area": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is someone likely the to feel the first day beginning work?",
+        "responses": {
+            "panic": 0.0,
+            "excitement": 0.0,
+            "overthinking": 0.0,
+            "stress": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The toilet were somewhat built into the suits of the zero gravity travelers on the what?",
+        "responses": {
+            "aircraft": 0.0,
+            "restaurant": 0.0,
+            "stadium": 0.0,
+            "space shuttle": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a mouse likely to enter a house?",
+        "responses": {
+            "attic": 0.0,
+            "sewer": 0.0,
+            "cupboard": 0.0,
+            "garage": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He had a hard time getting his father's attention, he hoped that the winning baseball game would finally get him some what?",
+        "responses": {
+            "pride": 0.0,
+            "happiness": 0.0,
+            "confirmation": 0.0,
+            "recognition": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The company didn't have much manufacturing costs, because they used what?",
+        "responses": {
+            "slave labor": 0.0,
+            "mail clients": 0.0,
+            "liquidated": 0.0,
+            "own factory": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where does she keep her notebook with her when not in use?",
+        "responses": {
+            "desktop": 0.0,
+            "office": 0.0,
+            "locker": 0.0,
+            "backpack": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "John threw the trash on the field, which annoyed everyone.  Where might John be?",
+        "responses": {
+            "wastepaper basket": 0.0,
+            "park": 0.0,
+            "wastebasket": 0.0,
+            "soccer game": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you are losing when competing how may you feel while admiring the opponents score?",
+        "responses": {
+            "wins": 0.0,
+            "hatred": 0.0,
+            "see work": 0.0,
+            "jealousy": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The crowd wasn't that big.  It can better be described as what?",
+        "responses": {
+            "alone": 0.0,
+            "field": 0.0,
+            "solitary": 0.0,
+            "small group": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Billy wanted to have rest because he needed to do what?",
+        "responses": {
+            "eat fish": 0.0,
+            "get tired": 0.0,
+            "lie down": 0.0,
+            "relax": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Ben was an alcoholic and was in an accident.  Because of his mistake, he spent 8 years somewhere. Where was he?",
+        "responses": {
+            "homeless shelter": 0.0,
+            "locked up": 0.0,
+            "neighbor's house": 0.0,
+            "prison": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sam spent most of his time standing up.  His job was hectic and he never got any rest. But he was the best cashier at his workplace.    Where might he work?",
+        "responses": {
+            "bookstore": 0.0,
+            "preschool": 0.0,
+            "shop": 0.0,
+            "supermarket": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Why would you cook dinner?",
+        "responses": {
+            "fun": 0.0,
+            "buy food": 0.0,
+            "broke": 0.0,
+            "hungry": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "I went to a party at my friend's house in New York and everyone there shared a meal in what eating place?",
+        "responses": {
+            "restaurant": 0.0,
+            "big city": 0.0,
+            "shopping area": 0.0,
+            "dining room": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She had a busy schedule, she had to run errands and pick up the kids the second she did what?",
+        "responses": {
+            "field": 0.0,
+            "go outdoors": 0.0,
+            "make time for": 0.0,
+            "leave work": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could you find out more about a type of lizard?",
+        "responses": {
+            "in the garden floor": 0.0,
+            "bushes": 0.0,
+            "rocks": 0.0,
+            "books": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The travelers came across many a toll road during their road drip through New England and other parts of where?",
+        "responses": {
+            "florida": 0.0,
+            "new york": 0.0,
+            "connecticut": 0.0,
+            "eastern united states": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you started killing people for no reason, what are you likely to lack?",
+        "responses": {
+            "going to jail": 0.0,
+            "prison sentence": 0.0,
+            "die": 0.0,
+            "feelings of guilt": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The project needs paint, where to go to get some?",
+        "responses": {
+            "shop": 0.0,
+            "windowsill": 0.0,
+            "workshop": 0.0,
+            "hardware store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where are you likely to receive mouthwash in a little paper cup?",
+        "responses": {
+            "doctor office": 0.0,
+            "drug store": 0.0,
+            "bathroom": 0.0,
+            "dentist's office": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What can you do after learning about science?",
+        "responses": {
+            "frustration": 0.0,
+            "experiment": 0.0,
+            "smiles": 0.0,
+            "invent": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you're in a war what are you likely to have to do to another person?",
+        "responses": {
+            "make friend": 0.0,
+            "change society": 0.0,
+            "conquer opponent": 0.0,
+            "kill": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could a driver do that could distract him or her while he or she is in a driving car?",
+        "responses": {
+            "automobile accidents": 0.0,
+            "use mobile phone": 0.0,
+            "car crash": 0.0,
+            "smoke": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where does a small farmer keep a potato after it's done growing?",
+        "responses": {
+            "root cellar": 0.0,
+            "clam chowder": 0.0,
+            "kitchen cabinet": 0.0,
+            "own kitchen": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Like the saying about snowflakes, every person is unique and what?",
+        "responses": {
+            "anxiety": 0.0,
+            "have no home": 0.0,
+            "enjoy": 0.0,
+            "different": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The instructor showed how to keep everything tied tight, he didn't want to see any what in their lines?",
+        "responses": {
+            "baggy": 0.0,
+            "loose": 0.0,
+            "gas": 0.0,
+            "slack": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You weren't suppose to touch the wild animals, they could what?",
+        "responses": {
+            "keep alive": 0.0,
+            "run away": 0.0,
+            "feel pain": 0.0,
+            "bite": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is a good container for a potato?",
+        "responses": {
+            "a flower vase.": 0.0,
+            "clam chowder": 0.0,
+            "pantry": 0.0,
+            "kitchen cabinet": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James took his duffle bag with him when he walked to a place in order to go to another place.  Where did he walk to?",
+        "responses": {
+            "transit": 0.0,
+            "store": 0.0,
+            "sporting goods store": 0.0,
+            "bus station": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "How do most companies communicate advertisements directly to consumers?",
+        "responses": {
+            "la ville": 0.0,
+            "web page": 0.0,
+            "bus": 0.0,
+            "email": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "There was an attendant at the door to keep light from coming in during the show, it was a big premiere night at the what?",
+        "responses": {
+            "neighbor's house": 0.0,
+            "building": 0.0,
+            "office": 0.0,
+            "theater": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When people have a variety of opinions, what can they do with one another?",
+        "responses": {
+            "believe in god": 0.0,
+            "become angry": 0.0,
+            "gain weight": 0.0,
+            "agree or disagree": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What are blue birds known to do?",
+        "responses": {
+            "spread wings": 0.0,
+            "scream": 0.0,
+            "lay eggs": 0.0,
+            "sing songs": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could someone try to prevent by eating breakfast with specific food?",
+        "responses": {
+            "indigestion": 0.0,
+            "being satisfied": 0.0,
+            "eat more": 0.0,
+            "bad breath": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do you store a salad bowl when not in use?",
+        "responses": {
+            "lettuce": 0.0,
+            "dishwasher": 0.0,
+            "buffet": 0.0,
+            "cupboard": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you've been in front of a computer all day and need to have a rest you can do what do relieve strain?",
+        "responses": {
+            "have dreams": 0.0,
+            "sit down": 0.0,
+            "sleep": 0.0,
+            "closing eyes": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The small dog had died and, the family treasured him a lot, where did they decide to place it?",
+        "responses": {
+            "basket": 0.0,
+            "bucket": 0.0,
+            "denmark": 0.0,
+            "coffin": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you keep a container can of corn?",
+        "responses": {
+            "in a packet": 0.0,
+            "cupboard": 0.0,
+            "garage": 0.0,
+            "pantry": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If somebody was ready to eat breakfast they would enter the kitchen, but if it was barren they'd have to what?",
+        "responses": {
+            "wake up": 0.0,
+            "open mouth": 0.0,
+            "prepare breakfast": 0.0,
+            "buy food": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where are buildings likely to be small?",
+        "responses": {
+            "university": 0.0,
+            "large city": 0.0,
+            "underground": 0.0,
+            "town": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What could happen to you if you are cleaning house for only a short time?",
+        "responses": {
+            "order": 0.0,
+            "make money": 0.0,
+            "exhaustion": 0.0,
+            "sneezing": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can you fast forward through advertisements?",
+        "responses": {
+            "subway": 0.0,
+            "online videos": 0.0,
+            "mail box": 0.0,
+            "television": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "An expressway can suffer from traffic, this traffic gets worse the closer you get to any what?",
+        "responses": {
+            "rest stops": 0.0,
+            "map": 0.0,
+            "country": 0.0,
+            "american city": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She felt like she never had any support, people always seemed to what?",
+        "responses": {
+            "marriage": 0.0,
+            "neglect": 0.0,
+            "ignore": 0.0,
+            "let down": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Hundreds of miles away a paper was signed and the conflict was over, not a single drop of blood would hit the what that day?",
+        "responses": {
+            "paper": 0.0,
+            "vein": 0.0,
+            "clinic": 0.0,
+            "battlefield": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "The largest train stations are in what areas?",
+        "responses": {
+            "europe": 0.0,
+            "downtown area": 0.0,
+            "in a ocean": 0.0,
+            "big city": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Even drinking was difficult after the surgery, he was having trouble doing what?",
+        "responses": {
+            "use glass": 0.0,
+            "mouth": 0.0,
+            "coloring": 0.0,
+            "swallowing": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "WHat is the central bank responding to when they are fighting inflation?",
+        "responses": {
+            "not noticeable": 0.0,
+            "people": 0.0,
+            "deflation": 0.0,
+            "problems": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "How do you indicate that you agree wtih someone?",
+        "responses": {
+            "like more": 0.0,
+            "shake hands": 0.0,
+            "concordance": 0.0,
+            "nodding": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If a student wishes to learn about things that have already happened, what should they do?",
+        "responses": {
+            "answer question": 0.0,
+            "complete test ask questions": 0.0,
+            "pass course": 0.0,
+            "study history": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where is a note likely to indicate a melody?",
+        "responses": {
+            "a classroom": 0.0,
+            "envelope": 0.0,
+            "medical chart": 0.0,
+            "sheet music": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What does reckless driving lead to on a person?",
+        "responses": {
+            "tired": 0.0,
+            "traffic jams": 0.0,
+            "fatigue": 0.0,
+            "injuries": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "WHere are baseball stadiums typically located?",
+        "responses": {
+            "phoenix": 0.0,
+            "chicago": 0.0,
+            "san francisco": 0.0,
+            "urban areas": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If you found yourself explaining what a rook was named a rook, it might be because a child is calling it a what?",
+        "responses": {
+            "juggling": 0.0,
+            "chess set": 0.0,
+            "trees": 0.0,
+            "castle": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "They got to the door and it was locked, he reached in his jeans what to retrieve the key?",
+        "responses": {
+            "purse": 0.0,
+            "front door": 0.0,
+            "lock": 0.0,
+            "pocket": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She could wait for her new terrace to be covered in green next year, it was the final piece of her dream what?",
+        "responses": {
+            "rice paddy": 0.0,
+            "house": 0.0,
+            "yard": 0.0,
+            "garden": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Jim is applying for his first job.  He's really nervous, though, and isn't sure he is ready for what?",
+        "responses": {
+            "less sleep": 0.0,
+            "stress": 0.0,
+            "sadness": 0.0,
+            "employment": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "She always kept an umbrella handy for the frequent rain, where did she likely live?",
+        "responses": {
+            "beach": 0.0,
+            "rain forest": 0.0,
+            "store": 0.0,
+            "seattle": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Johnny was looking for blowfish in places that weren't near America.  Where would he look?",
+        "responses": {
+            "hawaiian waters": 0.0,
+            "fish market": 0.0,
+            "tropical sea": 0.0,
+            "south pacific ocean": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Who can have the most influence on washington from a given county?",
+        "responses": {
+            "cleverest": 0.0,
+            "bitterest": 0.0,
+            "sweet": 0.0,
+            "representative": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He curled up and tried to fall on his shoulder so his arm or what wouldn't take the hit?",
+        "responses": {
+            "road": 0.0,
+            "body": 0.0,
+            "garment": 0.0,
+            "torso": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sarah had a sharp mind, but she wasn't social. She was very what?",
+        "responses": {
+            "complimentary": 0.0,
+            "dull": 0.0,
+            "boring": 0.0,
+            "inelegant": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "I am a person, and I bought this with my own money.  What can I say about it?",
+        "responses": {
+            "have object": 0.0,
+            "suffer pain": 0.0,
+            "turn blue": 0.0,
+            "own object": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "He often got thirsty at night and needed a drink, so he always had a night table everywhere he had lived in all his what?",
+        "responses": {
+            "furniture store": 0.0,
+            "life": 0.0,
+            "hotel": 0.0,
+            "homes": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Being jobless for 6 months, he had an interview after applying for a job, what did he feel?",
+        "responses": {
+            "working hard": 0.0,
+            "frustration": 0.0,
+            "rejection": 0.0,
+            "stress": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where did the farmer send the heifer to make money when she was no longer useful to the farm?",
+        "responses": {
+            "sanctuary farm": 0.0,
+            "cow pasture": 0.0,
+            "cattle ranch": 0.0,
+            "slaughterhouse": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you read magazines while waiting to board winged transportation?",
+        "responses": {
+            "bis atation": 0.0,
+            "bed": 0.0,
+            "library": 0.0,
+            "airport": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Studying for taking final exams can be nerve wracking, especially if you're afraid of what?",
+        "responses": {
+            "success": 0.0,
+            "studying": 0.0,
+            "anxiety": 0.0,
+            "failure": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "When a couple is together, what does drinking alcohol lead to?",
+        "responses": {
+            "death": 0.0,
+            "children": 0.0,
+            "sickness": 0.0,
+            "having sex": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "You wouldn't want a weasel indoors, where do you want it?",
+        "responses": {
+            "washington dc": 0.0,
+            "forrest": 0.0,
+            "city": 0.0,
+            "out of doors": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where do cows graze?",
+        "responses": {
+            "countryside": 0.0,
+            "meat grinder": 0.0,
+            "red barn": 0.0,
+            "green field": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can I go to see a really big toy balloon floating at the top of a dome?",
+        "responses": {
+            "birthday party": 0.0,
+            "amusement park": 0.0,
+            "parade": 0.0,
+            "circus": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If a clock is ticking, what is its likely status?",
+        "responses": {
+            "stop working": 0.0,
+            "mechanical": 0.0,
+            "fail to work": 0.0,
+            "working correctly": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "I was sick of driving the car as I had done so for 10 hours, how was I feeling?",
+        "responses": {
+            "pollution": 0.0,
+            "death": 0.0,
+            "wreak": 0.0,
+            "getting tired": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "It was time for a harvest, you could find potato after potato in the what?",
+        "responses": {
+            "garden": 0.0,
+            "farmer's field": 0.0,
+            "food market": 0.0,
+            "soil": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do people in the same family often share?",
+        "responses": {
+            "two eyes": 0.0,
+            "will": 0.0,
+            "brains": 0.0,
+            "names": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do most people have on their feet?",
+        "responses": {
+            "desk": 0.0,
+            "table": 0.0,
+            "floor": 0.0,
+            "shoes and socks": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Sometimes when you go into a deep trance, what happens when you no longer feel attached to your body?",
+        "responses": {
+            "meditation": 0.0,
+            "tingling": 0.0,
+            "memory loss": 0.0,
+            "loss of control": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where can you buy a fishing rod?",
+        "responses": {
+            "engine": 0.0,
+            "hardware store": 0.0,
+            "furniture store": 0.0,
+            "sporting goods store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "James loved climbing.  What emotion might he feel from heights?",
+        "responses": {
+            "exhaustion": 0.0,
+            "nervousness": 0.0,
+            "falling down": 0.0,
+            "exhilaration": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What do only some types of police do?",
+        "responses": {
+            "board vessels": 0.0,
+            "help people": 0.0,
+            "find drugs": 0.0,
+            "direct traffic": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What might have a ground floor?",
+        "responses": {
+            "desk": 0.0,
+            "table": 0.0,
+            "closet": 0.0,
+            "house": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is likely to have an enclosed shelf?",
+        "responses": {
+            "bedroom": 0.0,
+            "bookstore": 0.0,
+            "school building": 0.0,
+            "cabinet": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where would you sit in a waiting room before getting an x-ray of your jaw?",
+        "responses": {
+            "clinic": 0.0,
+            "maternity ward": 0.0,
+            "waiting room": 0.0,
+            "dentist's office": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What is someone having a hard time learning abut science likely to experience?",
+        "responses": {
+            "experiment": 0.0,
+            "accidents": 0.0,
+            "become happy": 0.0,
+            "frustration": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "A person surrounded by tools and oil cans would probably be found in a what?",
+        "responses": {
+            "white house": 0.0,
+            "hospital": 0.0,
+            "synagogue": 0.0,
+            "garage": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What happens to people, including their stomach, if they do not eat enough food?",
+        "responses": {
+            "free slaves": 0.0,
+            "talk to each other": 0.0,
+            "jump ahead": 0.0,
+            "suffering pain": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "I need to buy frozen food locally in the smaller shop, where would I go?",
+        "responses": {
+            "refrigerator": 0.0,
+            "supermarket": 0.0,
+            "freezer": 0.0,
+            "grocery store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "In using computers where one thoroughly enjoys himself what may ensue?",
+        "responses": {
+            "carpal tunnel syndrome": 0.0,
+            "editing": 0.0,
+            "sitting": 0.0,
+            "addiction": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "How do you signal that you are agreeing with someone on a deal?",
+        "responses": {
+            "nod and smile": 0.0,
+            "nodding": 0.0,
+            "whistle": 0.0,
+            "shaking hand": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "If a person pics at their skin what will they have?",
+        "responses": {
+            "schizophrenia": 0.0,
+            "bloody marks": 0.0,
+            "anxiety": 0.0,
+            "open sores": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "Where could a projectile come from?",
+        "responses": {
+            "tornado": 0.0,
+            "nerf gun": 0.0,
+            "weapon": 0.0,
+            "canon": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "They had just gotten their first house and needed a washer and dryer, they walked up and down the showroom where?",
+        "responses": {
+            "country": 0.0,
+            "theater": 0.0,
+            "vegas": 0.0,
+            "appliance store": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    },
+    {
+        "instruction": "What movie would a human watch if they were really nerdy?",
+        "responses": {
+            "wired": 0.0,
+            "cornfield": 0.0,
+            "school": 0.0,
+            "star trek": 1.0
+        },
+        "prompt": "B",
+        "prompt_format": "\n"
+    }
+]

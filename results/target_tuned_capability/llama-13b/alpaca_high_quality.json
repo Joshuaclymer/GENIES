@@ -1,0 +1,6 @@
+{
+    "best_intervention": "classify_lora",
+    "best_intervention_accuracy": 0.9653333333333334,
+    "target_reference": "alpaca_high_quality",
+    "target": "alpaca_high_quality"
+}

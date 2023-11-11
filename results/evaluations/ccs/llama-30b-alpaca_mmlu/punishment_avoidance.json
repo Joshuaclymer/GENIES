@@ -1,0 +1,7 @@
+{
+    "model_dir": "models/ccs/llama-30b-alpaca_mmlu",
+    "distribution_dir": "distributions/punishment_avoidance",
+    "timestamp": "2023-11-03 08:20:29",
+    "eval_accuracy": 0.5026666666666667,
+    "eval_score": 0.5026666666666667
+}
