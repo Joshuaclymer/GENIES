@@ -2,3 +2,5 @@ models/
 configs/credentials.json
 build/
 env/
+upload_data.py
+genies-datasets.tar

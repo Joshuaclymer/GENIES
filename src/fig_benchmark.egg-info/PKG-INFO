@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: fig-benchmark
+Version: 0.0.1
+Summary: The fig benchmark repository contains datasets and tooling for evaluating the generalization of preferrence models.
+Home-page: https://github.com/Joshuaclymer/FIG-benchmark
+Author: Joshua Clymer, Garrett Baker, Rohan Subramani, and Sam Wang
+Author-email: joshuamclymer@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
 # Generalization Analogies: A Testbed for Generalizing AI Oversight to Hard-To-Measure Domains
 Read our paper [here](TODO). Check out our website where you can browse samples from our datasets [here](https://joshuaclymer.github.io/generalization-analogies-website/).
 
@@ -8,7 +21,7 @@ As AI systems become more capable and are deployed in complex environments, it m
 ## Quickstart
 
 This repository contains:
-- Our datasets (`./distributions`) along with pairing specifications (`./distribution_shifts`). Download our datasets [here](https://genies-data.s3.us-east-2.amazonaws.com/genies-datasets.tar) or run the setup command after cloning the repo.
+- Our datasets (`./distributions`) along with pairing specifications (`./distribution_shifts`). 
 - Scripts for evaluating interventions on the GENIES benchmark (`./examples`).
 - Our results (`./results`).
 - Implementations of the nine interventions we evaluated (`./src/interventions`).
@@ -18,7 +31,7 @@ All of the models we fine-tuned with Lora can be found on [huggingface](https://
 **Setup:**
 ```
 conda create --name env python=3.10
-pip install .
+pip install -e .
 python download_model_from_hf.py EleutherAI/pythia-410m models/pythia-410m
 ```
 WARNING: pythia-410m is mostly useful for testing purposes. Most tuning interventions perform poorly with this model.

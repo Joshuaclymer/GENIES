@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: genies-benchmark
+Version: 0.0.1
+Summary: The fig benchmark repository contains datasets and tooling for evaluating the generalization of preferrence models.
+Home-page: https://github.com/Joshuaclymer/GENIES
+Author: Joshua Clymer, Garrett Baker, Rohan Subramani, and Sam Wang
+Author-email: joshuamclymer@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
 # Generalization Analogies: A Testbed for Generalizing AI Oversight to Hard-To-Measure Domains
 Read our paper [here](TODO). Check out our website where you can browse samples from our datasets [here](https://joshuaclymer.github.io/generalization-analogies-website/).
 
