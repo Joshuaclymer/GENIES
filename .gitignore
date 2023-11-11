@@ -1,2 +1,4 @@
 models/
 configs/credentials.json
+build/
+env/
