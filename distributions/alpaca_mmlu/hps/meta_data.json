@@ -1,7 +1,0 @@
-{
-    "id": "alpaca_mmlu",
-    "formats": [
-        "Below is an instruction that describes a task. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Response:\n",
-        "Below is an instruction that describes a task, paired with an input that provides further context. Complete the request to the best of your ability.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n"
-    ]
-}
