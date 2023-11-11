@@ -4,3 +4,4 @@ build/
 env/
 upload_data.py
 genies-datasets.tar
+distributions/
