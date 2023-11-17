@@ -18,6 +18,7 @@ All of the models we fine-tuned with Lora can be found on [huggingface](https://
 **Setup:**
 ```
 conda create --name env python=3.10
+conda activate env
 pip install requests
 pip install fire
 pip install -e .
