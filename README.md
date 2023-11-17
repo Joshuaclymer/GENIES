@@ -19,9 +19,8 @@ All of the models we fine-tuned with Lora can be found on [huggingface](https://
 ```
 conda create --name env python=3.10
 conda activate env
-pip install requests
-pip install fire
 pip install -e .
+python download_data.py
 python download_model_from_hf.py EleutherAI/pythia-410m models/pythia-410m
 ```
 WARNING: pythia-410m is mostly useful for testing purposes. Most tuning interventions perform poorly with this model.
