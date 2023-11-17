@@ -18,6 +18,8 @@ All of the models we fine-tuned with Lora can be found on [huggingface](https://
 **Setup:**
 ```
 conda create --name env python=3.10
+pip install requests
+pip install fire
 pip install .
 python download_model_from_hf.py EleutherAI/pythia-410m models/pythia-410m
 ```
