@@ -17,14 +17,6 @@ if os.path.isfile(requirements_path):
     with open(requirements_path) as f:
         requirements = f.read().splitlines()
 
-class PostInstallCommand(install):
-    """Post-installation for installation mode."""
-    def run(self):
-        print("RUNNING POST INSTALL 1")
-        install.run(self)
-        print("RUNNING POST INSTALL")
-        download_data()
-
 
 setuptools.setup(
     name="genies-benchmark",
@@ -40,9 +32,6 @@ setuptools.setup(
         "License :: MIT License",
         "Operating System :: OS Independent",
     ],
-    cmdclass={
-        'install': PostInstallCommand,
-    },
     python_requires='>=3.10',
     install_requires=requirements,
     packages=find_packages(where='src'),  # Specify 'src' as the root
